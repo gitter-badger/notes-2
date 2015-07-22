@@ -8,7 +8,7 @@ The notes are currently organized into the following categories.
 * [Global Variables](globals.md): global variable declarations.
 * [Structures](structures.md): structure definitions.
 * [Enumerates](enumerates.md): enumerate definitions.
-* [Storm.dll](storm.md): Storm.dll function declarations based on ordinal numbers.
+* [Storm Ordinals](storm.md): Storm.dll function declarations based on ordinal numbers.
 
 ## Public domain
 
