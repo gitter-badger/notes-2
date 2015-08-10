@@ -14,6 +14,13 @@ void SNetDestroy();
 bool __stdcall SNetLeaveGame(uint32_t flags);
 ```
 
+## 252
+
+```c
+// SFileCloseArchive closes the given MPQ archive.
+bool __stdcall SFileCloseArchive(int archive);
+```
+
 ## 352
 
 ```c
