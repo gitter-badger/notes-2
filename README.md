@@ -4,7 +4,7 @@ The aim of this project is to organize and cross-reference a collection of notes
 
 The notes are currently organized into the following categories.
 
-* [Functions](functions.md): function declarations.
+* [Functions](functions/README.md): function declarations.
 * [Global Variables](globals.md): global variable declarations.
 * [Structures](structures.md): structure definitions.
 * [Enumerates](enumerates.md): enumerate definitions.
