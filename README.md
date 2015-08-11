@@ -1,14 +1,15 @@
 # Notes
 
-The aim of this project is to organize and cross-reference a collection of notes related to the inner workings of the Diablo 1 game engine.
+The aim of this project is to organise and cross-reference a collection of notes related to the inner workings of the Diablo 1 game engine.
 
-The notes are currently organized into the following categories.
+The notes are currently organised into the following categories.
 
 * [Functions](functions/README.md): function declarations.
-* [Global Variables](globals.md): global variable declarations.
+* [Global variables (read-only)](rdata/README.md): global variable declarations in the read-only data section.
+* [Global variables](globals.md): global variable declarations.
 * [Structures](structures.md): structure definitions.
 * [Enumerates](enumerates.md): enumerate definitions.
-* [Storm Ordinals](storm.md): Storm.dll function declarations based on ordinal numbers.
+* [Storm ordinals](storm.md): Storm.dll function declarations based on ordinal numbers.
 
 ## Public domain
 

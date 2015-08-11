@@ -4,7 +4,7 @@ Each function has been categorised based on their original source file, as summa
 
 | Source File                     | Start Address | End Address | Progress       |
 |---------------------------------|---------------|-------------|----------------|
-| [_crt.cpp](_crt.md)             | `0x401000`    | `0x401029`  | 0% (0/3)       |
+| _crt.cpp                        | `0x401000`    | `0x401029`  | N/A            |
 | [appfat.cpp](appfat.md)         | `0x40102A`    | `0x401DA3`  | 100% (19/19)   |
 | [automap.cpp](automap.md)       | `0x401DA4`    | `0x40311A`  | 0% (0/16)      |
 | [capture.cpp](capture.md)       | `0x40311B`    | `0x4034D8`  | 0% (0/7)       |
@@ -45,7 +45,7 @@ Each function has been categorised based on their original source file, as summa
 | [mpqapi.cpp](mpqapi.md)         | `0x43AE90`    | `0x43BBA3`  | 0% (0/29)      |
 | [msg.cpp](msg.md)               | `0x43BBA4`    | `0x43F848`  | 0% (0/133)     |
 | [msgchat.cpp](msgchat.md)       | `0x43F849`    | `0x43FAC3`  | 0% (0/18)      |
-| [multi.cpp](multi.md)           | `0x43FAC4`    | `0x440DAD`  | 0% (0/37)      |
+| [multi.cpp](multi.md)           | `0x43FAC4`    | `0x440DAD`  | 0% (0/38)      |
 | [nthread.cpp](nthread.md)       | `0x440DAE`    | `0x44121C`  | 0% (0/14)      |
 | [objects.cpp](objects.md)       | `0x44121D`    | `0x448754`  | 0% (0/131)     |
 | [hero.cpp](hero.md)             | `0x448755`    | `0x448DF4`  | 0% (0/7)       |
@@ -72,10 +72,12 @@ Each function has been categorised based on their original source file, as summa
 | [trigs.cpp](trigs.md)           | `0x4619A7`    | `0x462C6C`  | 0% (0/21)      |
 | [wave.cpp](wave.md)             | `0x462C6D`    | `0x46305F`  | 0% (0/18)      |
 | [world.cpp](world.md)           | `0x463060`    | `0x469719`  | 0% (0/7)       |
+| _crt.cpp                        | `0x46971A`    | `0x47746F`  | N/A            |
+| pkware.cpp                      | `0x477470`    | `0x478FFF`  | N/A            |
 
 ## Notes
 
-The mapping between source file names and address ranges has been inferred by cross-referencing information from the v1.09b release of Diablo 1 against the [debug release](http://diablo1.se/notes/debug.html). A majority of the original source file names (55/67) were discovered from [assert strings](http://diablo1.se/notes/debug.html#Assert Strings) in the debug release. The remaining 12 source file names have been inferred by categorizing the behaviour of their respective functions, and by exploiting the fact that the source files have been linked together in alphabetical order.
+The mapping between source file names and address ranges has been inferred by cross-referencing information from the v1.09b release of Diablo 1 against the [debug release](http://diablo1.se/notes/debug.html). A majority of the original source file names (55/67) were discovered from [assert strings](http://diablo1.se/notes/debug.html#Assert Strings) in the debug release. The remaining 12 source file names have been inferred by categorising the behaviour of their respective functions, and by exploiting the fact that the source files have been linked together in alphabetical order.
 
 The following source file names are known to be correct based on assert strings in the debug release: `appfat.cpp`, `automap.cpp`, `capture.cpp`, `codec.cpp`, `control.cpp`, `cursor.cpp`, `dead.cpp`, `debug.cpp`, `diablo.cpp`, `doom.cpp`, `drlg_l1.cpp`, `drlg_l2.cpp`, `drlg_l3.cpp`, `drlg_l4.cpp`, `dthread.cpp`, `dx.cpp`, `effects.cpp`, `encrypt.cpp`, `engine.cpp`, `error.cpp`, `gamemenu.cpp`, `gendung.cpp`, `gmenu.cpp`, `init.cpp`, `interfac.cpp`, `inv.cpp`, `items.cpp`, `lighting.cpp`, `loadsave.cpp`, `minitext.cpp`, `missiles.cpp`, `monster.cpp`, `movie.cpp`, `mpqapi.cpp`, `msg.cpp`, `multi.cpp`, `nthread.cpp`, `objects.cpp`, `palette.cpp`, `pfile.cpp`, `player.cpp`, `plrmsg.cpp`, `portal.cpp`, `quests.cpp`, `scrollrt.cpp`, `setmaps.cpp`, `sound.cpp`, `stores.cpp`, `sync.cpp`, `themes.cpp`, `tmsg.cpp`, `town.cpp`, `towners.cpp`, `trigs.cpp` and `wave.cpp`.
 
@@ -83,4 +85,6 @@ The following source file names are believed to be correct based on educated gue
 
 The following source file names are most likely incorrect, but they are the result of best efforts attempts at identifying source file names which describe the behaviour of their respective functions while satisfying to the alphabetic linking order constraint: `msgchat.cpp`, `restricted.cpp`, `track.cpp` and `world.cpp`. *Any suggestions and ideas to further improve these names would be hugely appreciated!*
 
-The following source file name is a pseudo-file name used for functions related to the C++ run-time: `_crt.cpp`.
+The `_crt.cpp` source file name is a pseudo-file name used for functions related to the C and C++ run-time.
+
+The `pkware.cpp` source file contains the PKWARE Data Compression Library.
