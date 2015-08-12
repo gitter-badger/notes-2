@@ -1,4 +1,4 @@
-# Read-only Data
+# Global Variables (read-only)
 
 Each global variable in the read-only data section has been categorised based on their original source file, as summarised by the table below.
 
