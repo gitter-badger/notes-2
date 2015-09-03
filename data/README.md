@@ -1,0 +1,74 @@
+# Global Variables
+
+Each global variable in the data section has been categorised based on their original source file, as summarised by the table below.
+
+| Source File                     | Start Address | End Address |
+|---------------------------------|---------------|-------------|
+| _crt.cpp                        | `0x483000`    | `0x4830B7`  |
+| [appfat.cpp](appfat.md)         | `0x4830B8`    | `0x483B0F`  |
+| [automap.cpp](automap.md)       | `0x483B10`    | `0x483B8F`  |
+| [codec.cpp](codec.md)           | `0x483B90`    | `0x483BAB`  |
+| pkware.cpp                      | `0x483BAC`    | `0x483C2B`  |
+| [control.cpp](control.md)       | `0x483C2C`    | `0x48424F`  |
+| [cursor.cpp](cursor.md)         | `0x484250`    | `0x4842A7`  |
+| [debug.cpp](debug.md)           | `0x4842A8`    | `0x4842E3`  |
+| pkware.cpp                      | `0x4842E4`    | `0x484363`  |
+| [diablo.cpp](diablo.md)         | `0x484364`    | `0x4846AF`  |
+| [doom.cpp](doom.md)             | `0x4846B0`    | `0x4846F7`  |
+| pkware.cpp                      | `0x4846F8`    | `0x484777`  |
+| [drlg_l1.cpp](drlg_l1.md)       | `0x484778`    | `0x4847D7`  |
+| pkware.cpp                      | `0x4847D8`    | `0x484857`  |
+| [drlg_l2.cpp](drlg_l2.md)       | `0x484858`    | `0x48613B`  |
+| pkware.cpp                      | `0x48613C`    | `0x4861BB`  |
+| [drlg_l4.cpp](drlg_l4.md)       | `0x4861BC`    | `0x4862AF`  |
+| [dthread.cpp](dthread.md)       | `0x4862B0`    | `0x4862F3`  |
+| [dx.cpp](dx.md)                 | `0x4862F4`    | `0x48636F`  |
+| [effects.cpp](effects.md)       | `0x486370`    | `0x48D6EF`  |
+| pkware.cpp                      | `0x48D6F0`    | `0x48D76F`  |
+| [engine.cpp](engine.md)         | `0x48D770`    | `0x48D7C3`  |
+| [error.cpp](error.md)           | `0x48D7C4`    | `0x48DE7F`  |
+| [exception.cpp](exception.md)   | `0x48DE80`    | `0x48E1B7`  |
+| [gamemenu.cpp](gamemenu.md)     | `0x48E1B8`    | `0x48E357`  |
+| [gendung.cpp](gendung.md)       | `0x48E358`    | `0x48E3E7`  |
+| [gmenu.cpp](gmenu.md)           | `0x48E3E8`    | `0x48E44B`  |
+| [help.cpp](help.md)             | `0x48E44C`    | `0x48E487`  |
+| [init.cpp](init.md)             | `0x48E488`    | `0x48E80F`  |
+| [interfac.cpp](interfac.md)     | `0x48E810`    | `0x48E9A7`  |
+| [inv.cpp](inv.md)               | `0x48E9A8`    | `0x48EA8B`  |
+| [items.cpp](items.md)           | `0x48EA8C`    | `0x49387B`  |
+| [lighting.cpp](lighting.md)     | `0x49387C`    | `0x4947BF`  |
+| [loadsave.cpp](loadsave.md)     | `0x4947C0`    | `0x4947D3`  |
+| [log.cpp](log.md)               | `0x4947D4`    | `0x494897`  |
+| [mainmenu.cpp](mainmenu.md)     | `0x494898`    | `0x49491F`  |
+| [minitext.cpp](minitext.md)     | `0x494920`    | `0x494947`  |
+| [missiles.cpp](missiles.md)     | `0x494948`    | `0x497E07`  |
+| [monster.cpp](monster.md)       | `0x497E08`    | `0x49EEF7`  |
+| [mpqapi.cpp](mpqapi.md)         | `0x49EEF8`    | `0x49EFA7`  |
+| [msg.cpp](msg.md)               | `0x49EFA8`    | `0x49F06F`  |
+| _crt.cpp                        | `0x49F070`    | `0x49F08B`  |
+| [multi.cpp](multi.md)           | `0x49F08C`    | `0x49F203`  |
+| [nthread.cpp](nthread.md)       | `0x49F204`    | `0x49F287`  |
+| [objects.cpp](objects.md)       | `0x49F288`    | `0x4A0D07`  |
+| [palette.cpp](palette.md)       | `0x4A0D08`    | `0x4A0D6F`  |
+| [path.cpp](path.md)             | `0x4A0D70`    | `0x4A0D7B`  |
+| [pfile.cpp](pfile.md)           | `0x4A0D7C`    | `0x4A0EF7`  |
+| [player.cpp](player.md)         | `0x4A0EF8`    | `0x4A1AAB`  |
+| [plrmsg.cpp](plrmsg.md)         | `0x4A1AAC`    | `0x4A1ABB`  |
+| [portal.cpp](portal.md)         | `0x4A1ABC`    | `0x4A1ADF`  |
+| [quests.cpp](quests.md)         | `0x4A1AE0`    | `0x4A1E07`  |
+| [restricted.cpp](restricted.md) | `0x4A1E08`    | `0x4A1E3F`  |
+| pkware.cpp                      | `0x4A1E40`    | `0x4A1EBF`  |
+| [scrollrt.cpp](scrollrt.md)     | `0x4A1EC0`    | `0x4A208B`  |
+| [setmaps.cpp](setmaps.md)       | `0x4A208C`    | `0x4A22D3`  |
+| [sound.cpp](sound.md)           | `0x4A22D4`    | `0x4A23C7`  |
+| [spell.cpp](spell.md)           | `0x4A23C8`    | `0x4A2D5B`  |
+| [stores.cpp](stores.md)         | `0x4A2D5C`    | `0x4A34F7`  |
+| [sync.cpp](sync.md)             | `0x4A34F8`    | `0x4A350B`  |
+| [stores.cpp](stores.md)         | `0x4A350C`    | `0x4B2583`  |
+| [themes.cpp](themes.md)         | `0x4B2584`    | `0x4B26A3`  |
+| [town.cpp](town.md)             | `0x4B26A4`    | `0x4B2723`  |
+| [towners.cpp](towners.md)       | `0x4B2724`    | `0x4B2F77`  |
+| [trigs.cpp](trigs.md)           | `0x4B2F78`    | `0x4B325B`  |
+| [world.cpp](world.md)           | `0x4B325C`    | `0x4B354F`  |
+| _crt.cpp                        | `0x4B3550`    | `0x4B701F`  |
+| pkware.cpp                      | `0x4B7020`    | `0x4B792F`  |
