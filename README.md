@@ -6,7 +6,7 @@ The notes are currently organised into the following categories.
 
 * [Functions](functions/README.md): function declarations.
 * [Global variables (read-only)](rdata/README.md): global variable declarations in the read-only data section.
-* [Global variables](globals.md): global variable declarations.
+* [Global variables](data/README.md): global variable declarations in the read-write data segment.
 * [Structures](structures.md): structure definitions.
 * [Enumerates](enumerates.md): enumerate definitions.
 * [Storm ordinals](storm.md): Storm.dll function declarations based on ordinal numbers.
