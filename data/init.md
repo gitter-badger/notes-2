@@ -1,6 +1,8 @@
 # init.cpp
 
-### 634CA4
+## 0x634CA4
+
+### screensaver_enabled_backup
 
 ```c
 // screensaver_enabled_backup stores the previous state of the screensaver.
