@@ -1,11 +1,25 @@
 # Storm Ordinals
 
+## 101
+
 ## 102
 
 ```c
 // SNetDestroy terminates the network provider.
 void SNetDestroy();
 ```
+
+## 106
+
+## 107
+
+## 110
+
+## 114
+
+## 115
+
+## 117
 
 ## 119
 
@@ -14,6 +28,24 @@ void SNetDestroy();
 bool __stdcall SNetLeaveGame(uint32_t flags);
 ```
 
+## 120
+
+## 121
+
+## 122
+
+## 123
+
+## 127
+
+## 128
+
+## 129
+
+## 131
+
+## 134
+
 ## 252
 
 ```c
@@ -21,12 +53,54 @@ bool __stdcall SNetLeaveGame(uint32_t flags);
 bool __stdcall SFileCloseArchive(int archive);
 ```
 
+## 253
+
+## 255
+
+## 256
+
+## 257
+
+## 258
+
+## 260
+
+## 261
+
+## 264
+
+## 265
+
+## 266
+
+## 267
+
+## 268
+
+## 269
+
+## 270
+
+## 271
+
+## 301
+
+## 344
+
+## 346
+
+## 351
+
 ## 352
 
 ```c
 // SDrawMessageBox draws a message box with the given text and caption.
 void __stdcall SDrawMessageBox(char *text, char *caption, uint32_t type);
 ```
+
+## 354
+
+## 357
 
 ## 401
 
@@ -41,3 +115,33 @@ void * __stdcall SMemAlloc(int size, char *log_file_path, int log_line_nr, uint3
 // SMemFree frees the allocated memory of the given pointer.
 void __stdcall SMemFree(void *ptr, char *log_file_path, int log_line_nr, uint32_t flags);
 ```
+
+## 421
+
+## 422
+
+## 423
+
+## 424
+
+## 425
+
+## 426
+
+## 451
+
+## 453
+
+## 454
+
+## 456
+
+## 458
+
+## 462
+
+## 463
+
+## 465
+
+## 501
