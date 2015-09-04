@@ -4,5 +4,5 @@
 
 ```c
 // automap_enabled specifies whether the automap is enabled.
-bool automap_enabled;
+bool32_t automap_enabled;
 ```

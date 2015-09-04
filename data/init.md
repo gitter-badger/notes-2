@@ -4,5 +4,5 @@
 
 ```c
 // screensaver_enabled_backup stores the previous state of the screensaver.
-bool screensaver_enabled_backup;
+bool8_t screensaver_enabled_backup;
 ```

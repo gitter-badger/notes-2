@@ -11,7 +11,7 @@ char error_buf[256];
 
 ```c
 // terminating specifies whether the game is terminating after a fatal application error.
-bool terminating;
+bool32_t terminating;
 ```
 
 ### 4B7A38
