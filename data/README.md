@@ -1,4 +1,4 @@
-# Global Variables
+# Global Variables (read-write)
 
 Each global variable in the data section has been categorised based on their original source file, as summarised by the table below.
 
