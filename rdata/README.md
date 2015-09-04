@@ -5,7 +5,7 @@ Each global variable in the read-only data section has been categorised based on
 | Source File                     | Start Address | End Address | Progress                 |
 |---------------------------------|---------------|-------------|--------------------------|
 | _crt.cpp                        | `0x479400`    | `0x479403`  | N/A                      |
-| [capture.cpp](capture.md)       | `0x479404`    | `0x479423`  | 0% (0/32 bytes)          |
+| [capture.cpp](capture.md)       | `0x479404`    | `0x479423`  | 100% (32/32 bytes)       |
 | [control.cpp](control.md)       | `0x479424`    | `0x479657`  | 0% (0/564 bytes)         |
 | [cursor.cpp](cursor.md)         | `0x479658`    | `0x479BF7`  | 0% (0/1440 bytes)        |
 | [diablo.cpp](diablo.md)         | `0x479BF8`    | `0x479C23`  | 0% (0/44 bytes)          |
