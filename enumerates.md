@@ -16,3 +16,14 @@ typedef enum {
     TEMPLATE_ID_READ_ONLY_DIRECTORY_ERROR  = 114,
 } template_id;
 ```
+
+## text_color
+
+```c
+typedef enum {
+    TEXT_COLOR_GREY = 0,
+    TEXT_COLOR_BLUE = 1,
+    TEXT_COLOR_RED  = 2,
+    TEXT_COLOR_GOLD = 3,
+} text_color;
+```
