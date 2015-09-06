@@ -2,12 +2,18 @@
 
 ## 0x479404
 
+### str_479404
+
 ```c
-const char str_479404[13] = "screen??.PCX";
+// "screen??.PCX"
+const char str_479404[13];
 ```
 
 ## 0x479414
 
+### str_479414
+
 ```c
-const char str_479414[15] = "screen%02d.PCX";
+// "screen%02d.PCX"
+const char str_479414[15];
 ```
