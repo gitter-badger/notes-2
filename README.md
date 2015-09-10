@@ -12,6 +12,15 @@ The notes are currently organized into the following categories.
 * [Enumerates](enumerates.md): enumerate definitions.
 * [Storm ordinals](storm.md): Storm.dll function declarations based on ordinal numbers.
 
+## Progress
+
+| Category                                          | Progess                        |
+|---------------------------------------------------|--------------------------------|
+| [Functions](functions/README.md)                  | 1% (22/1954 functions)         |
+| [Global variables (read-only)](rdata/README.md)   | 18% (5248/28372 bytes)         |
+| [Global variables (read-write)](data/README.md)   | 0% (294/196860 bytes)          |
+| [Global variables (uninitialized)](bss/README.md) | 0% (0/2048516 bytes)           |
+
 ## Contributing
 
 Anyone interested in contributing to the project may do so in whichever way they desire. This may include:
