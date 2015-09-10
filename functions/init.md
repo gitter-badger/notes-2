@@ -13,7 +13,8 @@
 ## 0x41AA2C
 
 ```c
-// init_disable_screensaver either disables or restores the previous state of the screensaver, depending on the given boolean value.
+// init_disable_screensaver either disables or restores the previous state of
+// the screensaver, depending on the given boolean value.
 void __fastcall init_disable_screensaver(bool disable);
 ```
 

@@ -105,7 +105,8 @@ void __stdcall SDrawMessageBox(char *text, char *caption, uint32_t type);
 ## 401
 
 ```c
-// SMemAlloc allocates a memory region of the given size and returns a pointer to the allocated memory.
+// SMemAlloc allocates a memory region of the given size and returns a pointer
+// to the allocated memory.
 void * __stdcall SMemAlloc(int size, char *log_file_path, int log_line_nr, uint32_t flags);
 ```
 

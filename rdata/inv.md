@@ -5,7 +5,8 @@
 ### inv_screen_pos
 
 ```c
-// inv_screen_pos maps from inventory slot to screen position. The inventory slots are arranged as follows [1]:
+// inv_screen_pos maps from inventory slot to screen position. The inventory
+// slots are arranged as follows [1]:
 //
 //                             00 01
 //                             02 03   06
