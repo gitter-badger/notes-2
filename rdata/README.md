@@ -21,7 +21,7 @@ Each global variable in the read-only data section has been categorised based on
 | [help.cpp](help.md)             | `0x47A544`    | `0x47AE1F`  | 100% (2268/2268 bytes)   |
 | [init.cpp](init.md)             | `0x47AE20`    | `0x47AE3F`  | 100% (32/32 bytes)       |
 | [interfac.cpp](interfac.md)     | `0x47AE40`    | `0x47AE5F`  | 12% (4/32 bytes)         |
-| [inv.cpp](inv.md)               | `0x47AE60`    | `0x47B0A7`  | 0% (0/584 bytes)         |
+| [inv.cpp](inv.md)               | `0x47AE60`    | `0x47B0A7`  | 100% (584/584 bytes)     |
 | [items.cpp](items.md)           | `0x47B0A8`    | `0x47F047`  | 0% (0/16288 bytes)       |
 | [lighting.cpp](lighting.md)     | `0x47F048`    | `0x47F06F`  | 0% (0/40 bytes)          |
 | [log.cpp](log.md)               | `0x47F070`    | `0x47F073`  | 100% (4/4 bytes)         |
