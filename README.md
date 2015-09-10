@@ -21,6 +21,8 @@ The notes are currently organized into the following categories.
 | [Global variables (read-write)](data/README.md)   | 0% (294/196860 bytes)          |
 | [Global variables (uninitialized)](bss/README.md) | 0% (0/2048516 bytes)           |
 
+The README of each sub-project tracks the progress for each of its source files.
+
 ## Contributing
 
 Anyone interested in contributing to the project may do so in whichever way they desire. This may include:
@@ -30,8 +32,6 @@ Anyone interested in contributing to the project may do so in whichever way they
 3. Improve the existing notes
 4. Add documentation for new function declarations, global variable declarations, structure definitions or enumerate definitions of the Diablo 1 game engine.
 5. ...
-
-The README of each sub-project tracks the progress for each of its source files.
 
 ## Public domain
 
