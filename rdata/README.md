@@ -26,7 +26,7 @@ Each global variable in the read-only data section has been categorised based on
 | [lighting.cpp](lighting.md)     | `0x47F048`    | `0x47F06F`  | 100% (40/40 bytes)       |
 | [log.cpp](log.md)               | `0x47F070`    | `0x47F073`  | 100% (4/4 bytes)         |
 | [mainmenu.cpp](mainmenu.md)     | `0x47F074`    | `0x47F077`  | 100% (4/4 bytes)         |
-| [minitext.cpp](minitext.md)     | `0x47F078`    | `0x47F12F`  | 0% (0/184 bytes)         |
+| [minitext.cpp](minitext.md)     | `0x47F078`    | `0x47F12F`  | 100% (184/184 bytes)     |
 | [monster.cpp](monster.md)       | `0x47F130`    | `0x47F143`  | 20% (4/20 bytes)         |
 | [movie.cpp](movie.md)           | `0x47F144`    | `0x47F147`  | 100% (4/4 bytes)         |
 | [mpqapi.cpp](mpqapi.md)         | `0x47F148`    | `0x47F14B`  | 100% (4/4 bytes)         |

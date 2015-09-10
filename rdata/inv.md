@@ -1,6 +1,6 @@
 # inv.cpp
 
-## 47AE60
+## 0x47AE60
 
 ### inv_screen_pos
 
