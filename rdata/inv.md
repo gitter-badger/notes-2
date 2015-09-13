@@ -24,6 +24,6 @@
 //
 //    65 66 67 68 69 70 71 72
 //
-// [1]: https://raw.githubusercontent.com/sanctuary/screenshots/master/inventory.png
+// [1]: https://raw.githubusercontent.com/sanctuary/graphics/master/inventory.png
 Point inv_screen_pos[73];
 ```
