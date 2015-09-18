@@ -63,11 +63,21 @@ bool __stdcall SFileCloseArchive(int archive);
 
 ## 258
 
+```c
+// SFileDdaGetPos retrieves the current and the end position of the data stream.
+bool32_t __stdcall SFileDdaGetPos(int stream, int *cur_pos, int *end_pos);
+```
+
 ## 260
 
 ## 261
 
 ## 264
+
+```c
+// SFileGetFileArchive retrieves a handle to the MPQ archive of the given file.
+bool32_t __stdcall SFileGetFileArchive(int file, int *archive);
+```
 
 ## 265
 
@@ -114,7 +124,7 @@ void * __stdcall SMemAlloc(int size, char *log_file_path, int log_line_nr, uint3
 
 ```c
 // SMemFree frees the allocated memory of the given pointer.
-void __stdcall SMemFree(void *ptr, char *log_file_path, int log_line_nr, uint32_t flags);
+bool32_t __stdcall SMemFree(void *ptr, char *log_file_path, int log_line_nr, uint32_t flags);
 ```
 
 ## 421
