@@ -21,7 +21,7 @@ Each function has been categorised based on their original source file, as summa
 | [drlg_l4.cpp](drlg_l4.md)       | `0x412655`    | `0x415097`  | 0% (0/35 functions)      |
 | [dthread.cpp](dthread.md)       | `0x415098`    | `0x415361`  | 0% (0/11 functions)      |
 | [dx.cpp](dx.md)                 | `0x415362`    | `0x4158A8`  | 0% (0/17 functions)      |
-| [effects.cpp](effects.md)       | `0x4158A9`    | `0x415F42`  | 0% (0/20 functions)      |
+| [effects.cpp](effects.md)       | `0x4158A9`    | `0x415F42`  | 0% (0/21 functions)      |
 | [encrypt.cpp](encrypt.md)       | `0x415F43`    | `0x4161FB`  | 0% (0/8 functions)       |
 | [engine.cpp](engine.md)         | `0x4161FC`    | `0x41804D`  | 1% (1/57 functions)      |
 | [error.cpp](error.md)           | `0x41804E`    | `0x4182AC`  | 0% (0/3 functions)       |
