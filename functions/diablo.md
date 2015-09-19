@@ -26,6 +26,14 @@
 
 ## 0x408DF4
 
+### diablo_reload_process
+
+```c
+// diablo_reload_process reloads the diablo.exe process in order to obstruct
+// debugging attempts.
+void __fastcall diablo_reload_process(HMODULE hModule);
+```
+
 ## 0x408FCF
 
 ## 0x40905E
