@@ -77,9 +77,30 @@ bool __stdcall SNetLeaveGame(uint32_t flags);
 
 ## 120
 
+### SNetPerformUpgrade
+
+```c
+// SNetPerformUpgrade performs a network upgrade of the game.
+bool32_t __stdcall SNetPerformUpgrade(int *status);
+```
+
 ## 121
 
+### SNetReceiveMessage
+
+```c
+// SNetReceiveMessage receives a network message from a connected peer.
+bool32_t __stdcall SNetReceiveMessage(int *sender_player_num, Packet **pkt, int *len);
+```
+
 ## 122
+
+### SNetReceiveTurns
+
+```c
+// SNetReceiveTurns receives turns and player states from all connected peers.
+bool32_t __stdcall SNetReceiveTurns(int player_num, int nplayers, void *turn_table, int *turn_table_len, uint32_t *player_state);
+```
 
 ## 123
 
