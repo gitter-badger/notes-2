@@ -13,15 +13,58 @@ void SNetDestroy();
 
 ## 106
 
+### SNetDropPlayer
+
+```c
+// SNetDropPlayer drops the given player from the current game.
+bool32_t __stdcall SNetDropPlayer(int player_num, uint32_t flags);
+```
+
 ## 107
+
+### SNetGetGameInfo
+
+```c
+// SNetGameInfo retrieves game information of the given type.
+bool32_t __stdcall SNetGetGameInfo(game_info type, char *dst, int size, int *len);
+```
 
 ## 110
 
+### SNetGetOwnerTurnsWaiting
+
+```c
+// SNetGetOwnerTurnsWaiting retrieves the number of anticipated turns.
+bool32_t __stdcall SNetGetOwnerTurnsWaiting(int *turns);
+```
+
 ## 114
+
+### SNetGetProviderCaps
+
+```c
+// SNetGetProviderCaps retrieves network provider capacity information.
+bool32_t __stdcall SNetGetProviderCaps(Caps *caps);
+```
 
 ## 115
 
+### SNetGetTurnsInTransit
+
+```c
+// SNetGetTurnsInTransit retrives the number of turns queued for sending over
+// the network.
+bool32_t __stdcall SNetGetTurnsInTransit(int *turns);
+```
+
 ## 117
+
+### SNetInitializeProvider
+
+```c
+// SNetInitializeProvider initializes the network provider.
+bool32_t __stdcall SNetInitializeProvider(uint32_t id, ClientInfo *client_info, UserInfo *user_info, UiInfo *ui_info, FileInfo *file_info);
+```
 
 ## 119
 
