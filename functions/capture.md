@@ -2,6 +2,13 @@
 
 ## 0x40311B
 
+```c
+// capture_screenshot captures a screenshot and stores it within the game
+// directory as "screenXX.pcx". While the screenshot is being taken, the game is
+// paused temporarily and the screen goes red.
+void capture_screenshot();
+```
+
 ## 0x403204
 
 ## 0x403294
