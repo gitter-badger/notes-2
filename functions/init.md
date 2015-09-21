@@ -8,9 +8,27 @@
 
 ## 0x41A84C
 
+### init_run_office_from_start_menu
+
+```c
+// init_run_office_from_start_menu runs Microsoft Office from the Start Menu if
+// a process with the "MOM Parent" class has been identified and killed.
+void init_run_office_from_start_menu();
+```
+
 ## 0x41A8B9
 
+### init_run_office
+
+```c
+// init_run_office runs Microsoft Office if there exists a shortcut to it from
+// within the given directory.
+void __fastcall init_run_office(char *dir);
+```
+
 ## 0x41AA2C
+
+### init_disable_screensaver
 
 ```c
 // init_disable_screensaver either disables or restores the previous state of
@@ -22,9 +40,32 @@ void __fastcall init_disable_screensaver(bool disable);
 
 ## 0x41AC00
 
+### init_kill_mom_parent
+
+```c
+// init_kill_mom_parent kills the "MOM Parent" process if present.
+void init_kill_mom_parent();
+```
+
 ## 0x41AC21
 
+### init_find_mom_parent
+
+```c
+// init_find_mom_parent attempts to locate the "MOM Parent" process and return
+// its window handle.
+HWND init_find_mom_parent();
+```
+
 ## 0x41AC71
+
+### init_await_mom_parent_exit
+
+```c
+// init_await_mom_parent_exit waits up to 4 seconds for the "MOM Parent" process
+// to exit.
+void init_await_mom_parent_exit();
+```
 
 ## 0x41ACA1
 

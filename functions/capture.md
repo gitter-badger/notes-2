@@ -5,7 +5,7 @@
 ```c
 // capture_screenshot captures a screenshot and stores it within the game
 // directory as "screenXX.pcx". While the screenshot is being taken, the game is
-// paused temporarily and the screen goes red.
+// paused temporarily as indicated by the red screen.
 void capture_screenshot();
 ```
 
