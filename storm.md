@@ -104,15 +104,59 @@ bool32_t __stdcall SNetReceiveTurns(int player_num, int nplayers, void *turn_tab
 
 ## 123
 
+### SNetRegisterEventHandler
+
+```c
+// SNetRegisterEventHandler registers the event handler for the given event
+// type.
+bool32_t __stdcall SNetRegisterEventHandler(event_type event_type, void (__stdcall *event_handler)(Event *event));
+```
+
 ## 127
+
+### SNetSendMessage
+
+```c
+// SNetSendMessage sends a network message to the given player.
+bool32_t __stdcall SNetSendMessage(int player_num, Packet *pkt, int len);
+```
 
 ## 128
 
+### SNetSendTurn
+
+```c
+// SNetSendTurn sends the given turn to all connected peers.
+bool32_t __stdcall SNetSendTurn(uint32_t *turn, int len);
+```
+
 ## 129
+
+### SNetSetBasePlayer
+
+```c
+// SNetSetBasePlayer sets the base player number of the network provider.
+bool32_t __stdcall SNetSetBasePlayer(int base_player_num);
+```
 
 ## 131
 
+### SNetUnregisterEventHandler
+
+```c
+// SNetUnregisterEventHandler unregisters the event handler of the given event
+// type.
+bool32_t __stdcall SNetUnregisterEventHandler(event_type event_type, void (__stdcall *event_handler)(Event *event));
+```
+
 ## 134
+
+### SNetSendServerChatCommand
+
+```c
+// SNetSendServerChatCommand sends a chat command to the server.
+int __stdcall SNetSendServerChatCommand(char *command);
+```
 
 ## 252
 
@@ -124,6 +168,13 @@ bool __stdcall SFileCloseArchive(int archive);
 ```
 
 ## 253
+
+### SFileCloseFile
+
+```c
+// SFileCloseFile closes the given file.
+bool32_t __stdcall SFileCloseFile(int file);
+```
 
 ## 255
 
@@ -171,9 +222,23 @@ bool32_t __stdcall SFileGetFileArchive(int file, int *archive);
 
 ## 344
 
+### SDrawDestroy
+
+```c
+// SDrawDestroy terminates the renderer.
+void SDrawDestroy();
+```
+
 ## 346
 
 ## 351
+
+### SDrawManualInitialize
+
+```c
+// SDrawManualInitialize initializes the renderer.
+bool32_t __stdcall SDrawManualInitialize(HWND hWnd, IDirectDraw *DD, IDirectDrawSurface *DDS_primary, IDirectDrawSurface *DDS_2, IDirectDrawSurface *DDS_3, IDirectDrawSurface *DDS_back, IDirectDrawPalette *DDP, HPALETTE hPalette);
+```
 
 ## 352
 
@@ -213,11 +278,25 @@ bool32_t __stdcall SMemFree(void *ptr, char *log_file_path, int log_line_nr, uin
 
 ## 423
 
+### SRegLoadValue
+
+```c
+// SRegLoadValue loads value from the given registry key.
+bool32_t __stdcall SRegLoadValue(char *subkey, char *value_name, uint32_t flags, int *value);
+```
+
 ## 424
 
 ## 425
 
 ## 426
+
+### SRegSaveValue
+
+```c
+// SRegSaveValue saves value to the given registry key.
+bool32_t __stdcall SRegSaveValue(char *subkey, char *value_name, uint32_t flags, int32_t value);
+```
 
 ## 451
 
@@ -230,6 +309,13 @@ bool32_t __stdcall SMemFree(void *ptr, char *log_file_path, int log_line_nr, uin
 ## 458
 
 ## 462
+
+### SErrGetErrorStr
+
+```c
+// SErrGetErrorStr retrives the error string of the given error code.
+bool32_t __stdcall SErrGetErrorStr(uint32_t error_code, char *dst, int size);
+```
 
 ## 463
 

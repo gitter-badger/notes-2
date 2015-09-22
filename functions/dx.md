@@ -18,6 +18,13 @@
 
 ## 0x4155C2
 
+### dx_create_primary_surface
+
+```c
+// dx_create_primary_surface creates the primary DirectDraw surface.
+void dx_create_primary_surface();
+```
+
 ## 0x41561A
 
 ## 0x415695
