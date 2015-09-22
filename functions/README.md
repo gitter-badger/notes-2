@@ -44,7 +44,7 @@ Each function has been categorised based on their original source file, as summa
 | [movie.cpp](movie.md)           | `0x43AD33`    | `0x43AE8F`  | 0% (0/4 functions)       |
 | [mpqapi.cpp](mpqapi.md)         | `0x43AE90`    | `0x43BBA3`  | 0% (0/29 functions)      |
 | [msg.cpp](msg.md)               | `0x43BBA4`    | `0x43F848`  | 0% (0/133 functions)     |
-| [msgchat.cpp](msgchat.md)       | `0x43F849`    | `0x43FAC3`  | 0% (0/18 functions)      |
+| [msgcmd.cpp](msgcmd.md)         | `0x43F849`    | `0x43FAC3`  | 0% (0/18 functions)      |
 | [multi.cpp](multi.md)           | `0x43FAC4`    | `0x440DAD`  | 0% (0/38 functions)      |
 | [nthread.cpp](nthread.md)       | `0x440DAE`    | `0x44121C`  | 0% (0/15 functions)      |
 | [objects.cpp](objects.md)       | `0x44121D`    | `0x448754`  | 0% (0/131 functions)     |
@@ -83,7 +83,7 @@ The following source file names are known to be correct based on assert strings 
 
 The following source file names are believed to be correct based on educated guesses: `exception.cpp`, `help.cpp`, `log.cpp`, `mainmenu.cpp`, `hero.cpp`, `path.cpp`, `sha1.cpp` and `spell.cpp`.
 
-The following source file names are most likely incorrect, but they are the result of best efforts attempts at identifying source file names which describe the behaviour of their respective functions while satisfying to the alphabetic linking order constraint: `msgchat.cpp`, `restricted.cpp`, `track.cpp` and `world.cpp`. *Any suggestions and ideas to further improve these names would be hugely appreciated!*
+The following source file names are most likely incorrect, but they are the result of best efforts attempts at identifying source file names which describe the behaviour of their respective functions while satisfying to the alphabetic linking order constraint: `msgcmd.cpp`, `restricted.cpp`, `track.cpp` and `world.cpp`. *Any suggestions and ideas to further improve these names would be hugely appreciated!*
 
 The `_crt.cpp` source file name is a pseudo-file name used for functions related to the C and C++ run-time.
 

@@ -41,7 +41,7 @@ Each global variable in the uninitialized data section has been categorised base
 | [movie.cpp](movie.md)           | `0x659AF4`    | `0x659AFF`  | 0% (0/12 bytes)              |
 | [mpqapi.cpp](mpqapi.md)         | `0x659B00`    | `0x65AB17`  | 0% (0/4120 bytes)            |
 | [msg.cpp](msg.md)               | `0x65AB18`    | `0x67619F`  | 0% (0/112264 bytes)          |
-| [msgchat.cpp](msgchat.md)       | `0x6761A0`    | `0x6761B7`  | 0% (0/24 bytes)              |
+| [msgcmd.cpp](msgcmd.md)         | `0x6761A0`    | `0x6761B7`  | 0% (0/24 bytes)              |
 | [multi.cpp](multi.md)           | `0x6761B8`    | `0x6796FF`  | 0% (0/13640 bytes)           |
 | [nthread.cpp](nthread.md)       | `0x679700`    | `0x679767`  | 0% (0/104 bytes)             |
 | [objects.cpp](objects.md)       | `0x679768`    | `0x67D7C7`  | 0% (0/16480 bytes)           |
