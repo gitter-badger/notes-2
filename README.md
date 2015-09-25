@@ -34,6 +34,10 @@ Anyone interested in contributing to the project may do so in whichever way they
 4. Add documentation for new function declarations, global variable declarations, structure definitions or enumerate definitions of the Diablo 1 game engine.
 5. ...
 
+## Credits
+
+None of this work would have been possible without [Jarulf's Guide to Diablo and Hellfire](http://www.lurkerlounge.com/diablo/jarulf/jarulf162.pdf), one of few truly amazing resources on the Internet.
+
 ## Public domain
 
 The source code and any original content of this repository is hereby released into the [public domain].
