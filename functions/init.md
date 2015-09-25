@@ -73,9 +73,25 @@ void init_await_mom_parent_exit();
 
 ## 0x41AF22
 
+### init_strip_trailing_slash
+
+```c
+// init_trim_trailing_slash removes up to one trailing slash characters from
+// path.
+char *__fastcall init_strip_trailing_slash(char *path);
+```
+
 ## 0x41AF3A
 
 ## 0x41AFCE
+
+### init_get_file_info
+
+```c
+// init_get_file_info retrieves the game path and version number from the
+// executable.
+void init_get_file_info();
+```
 
 ## 0x41B06C
 

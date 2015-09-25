@@ -70,6 +70,8 @@
 
 ## 0x417577
 
+### engine_init_mem_mutex
+
 ```c
 // engine_init_mem_mutex initializes the memory mutex.
 void engine_init_mem_mutex();

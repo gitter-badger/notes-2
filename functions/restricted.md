@@ -6,6 +6,8 @@
 
 ## 0x4528F7
 
+### restricted_has_write_access
+
 ```c
 // restricted_has_write_access reports whether the process has write access to
 // the game directory.

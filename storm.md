@@ -206,6 +206,13 @@ bool32_t __stdcall SFileGetFileArchive(File *file, File *archive);
 
 ## 265
 
+### SFileGetFileSize
+
+```c
+// SFileGetFileSize returns the size of the given file.
+int __stdcall SFileGetFileSize(int file1, int file2);
+```
+
 ## 266
 
 ## 267
@@ -219,9 +226,25 @@ bool32_t __stdcall SFileOpenFile(char *path, File **file);
 
 ## 268
 
+### SFileOpenFileEx
+
+```c
+// SFileOpenFileEx opens the named file of the given MPQ archive, and retrieves
+// its file descriptor.
+bool32_t __stdcall SFileOpenFileEx(int mpq, char *path, uint32_t flags, int file);
+```
+
 ## 269
 
 ## 270
+
+### SFileSetBasePath
+
+```c
+// SFileSetBasePath sets the base directory for relative file operations. In
+// practice, it is set to the game directory.
+bool32_t __stdcall SFileSetBasePath(char *base_dir);
+```
 
 ## 271
 

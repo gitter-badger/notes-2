@@ -2,6 +2,8 @@
 
 ## 0x40311B
 
+### capture_screenshot
+
 ```c
 // capture_screenshot captures a screenshot and stores it within the game
 // directory as "screenXX.pcx". While the screenshot is being taken, the game is

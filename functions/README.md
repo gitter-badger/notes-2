@@ -30,7 +30,7 @@ Each function has been categorised based on their original source file, as summa
 | [gendung.cpp](gendung.md)       | `0x418C8B`    | `0x419E8A`  | 0% (0/22 functions)      |
 | [gmenu.cpp](gmenu.md)           | `0x419E8B`    | `0x41A552`  | 0% (0/20 functions)      |
 | [help.cpp](help.md)             | `0x41A553`    | `0x41A7B2`  | 0% (0/6 functions)       |
-| [init.cpp](init.md)             | `0x41A7B3`    | `0x41B18F`  | 31% (6/19 functions)     |
+| [init.cpp](init.md)             | `0x41A7B3`    | `0x41B18F`  | 42% (8/19 functions)     |
 | [interfac.cpp](interfac.md)     | `0x41B190`    | `0x41B813`  | 0% (0/9 functions)       |
 | [inv.cpp](inv.md)               | `0x41B814`    | `0x41F095`  | 0% (0/40 functions)      |
 | [items.cpp](items.md)           | `0x41F096`    | `0x425442`  | 0% (0/110 functions)     |
