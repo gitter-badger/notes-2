@@ -164,7 +164,7 @@ int __stdcall SNetSendServerChatCommand(char *command);
 
 ```c
 // SFileCloseArchive closes the given MPQ archive.
-bool __stdcall SFileCloseArchive(int archive);
+bool __stdcall SFileCloseArchive(File *archive);
 ```
 
 ## 253
@@ -173,7 +173,7 @@ bool __stdcall SFileCloseArchive(int archive);
 
 ```c
 // SFileCloseFile closes the given file.
-bool32_t __stdcall SFileCloseFile(int file);
+bool32_t __stdcall SFileCloseFile(File *file);
 ```
 
 ## 255
@@ -201,7 +201,7 @@ bool32_t __stdcall SFileDdaGetPos(int stream, int *cur_pos, int *end_pos);
 
 ```c
 // SFileGetFileArchive retrieves a handle to the MPQ archive of the given file.
-bool32_t __stdcall SFileGetFileArchive(int file, int *archive);
+bool32_t __stdcall SFileGetFileArchive(File *file, File *archive);
 ```
 
 ## 265
@@ -209,6 +209,13 @@ bool32_t __stdcall SFileGetFileArchive(int file, int *archive);
 ## 266
 
 ## 267
+
+### SFileOpenFile
+
+```c
+// SFileOpenFile opens the named file for reading.
+bool32_t __stdcall SFileOpenFile(char *path, File **file);
+```
 
 ## 268
 
