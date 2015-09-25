@@ -227,6 +227,13 @@ bool32_t __stdcall SFileOpenFile(char *path, File **file);
 
 ## 301
 
+### StormDestroy
+
+```c
+// StormDestroy terminates the Storm library.
+bool32_t __stdcall StormDestroy();
+```
+
 ## 344
 
 ### SDrawDestroy
@@ -237,6 +244,13 @@ void SDrawDestroy();
 ```
 
 ## 346
+
+### SDrawGetFrameWindow
+
+```c
+// SDrawGetFrameWindow retrieves the active frame window of the renderer.
+HWND __stdcall SDrawGetFrameWindow(HWND *hFrameWnd);
+```
 
 ## 351
 
@@ -326,6 +340,20 @@ bool32_t __stdcall SErrGetErrorStr(uint32_t error_code, char *dst, int size);
 
 ## 463
 
+### SErrGetLastError
+
+```c
+// SErrGetLastError returns the last error code.
+uint32_t __stdcall SErrGetLastError();
+```
+
 ## 465
+
+### SErrSetLastError
+
+```c
+// SErrSetLastError sets the last error.
+void __stdcall SErrSetLastError(uint32_t error_code);
+```
 
 ## 501
