@@ -8,7 +8,7 @@ Each function has been categorised based on their original source file, as summa
 | [appfat.cpp](appfat.md)         | `0x40102A`    | `0x401DA3`  | 100% (19/19 functions)   |
 | [automap.cpp](automap.md)       | `0x401DA4`    | `0x40311A`  | 0% (0/16 functions)      |
 | [capture.cpp](capture.md)       | `0x40311B`    | `0x4034D8`  | 14% (1/7 functions)      |
-| [codec.cpp](codec.md)           | `0x4034D9`    | `0x4037D3`  | 0% (0/5 functions)       |
+| [codec.cpp](codec.md)           | `0x4034D9`    | `0x4037D3`  | 100% (5/5 functions)     |
 | [control.cpp](control.md)       | `0x4037D4`    | `0x407409`  | 0% (0/65 functions)      |
 | [cursor.cpp](cursor.md)         | `0x40740A`    | `0x4084A5`  | 0% (0/9 functions)       |
 | [dead.cpp](dead.md)             | `0x4084A6`    | `0x4086F3`  | 0% (0/3 functions)       |
@@ -22,7 +22,7 @@ Each function has been categorised based on their original source file, as summa
 | [dthread.cpp](dthread.md)       | `0x415098`    | `0x415361`  | 0% (0/11 functions)      |
 | [dx.cpp](dx.md)                 | `0x415362`    | `0x4158A8`  | 5% (1/17 functions)      |
 | [effects.cpp](effects.md)       | `0x4158A9`    | `0x415F42`  | 0% (0/21 functions)      |
-| [encrypt.cpp](encrypt.md)       | `0x415F43`    | `0x4161FB`  | 0% (0/8 functions)       |
+| [encrypt.cpp](encrypt.md)       | `0x415F43`    | `0x4161FB`  | 25% (2/8 functions)      |
 | [engine.cpp](engine.md)         | `0x4161FC`    | `0x41804D`  | 1% (1/57 functions)      |
 | [error.cpp](error.md)           | `0x41804E`    | `0x4182AC`  | 0% (0/3 functions)       |
 | [exception.cpp](exception.md)   | `0x4182AD`    | `0x418865`  | 0% (0/12 functions)      |
@@ -42,7 +42,7 @@ Each function has been categorised based on their original source file, as summa
 | [missiles.cpp](missiles.md)     | `0x4283C0`    | `0x430FDE`  | 0% (0/133 functions)     |
 | [monster.cpp](monster.md)       | `0x430FDF`    | `0x43AD32`  | 0% (0/147 functions)     |
 | [movie.cpp](movie.md)           | `0x43AD33`    | `0x43AE8F`  | 0% (0/4 functions)       |
-| [mpqapi.cpp](mpqapi.md)         | `0x43AE90`    | `0x43BBA3`  | 0% (0/29 functions)      |
+| [mpqapi.cpp](mpqapi.md)         | `0x43AE90`    | `0x43BBA3`  | 10% (3/29 functions)     |
 | [msg.cpp](msg.md)               | `0x43BBA4`    | `0x43F848`  | 0% (0/133 functions)     |
 | [msgcmd.cpp](msgcmd.md)         | `0x43F849`    | `0x43FAC3`  | 0% (0/18 functions)      |
 | [multi.cpp](multi.md)           | `0x43FAC4`    | `0x440DAD`  | 0% (0/38 functions)      |
@@ -51,7 +51,7 @@ Each function has been categorised based on their original source file, as summa
 | [hero.cpp](hero.md)             | `0x448755`    | `0x448DF4`  | 0% (0/7 functions)       |
 | [palette.cpp](palette.md)       | `0x448DF5`    | `0x4493D3`  | 0% (0/22 functions)      |
 | [path.cpp](path.md)             | `0x4493D4`    | `0x4498EB`  | 0% (0/14 functions)      |
-| [pfile.cpp](pfile.md)           | `0x4498EC`    | `0x44A8E5`  | 0% (0/38 functions)      |
+| [pfile.cpp](pfile.md)           | `0x4498EC`    | `0x44A8E5`  | 18% (7/38 functions)     |
 | [player.cpp](player.md)         | `0x44A8E6`    | `0x450D32`  | 0% (0/92 functions)      |
 | [plrmsg.cpp](plrmsg.md)         | `0x450D33`    | `0x450FFD`  | 0% (0/8 functions)       |
 | [portal.cpp](portal.md)         | `0x450FFE`    | `0x45138D`  | 0% (0/13 functions)      |
@@ -59,7 +59,7 @@ Each function has been categorised based on their original source file, as summa
 | [restricted.cpp](restricted.md) | `0x452831`    | `0x452974`  | 33% (1/3 functions)      |
 | [scrollrt.cpp](scrollrt.md)     | `0x452975`    | `0x456624`  | 0% (0/31 functions)      |
 | [setmaps.cpp](setmaps.md)       | `0x456625`    | `0x456A15`  | 0% (0/6 functions)       |
-| [sha1.cpp](sha1.md)             | `0x456A16`    | `0x456CBA`  | 0% (0/6 functions)       |
+| [sha1.cpp](sha1.md)             | `0x456A16`    | `0x456CBA`  | 100% (6/6 functions)     |
 | [sound.cpp](sound.md)           | `0x456CBB`    | `0x45744D`  | 0% (0/22 functions)      |
 | [spell.cpp](spell.md)           | `0x45744E`    | `0x457A00`  | 0% (0/7 functions)       |
 | [stores.cpp](stores.md)         | `0x457A01`    | `0x45C198`  | 0% (0/95 functions)      |

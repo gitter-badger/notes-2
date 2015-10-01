@@ -6,7 +6,24 @@
 
 ## 0x415FDF
 
+### encrypt_hash
+
+```c
+// encrypt_hash returns the hash of the given string.
+uint32_t __fastcall encrypt_hash(char *s, int type);
+```
+
 ## 0x41602E
+
+### encrypt_init_lookup_table
+
+```c
+// encrypt_init_lookup_table initializes the lookup table used for hashing with
+// pseudo-random numbers based on an LCG [1] with a=125, c=3 and m=0x2AAAAB.
+//
+//     [1]: https://en.wikipedia.org/wiki/Linear_congruential_generator
+void encrypt_init_lookup_table();
+```
 
 ## 0x41609D
 

@@ -78,7 +78,7 @@ void init_await_mom_parent_exit();
 ```c
 // init_trim_trailing_slash removes up to one trailing slash characters from
 // path.
-char *__fastcall init_strip_trailing_slash(char *path);
+char * __fastcall init_strip_trailing_slash(char *path);
 ```
 
 ## 0x41AF3A

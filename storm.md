@@ -221,7 +221,7 @@ int __stdcall SFileGetFileSize(int file1, int file2);
 
 ```c
 // SFileOpenFile opens the named file for reading.
-bool32_t __stdcall SFileOpenFile(char *path, File **file);
+bool32_t __stdcall SFileOpenFile(char *rel_path, File **file);
 ```
 
 ## 268
@@ -231,7 +231,7 @@ bool32_t __stdcall SFileOpenFile(char *path, File **file);
 ```c
 // SFileOpenFileEx opens the named file of the given MPQ archive, and retrieves
 // its file descriptor.
-bool32_t __stdcall SFileOpenFileEx(int mpq, char *path, uint32_t flags, int file);
+bool32_t __stdcall SFileOpenFileEx(int mpq, char *rel_path, uint32_t flags, int file);
 ```
 
 ## 269
