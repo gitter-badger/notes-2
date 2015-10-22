@@ -51,7 +51,7 @@ Each function has been categorised based on their original source file, as summa
 | [hero.cpp](hero.md)             | `0x448755`    | `0x448DF4`  | 0% (0/7 functions)       |
 | [palette.cpp](palette.md)       | `0x448DF5`    | `0x4493D3`  | 0% (0/22 functions)      |
 | [path.cpp](path.md)             | `0x4493D4`    | `0x4498EB`  | 0% (0/14 functions)      |
-| [pfile.cpp](pfile.md)           | `0x4498EC`    | `0x44A8E5`  | 18% (7/38 functions)     |
+| [pfile.cpp](pfile.md)           | `0x4498EC`    | `0x44A8E5`  | 21% (8/38 functions)     |
 | [player.cpp](player.md)         | `0x44A8E6`    | `0x450D32`  | 0% (0/92 functions)      |
 | [plrmsg.cpp](plrmsg.md)         | `0x450D33`    | `0x450FFD`  | 0% (0/8 functions)       |
 | [portal.cpp](portal.md)         | `0x450FFE`    | `0x45138D`  | 0% (0/13 functions)      |

@@ -15,7 +15,7 @@ void sha1_reset();
 
 ```c
 // sha1_final copies the message digest of the given SHA-1 context to dst.
-void __fastcall sha1_final(int ctx_id, uint32_t (*dst)[5]);
+void __fastcall sha1_final(int ctx_id, uint8_t (*dst)[20]);
 ```
 
 ## 0x456A4D
@@ -25,7 +25,7 @@ void __fastcall sha1_final(int ctx_id, uint32_t (*dst)[5]);
 ```c
 // sha1 adds the 64-byte block of data to the running hash of the given SHA-1
 // context and stores the final message digest in dst.
-void __fastcall sha1(int ctx_id, const uint8_t *data, uint32_t (*dst)[5]);
+void __fastcall sha1(int ctx_id, const uint8_t *data, uint8_t (*dst)[20]);
 ```
 
 ## 0x456A73

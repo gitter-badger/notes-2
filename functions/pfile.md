@@ -123,6 +123,13 @@ bool32_t __stdcall pfile_delete_save(HeroInfo *hero_info);
 
 ## 0x44A727
 
+### pfile_strcpy
+
+```c
+// pfile_strcpy copies the source string to the destination buffer.
+void __fastcall pfile_strcpy(char *dst, char *src);
+```
+
 ## 0x44A731
 
 ## 0x44A8B3
