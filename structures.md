@@ -13,7 +13,9 @@ typedef struct {
 ## Shadow
 
 ```c
-// A Shadow contains the shadows for a 2x2 block of base square IDs.
+// A Shadow contains the shadows for a 2x2 block of base square IDs [1].
+//
+//    [1]: https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md
 typedef struct {
     // 2x2 block of base square IDs.
     l1_square base_bottom;
