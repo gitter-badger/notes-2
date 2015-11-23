@@ -12,6 +12,10 @@
 Shadow l1_shadow[37];
 ```
 
+## 0x479D28
+
+### l1_base
+
 ```c
 // l1_base maps square IDs to their corresponding base square ID.
 l1_square l1_base[207];
