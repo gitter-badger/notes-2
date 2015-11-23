@@ -4,6 +4,9 @@
 
 ```c
 // Square IDs for layout 1.
+//
+// References:
+//    https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md
 typedef enum {
     L1_SQUARE_NONE                                    = 0,
     L1_SQUARE_WALL_SW                                 = 1,
