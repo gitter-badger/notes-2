@@ -30,7 +30,7 @@ l1_square l1_base[207];
 ### l1_plain
 
 ```c
-// l1_plain maps square IDs to their plain undecorated square ID.
+// l1_plain maps square IDs to their corresponding undecorated square ID.
 //
 // References:
 //    https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md
