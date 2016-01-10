@@ -9,7 +9,7 @@ Each global variable in the read-only data section has been categorised based on
 | [control.cpp](control.md)       | `0x479424`    | `0x479657`  | 100% (564/564 bytes)     |
 | [cursor.cpp](cursor.md)         | `0x479658`    | `0x479BF7`  | 100% (1440/1440 bytes)   |
 | [diablo.cpp](diablo.md)         | `0x479BF8`    | `0x479C23`  | 100% (44/44 bytes)       |
-| [drlg_l1.cpp](drlg_l1.md)       | `0x479C24`    | `0x479F83`  | 54% (468/864 bytes)      |
+| [drlg_l1.cpp](drlg_l1.md)       | `0x479C24`    | `0x479F83`  | 78% (676/864 bytes)      |
 | [drlg_l3.cpp](drlg_l3.md)       | `0x479F84`    | `0x47A2CF`  | 0% (0/844 bytes)         |
 | [drlg_l4.cpp](drlg_l4.md)       | `0x47A2D0`    | `0x47A45F`  | 0% (0/400 bytes)         |
 | [dthread.cpp](dthread.md)       | `0x47A460`    | `0x47A463`  | 100% (4/4 bytes)         |

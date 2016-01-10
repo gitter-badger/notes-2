@@ -24,3 +24,15 @@ Shadow l1_shadow[37];
 //    https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md
 l1_square l1_base[207];
 ```
+
+## 0x479DF8
+
+### l1_plain
+
+```c
+// l1_plain maps square IDs to their plain undecorated square ID.
+//
+// References:
+//    https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md
+l1_square l1_plain[207];
+```
