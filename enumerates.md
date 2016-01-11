@@ -3,7 +3,7 @@
 ## l1_square
 
 ```c
-// Square IDs for layout 1.
+// Square IDs for dungeon layout 1.
 //
 // References:
 //    https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md
@@ -246,4 +246,22 @@ typedef enum {
     TEXT_COLOR_RED  = 2,
     TEXT_COLOR_GOLD = 3,
 } text_color;
+```
+
+## towner_id
+
+```c
+// Towner IDs for NPCs in Tristram.
+typedef enum {
+    TOWNER_ID_GRISWOLD         = 0,
+    TOWNER_ID_PEPIN            = 1,
+    TOWNER_ID_WOUNDED_TOWNSMAN = 2,
+    TOWNER_ID_OGDEN            = 3,
+    TOWNER_ID_CAIN             = 4,
+    TOWNER_ID_FARNHAM          = 5,
+    TOWNER_ID_ADRIA            = 6,
+    TOWNER_ID_GILLIAN          = 7,
+    TOWNER_ID_WIRT             = 8,
+    TOWNER_ID_COW              = 9,
+} towner_id;
 ```
