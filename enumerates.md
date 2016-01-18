@@ -218,6 +218,68 @@ typedef enum {
 } l1_square;
 ```
 
+## spell_id
+
+```c
+// Spell IDs specify spell_data array indices.
+//
+// References:
+//    https://github.com/sanctuary/notes/blob/master/data/spell.md#spell_data
+typedef enum {
+    SPELL_ID_NULL            =  0,
+    SPELL_ID_FIREBOLT        =  1,
+    SPELL_ID_HEALING         =  2,
+    SPELL_ID_LIGHTNING       =  3,
+    SPELL_ID_FLASH           =  4,
+    SPELL_ID_IDENTIFY        =  5,
+    SPELL_ID_FIRE_WALL       =  6,
+    SPELL_ID_TOWN_PORTAL     =  7,
+    SPELL_ID_STONE_CURSE     =  8,
+    SPELL_ID_INFRAVISION     =  9,
+    SPELL_ID_PHASING         = 10,
+    SPELL_ID_MANA_SHIELD     = 11,
+    SPELL_ID_FIREBALL        = 12,
+    SPELL_ID_GUARDIAN        = 13,
+    SPELL_ID_CHAIN_LIGHTNING = 14,
+    SPELL_ID_FLAME_WAVE      = 15,
+    SPELL_ID_DOOM_SERPENTS   = 16,
+    SPELL_ID_BLOOD_RITUAL    = 17,
+    SPELL_ID_NOVA            = 18,
+    SPELL_ID_INVISIBILITY    = 19,
+    SPELL_ID_INFERNO         = 20,
+    SPELL_ID_GOLEM           = 21,
+    SPELL_ID_BLOOD_BOIL      = 22,
+    SPELL_ID_TELEPORT        = 23,
+    SPELL_ID_APOCALYPSE      = 24,
+    SPELL_ID_ETHEREALIZE     = 25,
+    SPELL_ID_ITEM_REPAIR     = 26,
+    SPELL_ID_STAFF_RECHARGE  = 27,
+    SPELL_ID_TRAP_DISARM     = 28,
+    SPELL_ID_ELEMENTAL       = 29,
+    SPELL_ID_CHARGED_BOLT    = 30,
+    SPELL_ID_HOLY_BOLT       = 31,
+    SPELL_ID_RESURRECT       = 32,
+    SPELL_ID_TELEKINESIS     = 33,
+    SPELL_ID_HEAL_OTHER      = 34,
+    SPELL_ID_BLOOD_STAR      = 35,
+    SPELL_ID_BONE_SPIRIT     = 36,
+    SPELL_ID_INVALID         = -1,
+} spell_id;
+```
+
+## spell_type
+
+```c
+// Spell types.
+typedef enum {
+    SPELL_TYPE_SKILL   = 0,
+    SPELL_TYPE_SPELL   = 1,
+    SPELL_TYPE_SCROLL  = 2,
+    SPELL_TYPE_CHARGES = 3,
+    SPELL_TYPE_INVALID = 4,
+} spell_type;
+```
+
 ## template_id
 
 ```c

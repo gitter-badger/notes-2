@@ -122,7 +122,7 @@ void __fastcall __noreturn appfat_terminate_dialog_box(int template_id, uint32_t
 ```c
 // appfat_dialog_func is a callback function which processes messages sent to
 // the given dialog box.
-bool __stdcall appfat_dialog_func(HWND hDlg, UINT uMsg, WPARAM wParam, char *text);
+bool32_t __stdcall appfat_dialog_func(HWND hDlg, UINT uMsg, WPARAM wParam, char *text);
 ```
 
 ## 0x401C0F
@@ -171,7 +171,7 @@ void __fastcall __noreturn appfat_terminate_disk_space_error_dialog(char *error)
 ```c
 // appfat_terminate_insert_cd_error_dialog terminates the game with an insert CD
 // error dialog.
-bool appfat_terminate_insert_cd_error_dialog();
+bool32_t appfat_terminate_insert_cd_error_dialog();
 ```
 
 ## 0x401D68

@@ -33,7 +33,7 @@ void __fastcall init_run_office(char *dir);
 ```c
 // init_disable_screensaver either disables or restores the previous state of
 // the screensaver, depending on the given boolean value.
-void __fastcall init_disable_screensaver(bool disable);
+void __fastcall init_disable_screensaver(bool32_t disable);
 ```
 
 ## 0x41AAC5

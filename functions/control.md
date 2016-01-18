@@ -92,6 +92,14 @@
 
 ## 0x406592
 
+### control_get_spell_type
+
+```c
+// control_get_spell_type returns the spell type of the given spell ID, and
+// report whether is may be cast in town.
+spell_type __fastcall control_get_spell_type(spell_id spell_id, bool32_t check_town);
+```
+
 ## 0x406667
 
 ## 0x4068F4
