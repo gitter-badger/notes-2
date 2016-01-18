@@ -5,8 +5,8 @@ Each global variable in the data section has been categorised based on their ori
 | Source File                     | Start Address | End Address | Progress                 |
 |---------------------------------|---------------|-------------|--------------------------|
 | _crt.cpp                        | `0x483000`    | `0x4830B7`  | N/A                      |
-| [appfat.cpp](appfat.md)         | `0x4830B8`    | `0x483B0F`  | 9% (264/2648 bytes)      |
-| [automap.cpp](automap.md)       | `0x483B10`    | `0x483B8F`  | 3% (4/128 bytes)         |
+| [appfat.cpp](appfat.md)         | `0x4830B8`    | `0x483B0F`  | 0% (0/2648 bytes)        |
+| [automap.cpp](automap.md)       | `0x483B10`    | `0x483B8F`  | 0% (0/128 bytes)         |
 | [codec.cpp](codec.md)           | `0x483B90`    | `0x483BAB`  | 0% (0/28 bytes)          |
 | pkware.cpp                      | `0x483BAC`    | `0x483C2B`  | N/A                      |
 | [control.cpp](control.md)       | `0x483C2C`    | `0x48424F`  | 0% (0/1572 bytes)        |
@@ -25,14 +25,14 @@ Each global variable in the data section has been categorised based on their ori
 | [dx.cpp](dx.md)                 | `0x4862F4`    | `0x48636F`  | 0% (0/124 bytes)         |
 | [effects.cpp](effects.md)       | `0x486370`    | `0x48D6EF`  | 0% (0/29568 bytes)       |
 | pkware.cpp                      | `0x48D6F0`    | `0x48D76F`  | N/A                      |
-| [engine.cpp](engine.md)         | `0x48D770`    | `0x48D7C3`  | 28% (24/84 bytes)        |
+| [engine.cpp](engine.md)         | `0x48D770`    | `0x48D7C3`  | 0% (0/84 bytes)          |
 | [error.cpp](error.md)           | `0x48D7C4`    | `0x48DE7F`  | 0% (0/1724 bytes)        |
 | [exception.cpp](exception.md)   | `0x48DE80`    | `0x48E1B7`  | 0% (0/824 bytes)         |
 | [gamemenu.cpp](gamemenu.md)     | `0x48E1B8`    | `0x48E357`  | 0% (0/416 bytes)         |
 | [gendung.cpp](gendung.md)       | `0x48E358`    | `0x48E3E7`  | 0% (0/144 bytes)         |
 | [gmenu.cpp](gmenu.md)           | `0x48E3E8`    | `0x48E44B`  | 0% (0/100 bytes)         |
 | [help.cpp](help.md)             | `0x48E44C`    | `0x48E487`  | 0% (0/60 bytes)          |
-| [init.cpp](init.md)             | `0x48E488`    | `0x48E80F`  | 0% (8/904 bytes)         |
+| [init.cpp](init.md)             | `0x48E488`    | `0x48E80F`  | 0% (0/904 bytes)         |
 | [interfac.cpp](interfac.md)     | `0x48E810`    | `0x48E9A7`  | 0% (0/408 bytes)         |
 | [inv.cpp](inv.md)               | `0x48E9A8`    | `0x48EA8B`  | 0% (0/228 bytes)         |
 | [items.cpp](items.md)           | `0x48EA8C`    | `0x49387B`  | 0% (0/19952 bytes)       |
@@ -46,7 +46,7 @@ Each global variable in the data section has been categorised based on their ori
 | [mpqapi.cpp](mpqapi.md)         | `0x49EEF8`    | `0x49EFA7`  | 0% (0/176 bytes)         |
 | [msg.cpp](msg.md)               | `0x49EFA8`    | `0x49F06F`  | 0% (0/200 bytes)         |
 | _crt.cpp                        | `0x49F070`    | `0x49F08B`  | N/A                      |
-| [multi.cpp](multi.md)           | `0x49F08C`    | `0x49F203`  | 0% (1/376 bytes)         |
+| [multi.cpp](multi.md)           | `0x49F08C`    | `0x49F203`  | 0% (0/376 bytes)         |
 | [nthread.cpp](nthread.md)       | `0x49F204`    | `0x49F287`  | 0% (0/132 bytes)         |
 | [objects.cpp](objects.md)       | `0x49F288`    | `0x4A0D07`  | 0% (0/6784 bytes)        |
 | [palette.cpp](palette.md)       | `0x4A0D08`    | `0x4A0D6F`  | 0% (0/104 bytes)         |

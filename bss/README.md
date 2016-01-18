@@ -5,8 +5,8 @@ Each global variable in the uninitialized data section has been categorised base
 | Source File                     | Start Address | End Address | Progress                     |
 |---------------------------------|---------------|-------------|------------------------------|
 | _crt.cpp                        | `0x4B7930`    | `0x4B7933`  | N/A                          |
-| [appfat.cpp](appfat.md)         | `0x4B7934`    | `0x4B7A3F`  | 0% (0/268 bytes)             |
-| [automap.cpp](automap.md)       | `0x4B7A40`    | `0x4B84CB`  | 0% (0/2700 bytes)            |
+| [appfat.cpp](appfat.md)         | `0x4B7934`    | `0x4B7A3F`  | 98% (264/268 bytes)          |
+| [automap.cpp](automap.md)       | `0x4B7A40`    | `0x4B84CB`  | 0% (4/2700 bytes)            |
 | [control.cpp](control.md)       | `0x4B84CC`    | `0x4B8C9B`  | 0% (0/2000 bytes)            |
 | [cursor.cpp](cursor.md)         | `0x4B8C9C`    | `0x4B8CD7`  | 0% (0/60 bytes)              |
 | [dead.cpp](dead.md)             | `0x4B8CD8`    | `0x4BD2FB`  | 0% (0/17956 bytes)           |
@@ -21,13 +21,13 @@ Each global variable in the uninitialized data section has been categorised base
 | [dx.cpp](dx.md)                 | `0x52A510`    | `0x52A54F`  | 0% (0/64 bytes)              |
 | [effects.cpp](effects.md)       | `0x52A550`    | `0x52A563`  | 0% (0/20 bytes)              |
 | [encrypt.cpp](encrypt.md)       | `0x52A564`    | `0x52B967`  | 0% (0/5124 bytes)            |
-| [engine.cpp](engine.md)         | `0x52B968`    | `0x52B99F`  | 0% (0/56 bytes)              |
+| [engine.cpp](engine.md)         | `0x52B968`    | `0x52B99F`  | 42% (24/56 bytes)            |
 | [error.cpp](error.md)           | `0x52B9A0`    | `0x52B9F3`  | 0% (0/84 bytes)              |
 | [exception.cpp](exception.md)   | `0x52B9F4`    | `0x52B9FF`  | 0% (0/12 bytes)              |
 | [gendung.cpp](gendung.md)       | `0x52BA00`    | `0x63445F`  | 0% (0/1084000 bytes)         |
 | [gmenu.cpp](gmenu.md)           | `0x634460`    | `0x63448F`  | 0% (0/48 bytes)              |
 | [help.cpp](help.md)             | `0x634490`    | `0x634967`  | 0% (0/1240 bytes)            |
-| [init.cpp](init.md)             | `0x634968`    | `0x634CA7`  | 0% (0/832 bytes)             |
+| [init.cpp](init.md)             | `0x634968`    | `0x634CA7`  | 0% (8/832 bytes)             |
 | [interfac.cpp](interfac.md)     | `0x634CA8`    | `0x634CB7`  | 0% (0/16 bytes)              |
 | [inv.cpp](inv.md)               | `0x634CB8`    | `0x634CC3`  | 0% (0/12 bytes)              |
 | [items.cpp](items.md)           | `0x634CC4`    | `0x6414E7`  | 0% (0/51236 bytes)           |
@@ -42,7 +42,7 @@ Each global variable in the uninitialized data section has been categorised base
 | [mpqapi.cpp](mpqapi.md)         | `0x659B00`    | `0x65AB17`  | 0% (0/4120 bytes)            |
 | [msg.cpp](msg.md)               | `0x65AB18`    | `0x67619F`  | 0% (0/112264 bytes)          |
 | [msgcmd.cpp](msgcmd.md)         | `0x6761A0`    | `0x6761B7`  | 0% (0/24 bytes)              |
-| [multi.cpp](multi.md)           | `0x6761B8`    | `0x6796FF`  | 0% (0/13640 bytes)           |
+| [multi.cpp](multi.md)           | `0x6761B8`    | `0x6796FF`  | 0% (1/13640 bytes)           |
 | [nthread.cpp](nthread.md)       | `0x679700`    | `0x679767`  | 0% (0/104 bytes)             |
 | [objects.cpp](objects.md)       | `0x679768`    | `0x67D7C7`  | 0% (0/16480 bytes)           |
 | [hero.cpp](hero.md)             | `0x67D7C8`    | `0x67D7CB`  | 0% (0/4 bytes)               |
