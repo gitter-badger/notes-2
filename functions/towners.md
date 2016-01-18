@@ -2,6 +2,18 @@
 
 ## 0x46019B
 
+### towners_get_num_from_id
+
+```c
+// towners_get_num_from_id returns the towner number (towners array index) of
+// the given towner ID.
+//
+// References:
+//    https://github.com/sanctuary/notes/blob/master/bss/towners.md#towners
+//    https://github.com/sanctuary/notes/blob/master/enumerates.md#towner_id
+int __fastcall towners_get_num_from_id(towner_id towner_id);
+```
+
 ## 0x4601C1
 
 ## 0x4601FB
