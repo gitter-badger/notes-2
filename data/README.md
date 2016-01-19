@@ -5,7 +5,7 @@ Each global variable in the data section has been categorised based on their ori
 | Source File                     | Start Address | End Address | Progress                 |
 |---------------------------------|---------------|-------------|--------------------------|
 | _crt.cpp                        | `0x483000`    | `0x4830B7`  | N/A                      |
-| [appfat.cpp](appfat.md)         | `0x4830B8`    | `0x483B0F`  | 0% (0/2648 bytes)        |
+| [appfat.cpp](appfat.md)         | `0x4830B8`    | `0x483B0F`  | 100% (2648/2648 bytes)   |
 | [automap.cpp](automap.md)       | `0x483B10`    | `0x483B8F`  | 0% (0/128 bytes)         |
 | [codec.cpp](codec.md)           | `0x483B90`    | `0x483BAB`  | 0% (0/28 bytes)          |
 | pkware.cpp                      | `0x483BAC`    | `0x483C2B`  | N/A                      |
