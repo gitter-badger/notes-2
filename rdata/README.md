@@ -41,7 +41,7 @@ Each global variable in the read-only data section has been categorised based on
 | [player.cpp](player.md)         | `0x47F204`    | `0x47F22F`  | 9% (4/44 bytes)          |
 | [plrmsg.cpp](plrmsg.md)         | `0x47F230`    | `0x47F237`  | 0% (0/8 bytes)           |
 | [scrollrt.cpp](scrollrt.md)     | `0x47F238`    | `0x47F24B`  | 100% (20/20 bytes)       |
-| [sound.cpp](sound.md)           | `0x47F24C`    | `0x4802AB`  | 1% (44/4192 bytes)       |
+| [sound.cpp](sound.md)           | `0x47F24C`    | `0x4802AB`  | 99% (4188/4192 bytes)    |
 | [towners.cpp](towners.md)       | `0x4802AC`    | `0x4802CF`  | 0% (0/36 bytes)          |
 | [track.cpp](track.md)           | `0x4802D0`    | `0x4802D3`  | 100% (4/4 bytes)         |
 | [wave.cpp](wave.md)             | `0x4802D4`    | `0x4802D7`  | 100% (4/4 bytes)         |

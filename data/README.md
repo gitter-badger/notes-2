@@ -23,7 +23,7 @@ Each global variable in the data section has been categorised based on their ori
 | [drlg_l4.cpp](drlg_l4.md)       | `0x4861BC`    | `0x4862AF`  | 0% (0/244 bytes)         |
 | [dthread.cpp](dthread.md)       | `0x4862B0`    | `0x4862F3`  | 0% (0/68 bytes)          |
 | [dx.cpp](dx.md)                 | `0x4862F4`    | `0x48636F`  | 0% (0/124 bytes)         |
-| [effects.cpp](effects.md)       | `0x486370`    | `0x48D6EF`  | 0% (0/29568 bytes)       |
+| [effects.cpp](effects.md)       | `0x486370`    | `0x48D6EF`  | 100% (29568/29568 bytes) |
 | pkware.cpp                      | `0x48D6F0`    | `0x48D76F`  | N/A                      |
 | [engine.cpp](engine.md)         | `0x48D770`    | `0x48D7C3`  | 0% (0/84 bytes)          |
 | [error.cpp](error.md)           | `0x48D7C4`    | `0x48DE7F`  | 0% (0/1724 bytes)        |
@@ -62,7 +62,7 @@ Each global variable in the data section has been categorised based on their ori
 | [setmaps.cpp](setmaps.md)       | `0x4A208C`    | `0x4A22D3`  | 0% (0/584 bytes)         |
 | [sound.cpp](sound.md)           | `0x4A22D4`    | `0x4A23C7`  | 0% (0/244 bytes)         |
 | [spell.cpp](spell.md)           | `0x4A23C8`    | `0x4A2D5B`  | 100% (2452/2452 bytes)   |
-| [stores.cpp](stores.md)         | `0x4A2D5C`    | `0x4B2583`  | 0% (0/63528 bytes)       |
+| [stores.cpp](stores.md)         | `0x4A2D5C`    | `0x4B2583`  | 96% (61560/63528 bytes)  |
 | [themes.cpp](themes.md)         | `0x4B2584`    | `0x4B26A3`  | 0% (0/288 bytes)         |
 | [town.cpp](town.md)             | `0x4B26A4`    | `0x4B2723`  | 0% (0/128 bytes)         |
 | [towners.cpp](towners.md)       | `0x4B2724`    | `0x4B2F77`  | 0% (0/2132 bytes)        |
