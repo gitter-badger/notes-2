@@ -10,7 +10,7 @@ Each global variable in the data section has been categorised based on their ori
 | [codec.cpp](codec.md)           | `0x483B90`    | `0x483BAB`  | 100% (28/28 bytes)       |
 | pkware.cpp                      | `0x483BAC`    | `0x483C2B`  | N/A                      |
 | [control.cpp](control.md)       | `0x483C2C`    | `0x48424F`  | 68% (1076/1572 bytes)    |
-| [cursor.cpp](cursor.md)         | `0x484250`    | `0x4842A7`  | 0% (0/88 bytes)          |
+| [cursor.cpp](cursor.md)         | `0x484250`    | `0x4842A7`  | 100% (88/88 bytes)       |
 | [debug.cpp](debug.md)           | `0x4842A8`    | `0x4842E3`  | 0% (0/60 bytes)          |
 | pkware.cpp                      | `0x4842E4`    | `0x484363`  | N/A                      |
 | [diablo.cpp](diablo.md)         | `0x484364`    | `0x4846AF`  | 0% (0/844 bytes)         |
