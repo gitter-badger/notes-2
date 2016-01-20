@@ -60,7 +60,7 @@ Each global variable in the data section has been categorised based on their ori
 | pkware.cpp                      | `0x4A1E40`    | `0x4A1EBF`  | N/A                      |
 | [scrollrt.cpp](scrollrt.md)     | `0x4A1EC0`    | `0x4A208B`  | 73% (340/460 bytes)      |
 | [setmaps.cpp](setmaps.md)       | `0x4A208C`    | `0x4A22D3`  | 73% (432/584 bytes)      |
-| [sound.cpp](sound.md)           | `0x4A22D4`    | `0x4A23C7`  | 0% (0/244 bytes)         |
+| [sound.cpp](sound.md)           | `0x4A22D4`    | `0x4A23C7`  | 83% (204/244 bytes)      |
 | [spell.cpp](spell.md)           | `0x4A23C8`    | `0x4A2D5B`  | 100% (2452/2452 bytes)   |
 | [stores.cpp](stores.md)         | `0x4A2D5C`    | `0x4B2583`  | 96% (61560/63528 bytes)  |
 | [themes.cpp](themes.md)         | `0x4B2584`    | `0x4B26A3`  | 0% (0/288 bytes)         |
