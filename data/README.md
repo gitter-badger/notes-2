@@ -42,7 +42,7 @@ Each global variable in the data section has been categorised based on their ori
 | [mainmenu.cpp](mainmenu.md)     | `0x494898`    | `0x4948F7`  | 95% (92/96 bytes)        |
 | [minitext.cpp](minitext.md)     | `0x4948F8`    | `0x494947`  | 50% (40/80 bytes)        |
 | [missiles.cpp](missiles.md)     | `0x494948`    | `0x497E07`  | 3% (444/13504 bytes)     |
-| [monster.cpp](monster.md)       | `0x497E08`    | `0x49EEF7`  | 0% (0/28912 bytes)       |
+| [monster.cpp](monster.md)       | `0x497E08`    | `0x49EEF7`  | 36% (10552/28912 bytes)  |
 | [mpqapi.cpp](mpqapi.md)         | `0x49EEF8`    | `0x49EFA7`  | 0% (0/176 bytes)         |
 | [msg.cpp](msg.md)               | `0x49EFA8`    | `0x49F06F`  | 0% (0/200 bytes)         |
 | _crt.cpp                        | `0x49F070`    | `0x49F08B`  | N/A                      |
