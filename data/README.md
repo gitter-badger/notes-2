@@ -39,8 +39,8 @@ Each global variable in the data section has been categorised based on their ori
 | [lighting.cpp](lighting.md)     | `0x49387C`    | `0x4947BF`  | 1% (40/3908 bytes)       |
 | [loadsave.cpp](loadsave.md)     | `0x4947C0`    | `0x4947D3`  | 100% (20/20 bytes)       |
 | [log.cpp](log.md)               | `0x4947D4`    | `0x494897`  | 95% (188/196 bytes)      |
-| [mainmenu.cpp](mainmenu.md)     | `0x494898`    | `0x49491F`  | 0% (0/136 bytes)         |
-| [minitext.cpp](minitext.md)     | `0x494920`    | `0x494947`  | 0% (0/40 bytes)          |
+| [mainmenu.cpp](mainmenu.md)     | `0x494898`    | `0x4948F7`  | 95% (92/96 bytes)        |
+| [minitext.cpp](minitext.md)     | `0x4948F8`    | `0x494947`  | 0% (0/80 bytes)          |
 | [missiles.cpp](missiles.md)     | `0x494948`    | `0x497E07`  | 0% (0/13504 bytes)       |
 | [monster.cpp](monster.md)       | `0x497E08`    | `0x49EEF7`  | 0% (0/28912 bytes)       |
 | [mpqapi.cpp](mpqapi.md)         | `0x49EEF8`    | `0x49EFA7`  | 0% (0/176 bytes)         |
