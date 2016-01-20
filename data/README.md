@@ -22,7 +22,7 @@ Each global variable in the data section has been categorised based on their ori
 | pkware.cpp                      | `0x48613C`    | `0x4861BB`  | N/A                      |
 | [drlg_l4.cpp](drlg_l4.md)       | `0x4861BC`    | `0x4862AF`  | 100% (244/244 bytes)     |
 | [dthread.cpp](dthread.md)       | `0x4862B0`    | `0x4862F3`  | 94% (64/68 bytes)        |
-| [dx.cpp](dx.md)                 | `0x4862F4`    | `0x48636F`  | 0% (0/124 bytes)         |
+| [dx.cpp](dx.md)                 | `0x4862F4`    | `0x48636F`  | 100% (124/124 bytes)     |
 | [effects.cpp](effects.md)       | `0x486370`    | `0x48D6EF`  | 100% (29568/29568 bytes) |
 | pkware.cpp                      | `0x48D6F0`    | `0x48D76F`  | N/A                      |
 | [engine.cpp](engine.md)         | `0x48D770`    | `0x48D7C3`  | 0% (0/84 bytes)          |
