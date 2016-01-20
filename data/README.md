@@ -35,7 +35,7 @@ Each global variable in the data section has been categorised based on their ori
 | [init.cpp](init.md)             | `0x48E488`    | `0x48E80F`  | 100% (904/904 bytes)     |
 | [interfac.cpp](interfac.md)     | `0x48E810`    | `0x48E9A7`  | 100% (408/408 bytes)     |
 | [inv.cpp](inv.md)               | `0x48E9A8`    | `0x48EA8B`  | 82% (188/228 bytes)      |
-| [items.cpp](items.md)           | `0x48EA8C`    | `0x49387B`  | 0% (0/19952 bytes)       |
+| [items.cpp](items.md)           | `0x48EA8C`    | `0x49387B`  | 36% (7364/19952 bytes)   |
 | [lighting.cpp](lighting.md)     | `0x49387C`    | `0x4947BF`  | 0% (0/3908 bytes)        |
 | [loadsave.cpp](loadsave.md)     | `0x4947C0`    | `0x4947D3`  | 0% (0/20 bytes)          |
 | [log.cpp](log.md)               | `0x4947D4`    | `0x494897`  | 0% (0/196 bytes)         |
