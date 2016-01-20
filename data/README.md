@@ -28,7 +28,7 @@ Each global variable in the data section has been categorised based on their ori
 | [engine.cpp](engine.md)         | `0x48D770`    | `0x48D7C3`  | 100% (84/84 bytes)       |
 | [error.cpp](error.md)           | `0x48D7C4`    | `0x48DE7F`  | 89% (1548/1724 bytes)    |
 | [exception.cpp](exception.md)   | `0x48DE80`    | `0x48E1B7`  | 100% (824/824 bytes)     |
-| [gamemenu.cpp](gamemenu.md)     | `0x48E1B8`    | `0x48E357`  | 0% (0/416 bytes)         |
+| [gamemenu.cpp](gamemenu.md)     | `0x48E1B8`    | `0x48E357`  | 44% (184/416 bytes)      |
 | [gendung.cpp](gendung.md)       | `0x48E358`    | `0x48E3E7`  | 0% (0/144 bytes)         |
 | [gmenu.cpp](gmenu.md)           | `0x48E3E8`    | `0x48E44B`  | 0% (0/100 bytes)         |
 | [help.cpp](help.md)             | `0x48E44C`    | `0x48E487`  | 0% (0/60 bytes)          |
