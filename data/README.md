@@ -30,7 +30,7 @@ Each global variable in the data section has been categorised based on their ori
 | [exception.cpp](exception.md)   | `0x48DE80`    | `0x48E1B7`  | 100% (824/824 bytes)     |
 | [gamemenu.cpp](gamemenu.md)     | `0x48E1B8`    | `0x48E357`  | 44% (184/416 bytes)      |
 | [gendung.cpp](gendung.md)       | `0x48E358`    | `0x48E3E7`  | 100% (144/144 bytes)     |
-| [gmenu.cpp](gmenu.md)           | `0x48E3E8`    | `0x48E44B`  | 0% (0/100 bytes)         |
+| [gmenu.cpp](gmenu.md)           | `0x48E3E8`    | `0x48E44B`  | 100% (100/100 bytes)     |
 | [help.cpp](help.md)             | `0x48E44C`    | `0x48E487`  | 0% (0/60 bytes)          |
 | [init.cpp](init.md)             | `0x48E488`    | `0x48E80F`  | 0% (0/904 bytes)         |
 | [interfac.cpp](interfac.md)     | `0x48E810`    | `0x48E9A7`  | 0% (0/408 bytes)         |
