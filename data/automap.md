@@ -5,7 +5,7 @@
 ### str_483B10
 
 ```c
-// "Levels\L1Data\L1.AMP"
+// `Levels\L1Data\L1.AMP`
 const char str_483B10[21];
 ```
 
@@ -14,7 +14,7 @@ const char str_483B10[21];
 ### str_483B28
 
 ```c
-// "Levels\L2Data\L2.AMP"
+// `Levels\L2Data\L2.AMP`
 const char str_483B28[21];
 ```
 
@@ -23,7 +23,7 @@ const char str_483B28[21];
 ### str_483B40
 
 ```c
-// "Levels\L3Data\L3.AMP"
+// `Levels\L3Data\L3.AMP`
 const char str_483B40[21];
 ```
 
@@ -32,7 +32,7 @@ const char str_483B40[21];
 ### str_483B58
 
 ```c
-// "Levels\L4Data\L4.AMP"
+// `Levels\L4Data\L4.AMP`
 const char str_483B58[21];
 ```
 

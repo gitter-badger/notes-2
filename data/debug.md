@@ -5,7 +5,7 @@
 ### str_4842A8
 
 ```c
-// "Data\Square.CEL"
+// `Data\Square.CEL`
 const char str_4842A8[16];
 ```
 

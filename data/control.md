@@ -248,7 +248,7 @@ const char str_483F58[12];
 ### str_483F64
 
 ```c
-// "CtrlPan\Golddrop.cel"
+// `CtrlPan\Golddrop.cel`
 const char str_483F64[21];
 ```
 
@@ -257,7 +257,7 @@ const char str_483F64[21];
 ### str_483F7C
 
 ```c
-// "Data\Quest.CEL"
+// `Data\Quest.CEL`
 const char str_483F7C[15];
 ```
 
@@ -266,7 +266,7 @@ const char str_483F7C[15];
 ### str_483F8C
 
 ```c
-// "Data\SpellI2.CEL"
+// `Data\SpellI2.CEL`
 const char str_483F8C[17];
 ```
 
@@ -275,7 +275,7 @@ const char str_483F8C[17];
 ### str_483FA0
 
 ```c
-// "Data\SpellBkB.CEL"
+// `Data\SpellBkB.CEL`
 const char str_483FA0[18];
 ```
 
@@ -284,7 +284,7 @@ const char str_483FA0[18];
 ### str_483FB4
 
 ```c
-// "Data\SpellBk.CEL"
+// `Data\SpellBk.CEL`
 const char str_483FB4[17];
 ```
 
@@ -293,7 +293,7 @@ const char str_483FB4[17];
 ### str_483FC8
 
 ```c
-// "Items\DurIcons.CEL"
+// `Items\DurIcons.CEL`
 const char str_483FC8[19];
 ```
 
@@ -302,7 +302,7 @@ const char str_483FC8[19];
 ### str_483FDC
 
 ```c
-// "Data\CharBut.CEL"
+// `Data\CharBut.CEL`
 const char str_483FDC[17];
 ```
 
@@ -311,7 +311,7 @@ const char str_483FDC[17];
 ### str_483FF0
 
 ```c
-// "CtrlPan\Panel8bu.CEL"
+// `CtrlPan\Panel8bu.CEL`
 const char str_483FF0[21];
 ```
 
@@ -320,7 +320,7 @@ const char str_483FF0[21];
 ### str_484008
 
 ```c
-// "CtrlPan\TalkButt.CEL"
+// `CtrlPan\TalkButt.CEL`
 const char str_484008[21];
 ```
 
@@ -329,7 +329,7 @@ const char str_484008[21];
 ### str_484020
 
 ```c
-// "CtrlPan\P8But2.CEL"
+// `CtrlPan\P8But2.CEL`
 const char str_484020[19];
 ```
 
@@ -338,7 +338,7 @@ const char str_484020[19];
 ### str_484034
 
 ```c
-// "CtrlPan\TalkPanl.CEL"
+// `CtrlPan\TalkPanl.CEL`
 const char str_484034[21];
 ```
 
@@ -347,7 +347,7 @@ const char str_484034[21];
 ### str_48404C
 
 ```c
-// "CtrlPan\P8Bulbs.CEL"
+// `CtrlPan\P8Bulbs.CEL`
 const char str_48404C[20];
 ```
 
@@ -356,7 +356,7 @@ const char str_48404C[20];
 ### str_484060
 
 ```c
-// "CtrlPan\Panel8.CEL"
+// `CtrlPan\Panel8.CEL`
 const char str_484060[19];
 ```
 
@@ -365,7 +365,7 @@ const char str_484060[19];
 ### str_484074
 
 ```c
-// "CtrlPan\SpelIcon.CEL"
+// `CtrlPan\SpelIcon.CEL`
 const char str_484074[21];
 ```
 
@@ -374,7 +374,7 @@ const char str_484074[21];
 ### str_48408C
 
 ```c
-// "Data\Char.CEL"
+// `Data\Char.CEL`
 const char str_48408C[14];
 ```
 
@@ -383,7 +383,7 @@ const char str_48408C[14];
 ### str_48409C
 
 ```c
-// "CtrlPan\SmalText.CEL"
+// `CtrlPan\SmalText.CEL`
 const char str_48409C[21];
 ```
 

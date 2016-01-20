@@ -17,7 +17,7 @@ SfxData sfx_data[858];
 ### str_48819C
 
 ```c
-// "Sfx\Monsters\DiabloD.wav"
+// `Sfx\Monsters\DiabloD.wav`
 const char str_48819C[25];
 ```
 
@@ -26,7 +26,7 @@ const char str_48819C[25];
 ### str_4881B8
 
 ```c
-// "Sfx\Monsters\Zhar02.wav"
+// `Sfx\Monsters\Zhar02.wav`
 const char str_4881B8[24];
 ```
 
@@ -35,7 +35,7 @@ const char str_4881B8[24];
 ### str_4881D0
 
 ```c
-// "Sfx\Monsters\Zhar01.wav"
+// `Sfx\Monsters\Zhar01.wav`
 const char str_4881D0[24];
 ```
 
@@ -44,7 +44,7 @@ const char str_4881D0[24];
 ### str_4881E8
 
 ```c
-// "Sfx\Monsters\Wlock01.wav"
+// `Sfx\Monsters\Wlock01.wav`
 const char str_4881E8[25];
 ```
 
@@ -53,7 +53,7 @@ const char str_4881E8[25];
 ### str_488204
 
 ```c
-// "Sfx\Monsters\Warlrd01.wav"
+// `Sfx\Monsters\Warlrd01.wav`
 const char str_488204[26];
 ```
 
@@ -62,7 +62,7 @@ const char str_488204[26];
 ### str_488220
 
 ```c
-// "Sfx\Monsters\Snot03.wav"
+// `Sfx\Monsters\Snot03.wav`
 const char str_488220[24];
 ```
 
@@ -71,7 +71,7 @@ const char str_488220[24];
 ### str_488238
 
 ```c
-// "Sfx\Monsters\Snot02.wav"
+// `Sfx\Monsters\Snot02.wav`
 const char str_488238[24];
 ```
 
@@ -80,7 +80,7 @@ const char str_488238[24];
 ### str_488250
 
 ```c
-// "Sfx\Monsters\Snot01.wav"
+// `Sfx\Monsters\Snot01.wav`
 const char str_488250[24];
 ```
 
@@ -89,7 +89,7 @@ const char str_488250[24];
 ### str_488268
 
 ```c
-// "Sfx\Monsters\Sking01.wav"
+// `Sfx\Monsters\Sking01.wav`
 const char str_488268[25];
 ```
 
@@ -98,7 +98,7 @@ const char str_488268[25];
 ### str_488284
 
 ```c
-// "Sfx\Monsters\Laz02.wav"
+// `Sfx\Monsters\Laz02.wav`
 const char str_488284[23];
 ```
 
@@ -107,7 +107,7 @@ const char str_488284[23];
 ### str_48829C
 
 ```c
-// "Sfx\Monsters\Laz01.wav"
+// `Sfx\Monsters\Laz01.wav`
 const char str_48829C[23];
 ```
 
@@ -116,7 +116,7 @@ const char str_48829C[23];
 ### str_4882B4
 
 ```c
-// "Sfx\Monsters\Lach03.wav"
+// `Sfx\Monsters\Lach03.wav`
 const char str_4882B4[24];
 ```
 
@@ -125,7 +125,7 @@ const char str_4882B4[24];
 ### str_4882CC
 
 ```c
-// "Sfx\Monsters\Lach02.wav"
+// `Sfx\Monsters\Lach02.wav`
 const char str_4882CC[24];
 ```
 
@@ -134,7 +134,7 @@ const char str_4882CC[24];
 ### str_4882E4
 
 ```c
-// "Sfx\Monsters\Lach01.wav"
+// `Sfx\Monsters\Lach01.wav`
 const char str_4882E4[24];
 ```
 
@@ -143,7 +143,7 @@ const char str_4882E4[24];
 ### str_4882FC
 
 ```c
-// "Sfx\Monsters\Izual01.wav"
+// `Sfx\Monsters\Izual01.wav`
 const char str_4882FC[25];
 ```
 
@@ -152,7 +152,7 @@ const char str_4882FC[25];
 ### str_488318
 
 ```c
-// "Sfx\Monsters\Garbud04.wav"
+// `Sfx\Monsters\Garbud04.wav`
 const char str_488318[26];
 ```
 
@@ -161,7 +161,7 @@ const char str_488318[26];
 ### str_488334
 
 ```c
-// "Sfx\Monsters\Garbud03.wav"
+// `Sfx\Monsters\Garbud03.wav`
 const char str_488334[26];
 ```
 
@@ -170,7 +170,7 @@ const char str_488334[26];
 ### str_488350
 
 ```c
-// "Sfx\Monsters\Garbud02.wav"
+// `Sfx\Monsters\Garbud02.wav`
 const char str_488350[26];
 ```
 
@@ -179,7 +179,7 @@ const char str_488350[26];
 ### str_48836C
 
 ```c
-// "Sfx\Monsters\Garbud01.wav"
+// `Sfx\Monsters\Garbud01.wav`
 const char str_48836C[26];
 ```
 
@@ -188,7 +188,7 @@ const char str_48836C[26];
 ### str_488388
 
 ```c
-// "Sfx\Monsters\Butcher.wav"
+// `Sfx\Monsters\Butcher.wav`
 const char str_488388[25];
 ```
 
@@ -197,7 +197,7 @@ const char str_488388[25];
 ### str_4883A4
 
 ```c
-// "Sfx\Misc\Lvl16int.wav"
+// `Sfx\Misc\Lvl16int.wav`
 const char str_4883A4[22];
 ```
 
@@ -206,7 +206,7 @@ const char str_4883A4[22];
 ### str_4883BC
 
 ```c
-// "Sfx\Narrator\Nar09.wav"
+// `Sfx\Narrator\Nar09.wav`
 const char str_4883BC[23];
 ```
 
@@ -215,7 +215,7 @@ const char str_4883BC[23];
 ### str_4883D4
 
 ```c
-// "Sfx\Narrator\Nar08.wav"
+// `Sfx\Narrator\Nar08.wav`
 const char str_4883D4[23];
 ```
 
@@ -224,7 +224,7 @@ const char str_4883D4[23];
 ### str_4883EC
 
 ```c
-// "Sfx\Narrator\Nar07.wav"
+// `Sfx\Narrator\Nar07.wav`
 const char str_4883EC[23];
 ```
 
@@ -233,7 +233,7 @@ const char str_4883EC[23];
 ### str_488404
 
 ```c
-// "Sfx\Narrator\Nar06.wav"
+// `Sfx\Narrator\Nar06.wav`
 const char str_488404[23];
 ```
 
@@ -242,7 +242,7 @@ const char str_488404[23];
 ### str_48841C
 
 ```c
-// "Sfx\Narrator\Nar05.wav"
+// `Sfx\Narrator\Nar05.wav`
 const char str_48841C[23];
 ```
 
@@ -251,7 +251,7 @@ const char str_48841C[23];
 ### str_488434
 
 ```c
-// "Sfx\Narrator\Nar04.wav"
+// `Sfx\Narrator\Nar04.wav`
 const char str_488434[23];
 ```
 
@@ -260,7 +260,7 @@ const char str_488434[23];
 ### str_48844C
 
 ```c
-// "Sfx\Narrator\Nar03.wav"
+// `Sfx\Narrator\Nar03.wav`
 const char str_48844C[23];
 ```
 
@@ -269,7 +269,7 @@ const char str_48844C[23];
 ### str_488464
 
 ```c
-// "Sfx\Narrator\Nar02.wav"
+// `Sfx\Narrator\Nar02.wav`
 const char str_488464[23];
 ```
 
@@ -278,7 +278,7 @@ const char str_488464[23];
 ### str_48847C
 
 ```c
-// "Sfx\Narrator\Nar01.wav"
+// `Sfx\Narrator\Nar01.wav`
 const char str_48847C[23];
 ```
 
@@ -287,7 +287,7 @@ const char str_48847C[23];
 ### str_488494
 
 ```c
-// "Sfx\Warrior\Wario102.wav"
+// `Sfx\Warrior\Wario102.wav`
 const char str_488494[25];
 ```
 
@@ -296,7 +296,7 @@ const char str_488494[25];
 ### str_4884B0
 
 ```c
-// "Sfx\Warrior\Wario101.wav"
+// `Sfx\Warrior\Wario101.wav`
 const char str_4884B0[25];
 ```
 
@@ -305,7 +305,7 @@ const char str_4884B0[25];
 ### str_4884CC
 
 ```c
-// "Sfx\Warrior\Wario100.wav"
+// `Sfx\Warrior\Wario100.wav`
 const char str_4884CC[25];
 ```
 
@@ -314,7 +314,7 @@ const char str_4884CC[25];
 ### str_4884E8
 
 ```c
-// "Sfx\Warrior\Warior99.wav"
+// `Sfx\Warrior\Warior99.wav`
 const char str_4884E8[25];
 ```
 
@@ -323,7 +323,7 @@ const char str_4884E8[25];
 ### str_488504
 
 ```c
-// "Sfx\Warrior\Wario98.wav"
+// `Sfx\Warrior\Wario98.wav`
 const char str_488504[24];
 ```
 
@@ -332,7 +332,7 @@ const char str_488504[24];
 ### str_48851C
 
 ```c
-// "Sfx\Warrior\Wario97.wav"
+// `Sfx\Warrior\Wario97.wav`
 const char str_48851C[24];
 ```
 
@@ -341,7 +341,7 @@ const char str_48851C[24];
 ### str_488534
 
 ```c
-// "Sfx\Warrior\Wario96b.wav"
+// `Sfx\Warrior\Wario96b.wav`
 const char str_488534[25];
 ```
 
@@ -350,7 +350,7 @@ const char str_488534[25];
 ### str_488550
 
 ```c
-// "Sfx\Warrior\Wario95f.wav"
+// `Sfx\Warrior\Wario95f.wav`
 const char str_488550[25];
 ```
 
@@ -359,7 +359,7 @@ const char str_488550[25];
 ### str_48856C
 
 ```c
-// "Sfx\Warrior\Wario95e.wav"
+// `Sfx\Warrior\Wario95e.wav`
 const char str_48856C[25];
 ```
 
@@ -368,7 +368,7 @@ const char str_48856C[25];
 ### str_488588
 
 ```c
-// "Sfx\Warrior\Wario95d.wav"
+// `Sfx\Warrior\Wario95d.wav`
 const char str_488588[25];
 ```
 
@@ -377,7 +377,7 @@ const char str_488588[25];
 ### str_4885A4
 
 ```c
-// "Sfx\Warrior\Wario95c.wav"
+// `Sfx\Warrior\Wario95c.wav`
 const char str_4885A4[25];
 ```
 
@@ -386,7 +386,7 @@ const char str_4885A4[25];
 ### str_4885C0
 
 ```c
-// "Sfx\Warrior\Wario95b.wav"
+// `Sfx\Warrior\Wario95b.wav`
 const char str_4885C0[25];
 ```
 
@@ -395,7 +395,7 @@ const char str_4885C0[25];
 ### str_4885DC
 
 ```c
-// "Sfx\Warrior\Warior95.wav"
+// `Sfx\Warrior\Warior95.wav`
 const char str_4885DC[25];
 ```
 
@@ -404,7 +404,7 @@ const char str_4885DC[25];
 ### str_4885F8
 
 ```c
-// "Sfx\Warrior\Warior94.wav"
+// `Sfx\Warrior\Warior94.wav`
 const char str_4885F8[25];
 ```
 
@@ -413,7 +413,7 @@ const char str_4885F8[25];
 ### str_488614
 
 ```c
-// "Sfx\Warrior\Warior93.wav"
+// `Sfx\Warrior\Warior93.wav`
 const char str_488614[25];
 ```
 
@@ -422,7 +422,7 @@ const char str_488614[25];
 ### str_488630
 
 ```c
-// "Sfx\Warrior\Warior92.wav"
+// `Sfx\Warrior\Warior92.wav`
 const char str_488630[25];
 ```
 
@@ -431,7 +431,7 @@ const char str_488630[25];
 ### str_48864C
 
 ```c
-// "Sfx\Warrior\Warior91.wav"
+// `Sfx\Warrior\Warior91.wav`
 const char str_48864C[25];
 ```
 
@@ -440,7 +440,7 @@ const char str_48864C[25];
 ### str_488668
 
 ```c
-// "Sfx\Warrior\Warior90.wav"
+// `Sfx\Warrior\Warior90.wav`
 const char str_488668[25];
 ```
 
@@ -449,7 +449,7 @@ const char str_488668[25];
 ### str_488684
 
 ```c
-// "Sfx\Warrior\Warior89.wav"
+// `Sfx\Warrior\Warior89.wav`
 const char str_488684[25];
 ```
 
@@ -458,7 +458,7 @@ const char str_488684[25];
 ### str_4886A0
 
 ```c
-// "Sfx\Warrior\Warior88.wav"
+// `Sfx\Warrior\Warior88.wav`
 const char str_4886A0[25];
 ```
 
@@ -467,7 +467,7 @@ const char str_4886A0[25];
 ### str_4886BC
 
 ```c
-// "Sfx\Warrior\Warior87.wav"
+// `Sfx\Warrior\Warior87.wav`
 const char str_4886BC[25];
 ```
 
@@ -476,7 +476,7 @@ const char str_4886BC[25];
 ### str_4886D8
 
 ```c
-// "Sfx\Warrior\Warior86.wav"
+// `Sfx\Warrior\Warior86.wav`
 const char str_4886D8[25];
 ```
 
@@ -485,7 +485,7 @@ const char str_4886D8[25];
 ### str_4886F4
 
 ```c
-// "Sfx\Warrior\Warior85.wav"
+// `Sfx\Warrior\Warior85.wav`
 const char str_4886F4[25];
 ```
 
@@ -494,7 +494,7 @@ const char str_4886F4[25];
 ### str_488710
 
 ```c
-// "Sfx\Warrior\Warior84.wav"
+// `Sfx\Warrior\Warior84.wav`
 const char str_488710[25];
 ```
 
@@ -503,7 +503,7 @@ const char str_488710[25];
 ### str_48872C
 
 ```c
-// "Sfx\Warrior\Warior83.wav"
+// `Sfx\Warrior\Warior83.wav`
 const char str_48872C[25];
 ```
 
@@ -512,7 +512,7 @@ const char str_48872C[25];
 ### str_488748
 
 ```c
-// "Sfx\Warrior\Warior82.wav"
+// `Sfx\Warrior\Warior82.wav`
 const char str_488748[25];
 ```
 
@@ -521,7 +521,7 @@ const char str_488748[25];
 ### str_488764
 
 ```c
-// "Sfx\Warrior\Warior81.wav"
+// `Sfx\Warrior\Warior81.wav`
 const char str_488764[25];
 ```
 
@@ -530,7 +530,7 @@ const char str_488764[25];
 ### str_488780
 
 ```c
-// "Sfx\Warrior\Warior80.wav"
+// `Sfx\Warrior\Warior80.wav`
 const char str_488780[25];
 ```
 
@@ -539,7 +539,7 @@ const char str_488780[25];
 ### str_48879C
 
 ```c
-// "Sfx\Warrior\Warior79.wav"
+// `Sfx\Warrior\Warior79.wav`
 const char str_48879C[25];
 ```
 
@@ -548,7 +548,7 @@ const char str_48879C[25];
 ### str_4887B8
 
 ```c
-// "Sfx\Warrior\Warior78.wav"
+// `Sfx\Warrior\Warior78.wav`
 const char str_4887B8[25];
 ```
 
@@ -557,7 +557,7 @@ const char str_4887B8[25];
 ### str_4887D4
 
 ```c
-// "Sfx\Warrior\Warior77.wav"
+// `Sfx\Warrior\Warior77.wav`
 const char str_4887D4[25];
 ```
 
@@ -566,7 +566,7 @@ const char str_4887D4[25];
 ### str_4887F0
 
 ```c
-// "Sfx\Warrior\Warior76.wav"
+// `Sfx\Warrior\Warior76.wav`
 const char str_4887F0[25];
 ```
 
@@ -575,7 +575,7 @@ const char str_4887F0[25];
 ### str_48880C
 
 ```c
-// "Sfx\Warrior\Warior75.wav"
+// `Sfx\Warrior\Warior75.wav`
 const char str_48880C[25];
 ```
 
@@ -584,7 +584,7 @@ const char str_48880C[25];
 ### str_488828
 
 ```c
-// "Sfx\Warrior\Warior74.wav"
+// `Sfx\Warrior\Warior74.wav`
 const char str_488828[25];
 ```
 
@@ -593,7 +593,7 @@ const char str_488828[25];
 ### str_488844
 
 ```c
-// "Sfx\Warrior\Warior73.wav"
+// `Sfx\Warrior\Warior73.wav`
 const char str_488844[25];
 ```
 
@@ -602,7 +602,7 @@ const char str_488844[25];
 ### str_488860
 
 ```c
-// "Sfx\Warrior\Warior72.wav"
+// `Sfx\Warrior\Warior72.wav`
 const char str_488860[25];
 ```
 
@@ -611,7 +611,7 @@ const char str_488860[25];
 ### str_48887C
 
 ```c
-// "Sfx\Warrior\Warior71.wav"
+// `Sfx\Warrior\Warior71.wav`
 const char str_48887C[25];
 ```
 
@@ -620,7 +620,7 @@ const char str_48887C[25];
 ### str_488898
 
 ```c
-// "Sfx\Warrior\Warior70.wav"
+// `Sfx\Warrior\Warior70.wav`
 const char str_488898[25];
 ```
 
@@ -629,7 +629,7 @@ const char str_488898[25];
 ### str_4888B4
 
 ```c
-// "Sfx\Warrior\Wario69b.wav"
+// `Sfx\Warrior\Wario69b.wav`
 const char str_4888B4[25];
 ```
 
@@ -638,7 +638,7 @@ const char str_4888B4[25];
 ### str_4888D0
 
 ```c
-// "Sfx\Warrior\Warior69.wav"
+// `Sfx\Warrior\Warior69.wav`
 const char str_4888D0[25];
 ```
 
@@ -647,7 +647,7 @@ const char str_4888D0[25];
 ### str_4888EC
 
 ```c
-// "Sfx\Warrior\Warior68.wav"
+// `Sfx\Warrior\Warior68.wav`
 const char str_4888EC[25];
 ```
 
@@ -656,7 +656,7 @@ const char str_4888EC[25];
 ### str_488908
 
 ```c
-// "Sfx\Warrior\Warior67.wav"
+// `Sfx\Warrior\Warior67.wav`
 const char str_488908[25];
 ```
 
@@ -665,7 +665,7 @@ const char str_488908[25];
 ### str_488924
 
 ```c
-// "Sfx\Warrior\Warior66.wav"
+// `Sfx\Warrior\Warior66.wav`
 const char str_488924[25];
 ```
 
@@ -674,7 +674,7 @@ const char str_488924[25];
 ### str_488940
 
 ```c
-// "Sfx\Warrior\Warior65.wav"
+// `Sfx\Warrior\Warior65.wav`
 const char str_488940[25];
 ```
 
@@ -683,7 +683,7 @@ const char str_488940[25];
 ### str_48895C
 
 ```c
-// "Sfx\Warrior\Warior64.wav"
+// `Sfx\Warrior\Warior64.wav`
 const char str_48895C[25];
 ```
 
@@ -692,7 +692,7 @@ const char str_48895C[25];
 ### str_488978
 
 ```c
-// "Sfx\Warrior\Warior63.wav"
+// `Sfx\Warrior\Warior63.wav`
 const char str_488978[25];
 ```
 
@@ -701,7 +701,7 @@ const char str_488978[25];
 ### str_488994
 
 ```c
-// "Sfx\Warrior\Warior62.wav"
+// `Sfx\Warrior\Warior62.wav`
 const char str_488994[25];
 ```
 
@@ -710,7 +710,7 @@ const char str_488994[25];
 ### str_4889B0
 
 ```c
-// "Sfx\Warrior\Warior61.wav"
+// `Sfx\Warrior\Warior61.wav`
 const char str_4889B0[25];
 ```
 
@@ -719,7 +719,7 @@ const char str_4889B0[25];
 ### str_4889CC
 
 ```c
-// "Sfx\Warrior\Warior60.wav"
+// `Sfx\Warrior\Warior60.wav`
 const char str_4889CC[25];
 ```
 
@@ -728,7 +728,7 @@ const char str_4889CC[25];
 ### str_4889E8
 
 ```c
-// "Sfx\Warrior\Warior59.wav"
+// `Sfx\Warrior\Warior59.wav`
 const char str_4889E8[25];
 ```
 
@@ -737,7 +737,7 @@ const char str_4889E8[25];
 ### str_488A04
 
 ```c
-// "Sfx\Warrior\Warior58.wav"
+// `Sfx\Warrior\Warior58.wav`
 const char str_488A04[25];
 ```
 
@@ -746,7 +746,7 @@ const char str_488A04[25];
 ### str_488A20
 
 ```c
-// "Sfx\Warrior\Warior57.wav"
+// `Sfx\Warrior\Warior57.wav`
 const char str_488A20[25];
 ```
 
@@ -755,7 +755,7 @@ const char str_488A20[25];
 ### str_488A3C
 
 ```c
-// "Sfx\Warrior\Warior56.wav"
+// `Sfx\Warrior\Warior56.wav`
 const char str_488A3C[25];
 ```
 
@@ -764,7 +764,7 @@ const char str_488A3C[25];
 ### str_488A58
 
 ```c
-// "Sfx\Warrior\Warior55.wav"
+// `Sfx\Warrior\Warior55.wav`
 const char str_488A58[25];
 ```
 
@@ -773,7 +773,7 @@ const char str_488A58[25];
 ### str_488A74
 
 ```c
-// "Sfx\Warrior\Warior54.wav"
+// `Sfx\Warrior\Warior54.wav`
 const char str_488A74[25];
 ```
 
@@ -782,7 +782,7 @@ const char str_488A74[25];
 ### str_488A90
 
 ```c
-// "Sfx\Warrior\Warior53.wav"
+// `Sfx\Warrior\Warior53.wav`
 const char str_488A90[25];
 ```
 
@@ -791,7 +791,7 @@ const char str_488A90[25];
 ### str_488AAC
 
 ```c
-// "Sfx\Warrior\Warior52.wav"
+// `Sfx\Warrior\Warior52.wav`
 const char str_488AAC[25];
 ```
 
@@ -800,7 +800,7 @@ const char str_488AAC[25];
 ### str_488AC8
 
 ```c
-// "Sfx\Warrior\Warior51.wav"
+// `Sfx\Warrior\Warior51.wav`
 const char str_488AC8[25];
 ```
 
@@ -809,7 +809,7 @@ const char str_488AC8[25];
 ### str_488AE4
 
 ```c
-// "Sfx\Warrior\Warior50.wav"
+// `Sfx\Warrior\Warior50.wav`
 const char str_488AE4[25];
 ```
 
@@ -818,7 +818,7 @@ const char str_488AE4[25];
 ### str_488B00
 
 ```c
-// "Sfx\Warrior\Warior49.wav"
+// `Sfx\Warrior\Warior49.wav`
 const char str_488B00[25];
 ```
 
@@ -827,7 +827,7 @@ const char str_488B00[25];
 ### str_488B1C
 
 ```c
-// "Sfx\Warrior\Warior48.wav"
+// `Sfx\Warrior\Warior48.wav`
 const char str_488B1C[25];
 ```
 
@@ -836,7 +836,7 @@ const char str_488B1C[25];
 ### str_488B38
 
 ```c
-// "Sfx\Warrior\Warior47.wav"
+// `Sfx\Warrior\Warior47.wav`
 const char str_488B38[25];
 ```
 
@@ -845,7 +845,7 @@ const char str_488B38[25];
 ### str_488B54
 
 ```c
-// "Sfx\Warrior\Warior46.wav"
+// `Sfx\Warrior\Warior46.wav`
 const char str_488B54[25];
 ```
 
@@ -854,7 +854,7 @@ const char str_488B54[25];
 ### str_488B70
 
 ```c
-// "Sfx\Warrior\Warior45.wav"
+// `Sfx\Warrior\Warior45.wav`
 const char str_488B70[25];
 ```
 
@@ -863,7 +863,7 @@ const char str_488B70[25];
 ### str_488B8C
 
 ```c
-// "Sfx\Warrior\Warior44.wav"
+// `Sfx\Warrior\Warior44.wav`
 const char str_488B8C[25];
 ```
 
@@ -872,7 +872,7 @@ const char str_488B8C[25];
 ### str_488BA8
 
 ```c
-// "Sfx\Warrior\Warior43.wav"
+// `Sfx\Warrior\Warior43.wav`
 const char str_488BA8[25];
 ```
 
@@ -881,7 +881,7 @@ const char str_488BA8[25];
 ### str_488BC4
 
 ```c
-// "Sfx\Warrior\Warior42.wav"
+// `Sfx\Warrior\Warior42.wav`
 const char str_488BC4[25];
 ```
 
@@ -890,7 +890,7 @@ const char str_488BC4[25];
 ### str_488BE0
 
 ```c
-// "Sfx\Warrior\Warior41.wav"
+// `Sfx\Warrior\Warior41.wav`
 const char str_488BE0[25];
 ```
 
@@ -899,7 +899,7 @@ const char str_488BE0[25];
 ### str_488BFC
 
 ```c
-// "Sfx\Warrior\Warior40.wav"
+// `Sfx\Warrior\Warior40.wav`
 const char str_488BFC[25];
 ```
 
@@ -908,7 +908,7 @@ const char str_488BFC[25];
 ### str_488C18
 
 ```c
-// "Sfx\Warrior\Warior39.wav"
+// `Sfx\Warrior\Warior39.wav`
 const char str_488C18[25];
 ```
 
@@ -917,7 +917,7 @@ const char str_488C18[25];
 ### str_488C34
 
 ```c
-// "Sfx\Warrior\Warior38.wav"
+// `Sfx\Warrior\Warior38.wav`
 const char str_488C34[25];
 ```
 
@@ -926,7 +926,7 @@ const char str_488C34[25];
 ### str_488C50
 
 ```c
-// "Sfx\Warrior\Warior37.wav"
+// `Sfx\Warrior\Warior37.wav`
 const char str_488C50[25];
 ```
 
@@ -935,7 +935,7 @@ const char str_488C50[25];
 ### str_488C6C
 
 ```c
-// "Sfx\Warrior\Warior36.wav"
+// `Sfx\Warrior\Warior36.wav`
 const char str_488C6C[25];
 ```
 
@@ -944,7 +944,7 @@ const char str_488C6C[25];
 ### str_488C88
 
 ```c
-// "Sfx\Warrior\Warior35.wav"
+// `Sfx\Warrior\Warior35.wav`
 const char str_488C88[25];
 ```
 
@@ -953,7 +953,7 @@ const char str_488C88[25];
 ### str_488CA4
 
 ```c
-// "Sfx\Warrior\Warior34.wav"
+// `Sfx\Warrior\Warior34.wav`
 const char str_488CA4[25];
 ```
 
@@ -962,7 +962,7 @@ const char str_488CA4[25];
 ### str_488CC0
 
 ```c
-// "Sfx\Warrior\Warior33.wav"
+// `Sfx\Warrior\Warior33.wav`
 const char str_488CC0[25];
 ```
 
@@ -971,7 +971,7 @@ const char str_488CC0[25];
 ### str_488CDC
 
 ```c
-// "Sfx\Warrior\Warior32.wav"
+// `Sfx\Warrior\Warior32.wav`
 const char str_488CDC[25];
 ```
 
@@ -980,7 +980,7 @@ const char str_488CDC[25];
 ### str_488CF8
 
 ```c
-// "Sfx\Warrior\Warior31.wav"
+// `Sfx\Warrior\Warior31.wav`
 const char str_488CF8[25];
 ```
 
@@ -989,7 +989,7 @@ const char str_488CF8[25];
 ### str_488D14
 
 ```c
-// "Sfx\Warrior\Warior30.wav"
+// `Sfx\Warrior\Warior30.wav`
 const char str_488D14[25];
 ```
 
@@ -998,7 +998,7 @@ const char str_488D14[25];
 ### str_488D30
 
 ```c
-// "Sfx\Warrior\Warior29.wav"
+// `Sfx\Warrior\Warior29.wav`
 const char str_488D30[25];
 ```
 
@@ -1007,7 +1007,7 @@ const char str_488D30[25];
 ### str_488D4C
 
 ```c
-// "Sfx\Warrior\Warior28.wav"
+// `Sfx\Warrior\Warior28.wav`
 const char str_488D4C[25];
 ```
 
@@ -1016,7 +1016,7 @@ const char str_488D4C[25];
 ### str_488D68
 
 ```c
-// "Sfx\Warrior\Warior27.wav"
+// `Sfx\Warrior\Warior27.wav`
 const char str_488D68[25];
 ```
 
@@ -1025,7 +1025,7 @@ const char str_488D68[25];
 ### str_488D84
 
 ```c
-// "Sfx\Warrior\Warior26.wav"
+// `Sfx\Warrior\Warior26.wav`
 const char str_488D84[25];
 ```
 
@@ -1034,7 +1034,7 @@ const char str_488D84[25];
 ### str_488DA0
 
 ```c
-// "Sfx\Warrior\Warior25.wav"
+// `Sfx\Warrior\Warior25.wav`
 const char str_488DA0[25];
 ```
 
@@ -1043,7 +1043,7 @@ const char str_488DA0[25];
 ### str_488DBC
 
 ```c
-// "Sfx\Warrior\Warior24.wav"
+// `Sfx\Warrior\Warior24.wav`
 const char str_488DBC[25];
 ```
 
@@ -1052,7 +1052,7 @@ const char str_488DBC[25];
 ### str_488DD8
 
 ```c
-// "Sfx\Warrior\Warior23.wav"
+// `Sfx\Warrior\Warior23.wav`
 const char str_488DD8[25];
 ```
 
@@ -1061,7 +1061,7 @@ const char str_488DD8[25];
 ### str_488DF4
 
 ```c
-// "Sfx\Warrior\Warior22.wav"
+// `Sfx\Warrior\Warior22.wav`
 const char str_488DF4[25];
 ```
 
@@ -1070,7 +1070,7 @@ const char str_488DF4[25];
 ### str_488E10
 
 ```c
-// "Sfx\Warrior\Warior21.wav"
+// `Sfx\Warrior\Warior21.wav`
 const char str_488E10[25];
 ```
 
@@ -1079,7 +1079,7 @@ const char str_488E10[25];
 ### str_488E2C
 
 ```c
-// "Sfx\Warrior\Warior20.wav"
+// `Sfx\Warrior\Warior20.wav`
 const char str_488E2C[25];
 ```
 
@@ -1088,7 +1088,7 @@ const char str_488E2C[25];
 ### str_488E48
 
 ```c
-// "Sfx\Warrior\Warior19.wav"
+// `Sfx\Warrior\Warior19.wav`
 const char str_488E48[25];
 ```
 
@@ -1097,7 +1097,7 @@ const char str_488E48[25];
 ### str_488E64
 
 ```c
-// "Sfx\Warrior\Warior18.wav"
+// `Sfx\Warrior\Warior18.wav`
 const char str_488E64[25];
 ```
 
@@ -1106,7 +1106,7 @@ const char str_488E64[25];
 ### str_488E80
 
 ```c
-// "Sfx\Warrior\Warior17.wav"
+// `Sfx\Warrior\Warior17.wav`
 const char str_488E80[25];
 ```
 
@@ -1115,7 +1115,7 @@ const char str_488E80[25];
 ### str_488E9C
 
 ```c
-// "Sfx\Warrior\Wario16c.wav"
+// `Sfx\Warrior\Wario16c.wav`
 const char str_488E9C[25];
 ```
 
@@ -1124,7 +1124,7 @@ const char str_488E9C[25];
 ### str_488EB8
 
 ```c
-// "Sfx\Warrior\Wario16b.wav"
+// `Sfx\Warrior\Wario16b.wav`
 const char str_488EB8[25];
 ```
 
@@ -1133,7 +1133,7 @@ const char str_488EB8[25];
 ### str_488ED4
 
 ```c
-// "Sfx\Warrior\Warior16.wav"
+// `Sfx\Warrior\Warior16.wav`
 const char str_488ED4[25];
 ```
 
@@ -1142,7 +1142,7 @@ const char str_488ED4[25];
 ### str_488EF0
 
 ```c
-// "Sfx\Warrior\Wario15c.wav"
+// `Sfx\Warrior\Wario15c.wav`
 const char str_488EF0[25];
 ```
 
@@ -1151,7 +1151,7 @@ const char str_488EF0[25];
 ### str_488F0C
 
 ```c
-// "Sfx\Warrior\Wario15b.wav"
+// `Sfx\Warrior\Wario15b.wav`
 const char str_488F0C[25];
 ```
 
@@ -1160,7 +1160,7 @@ const char str_488F0C[25];
 ### str_488F28
 
 ```c
-// "Sfx\Warrior\Warior15.wav"
+// `Sfx\Warrior\Warior15.wav`
 const char str_488F28[25];
 ```
 
@@ -1169,7 +1169,7 @@ const char str_488F28[25];
 ### str_488F44
 
 ```c
-// "Sfx\Warrior\Wario14c.wav"
+// `Sfx\Warrior\Wario14c.wav`
 const char str_488F44[25];
 ```
 
@@ -1178,7 +1178,7 @@ const char str_488F44[25];
 ### str_488F60
 
 ```c
-// "Sfx\Warrior\Wario14b.wav"
+// `Sfx\Warrior\Wario14b.wav`
 const char str_488F60[25];
 ```
 
@@ -1187,7 +1187,7 @@ const char str_488F60[25];
 ### str_488F7C
 
 ```c
-// "Sfx\Warrior\Warior14.wav"
+// `Sfx\Warrior\Warior14.wav`
 const char str_488F7C[25];
 ```
 
@@ -1196,7 +1196,7 @@ const char str_488F7C[25];
 ### str_488F98
 
 ```c
-// "Sfx\Warrior\Warior13.wav"
+// `Sfx\Warrior\Warior13.wav`
 const char str_488F98[25];
 ```
 
@@ -1205,7 +1205,7 @@ const char str_488F98[25];
 ### str_488FB4
 
 ```c
-// "Sfx\Warrior\Warior12.wav"
+// `Sfx\Warrior\Warior12.wav`
 const char str_488FB4[25];
 ```
 
@@ -1214,7 +1214,7 @@ const char str_488FB4[25];
 ### str_488FD0
 
 ```c
-// "Sfx\Warrior\Warior11.wav"
+// `Sfx\Warrior\Warior11.wav`
 const char str_488FD0[25];
 ```
 
@@ -1223,7 +1223,7 @@ const char str_488FD0[25];
 ### str_488FEC
 
 ```c
-// "Sfx\Warrior\Warior10.wav"
+// `Sfx\Warrior\Warior10.wav`
 const char str_488FEC[25];
 ```
 
@@ -1232,7 +1232,7 @@ const char str_488FEC[25];
 ### str_489008
 
 ```c
-// "Sfx\Warrior\Warior09.wav"
+// `Sfx\Warrior\Warior09.wav`
 const char str_489008[25];
 ```
 
@@ -1241,7 +1241,7 @@ const char str_489008[25];
 ### str_489024
 
 ```c
-// "Sfx\Warrior\Warior08.wav"
+// `Sfx\Warrior\Warior08.wav`
 const char str_489024[25];
 ```
 
@@ -1250,7 +1250,7 @@ const char str_489024[25];
 ### str_489040
 
 ```c
-// "Sfx\Warrior\Warior07.wav"
+// `Sfx\Warrior\Warior07.wav`
 const char str_489040[25];
 ```
 
@@ -1259,7 +1259,7 @@ const char str_489040[25];
 ### str_48905C
 
 ```c
-// "Sfx\Warrior\Warior06.wav"
+// `Sfx\Warrior\Warior06.wav`
 const char str_48905C[25];
 ```
 
@@ -1268,7 +1268,7 @@ const char str_48905C[25];
 ### str_489078
 
 ```c
-// "Sfx\Warrior\Warior05.wav"
+// `Sfx\Warrior\Warior05.wav`
 const char str_489078[25];
 ```
 
@@ -1277,7 +1277,7 @@ const char str_489078[25];
 ### str_489094
 
 ```c
-// "Sfx\Warrior\Warior04.wav"
+// `Sfx\Warrior\Warior04.wav`
 const char str_489094[25];
 ```
 
@@ -1286,7 +1286,7 @@ const char str_489094[25];
 ### str_4890B0
 
 ```c
-// "Sfx\Warrior\Warior03.wav"
+// `Sfx\Warrior\Warior03.wav`
 const char str_4890B0[25];
 ```
 
@@ -1295,7 +1295,7 @@ const char str_4890B0[25];
 ### str_4890CC
 
 ```c
-// "Sfx\Warrior\Warior02.wav"
+// `Sfx\Warrior\Warior02.wav`
 const char str_4890CC[25];
 ```
 
@@ -1304,7 +1304,7 @@ const char str_4890CC[25];
 ### str_4890E8
 
 ```c
-// "Sfx\Warrior\Warior01.wav"
+// `Sfx\Warrior\Warior01.wav`
 const char str_4890E8[25];
 ```
 
@@ -1313,7 +1313,7 @@ const char str_4890E8[25];
 ### str_489104
 
 ```c
-// "Sfx\Rogue\Rogue102.wav"
+// `Sfx\Rogue\Rogue102.wav`
 const char str_489104[23];
 ```
 
@@ -1322,7 +1322,7 @@ const char str_489104[23];
 ### str_48911C
 
 ```c
-// "Sfx\Rogue\Rogue101.wav"
+// `Sfx\Rogue\Rogue101.wav`
 const char str_48911C[23];
 ```
 
@@ -1331,7 +1331,7 @@ const char str_48911C[23];
 ### str_489134
 
 ```c
-// "Sfx\Rogue\Rogue100.wav"
+// `Sfx\Rogue\Rogue100.wav`
 const char str_489134[23];
 ```
 
@@ -1340,7 +1340,7 @@ const char str_489134[23];
 ### str_48914C
 
 ```c
-// "Sfx\Rogue\Rogue99.wav"
+// `Sfx\Rogue\Rogue99.wav`
 const char str_48914C[22];
 ```
 
@@ -1349,7 +1349,7 @@ const char str_48914C[22];
 ### str_489164
 
 ```c
-// "Sfx\Rogue\Rogue98.wav"
+// `Sfx\Rogue\Rogue98.wav`
 const char str_489164[22];
 ```
 
@@ -1358,7 +1358,7 @@ const char str_489164[22];
 ### str_48917C
 
 ```c
-// "Sfx\Rogue\Rogue97.wav"
+// `Sfx\Rogue\Rogue97.wav`
 const char str_48917C[22];
 ```
 
@@ -1367,7 +1367,7 @@ const char str_48917C[22];
 ### str_489194
 
 ```c
-// "Sfx\Rogue\Rogue96.wav"
+// `Sfx\Rogue\Rogue96.wav`
 const char str_489194[22];
 ```
 
@@ -1376,7 +1376,7 @@ const char str_489194[22];
 ### str_4891AC
 
 ```c
-// "Sfx\Rogue\Rogue95.wav"
+// `Sfx\Rogue\Rogue95.wav`
 const char str_4891AC[22];
 ```
 
@@ -1385,7 +1385,7 @@ const char str_4891AC[22];
 ### str_4891C4
 
 ```c
-// "Sfx\Rogue\Rogue94.wav"
+// `Sfx\Rogue\Rogue94.wav`
 const char str_4891C4[22];
 ```
 
@@ -1394,7 +1394,7 @@ const char str_4891C4[22];
 ### str_4891DC
 
 ```c
-// "Sfx\Rogue\Rogue93.wav"
+// `Sfx\Rogue\Rogue93.wav`
 const char str_4891DC[22];
 ```
 
@@ -1403,7 +1403,7 @@ const char str_4891DC[22];
 ### str_4891F4
 
 ```c
-// "Sfx\Rogue\Rogue92.wav"
+// `Sfx\Rogue\Rogue92.wav`
 const char str_4891F4[22];
 ```
 
@@ -1412,7 +1412,7 @@ const char str_4891F4[22];
 ### str_48920C
 
 ```c
-// "Sfx\Rogue\Rogue91.wav"
+// `Sfx\Rogue\Rogue91.wav`
 const char str_48920C[22];
 ```
 
@@ -1421,7 +1421,7 @@ const char str_48920C[22];
 ### str_489224
 
 ```c
-// "Sfx\Rogue\Rogue90.wav"
+// `Sfx\Rogue\Rogue90.wav`
 const char str_489224[22];
 ```
 
@@ -1430,7 +1430,7 @@ const char str_489224[22];
 ### str_48923C
 
 ```c
-// "Sfx\Rogue\Rogue89.wav"
+// `Sfx\Rogue\Rogue89.wav`
 const char str_48923C[22];
 ```
 
@@ -1439,7 +1439,7 @@ const char str_48923C[22];
 ### str_489254
 
 ```c
-// "Sfx\Rogue\Rogue88.wav"
+// `Sfx\Rogue\Rogue88.wav`
 const char str_489254[22];
 ```
 
@@ -1448,7 +1448,7 @@ const char str_489254[22];
 ### str_48926C
 
 ```c
-// "Sfx\Rogue\Rogue87.wav"
+// `Sfx\Rogue\Rogue87.wav`
 const char str_48926C[22];
 ```
 
@@ -1457,7 +1457,7 @@ const char str_48926C[22];
 ### str_489284
 
 ```c
-// "Sfx\Rogue\Rogue86.wav"
+// `Sfx\Rogue\Rogue86.wav`
 const char str_489284[22];
 ```
 
@@ -1466,7 +1466,7 @@ const char str_489284[22];
 ### str_48929C
 
 ```c
-// "Sfx\Rogue\Rogue85.wav"
+// `Sfx\Rogue\Rogue85.wav`
 const char str_48929C[22];
 ```
 
@@ -1475,7 +1475,7 @@ const char str_48929C[22];
 ### str_4892B4
 
 ```c
-// "Sfx\Rogue\Rogue84.wav"
+// `Sfx\Rogue\Rogue84.wav`
 const char str_4892B4[22];
 ```
 
@@ -1484,7 +1484,7 @@ const char str_4892B4[22];
 ### str_4892CC
 
 ```c
-// "Sfx\Rogue\Rogue83.wav"
+// `Sfx\Rogue\Rogue83.wav`
 const char str_4892CC[22];
 ```
 
@@ -1493,7 +1493,7 @@ const char str_4892CC[22];
 ### str_4892E4
 
 ```c
-// "Sfx\Rogue\Rogue82.wav"
+// `Sfx\Rogue\Rogue82.wav`
 const char str_4892E4[22];
 ```
 
@@ -1502,7 +1502,7 @@ const char str_4892E4[22];
 ### str_4892FC
 
 ```c
-// "Sfx\Rogue\Rogue81.wav"
+// `Sfx\Rogue\Rogue81.wav`
 const char str_4892FC[22];
 ```
 
@@ -1511,7 +1511,7 @@ const char str_4892FC[22];
 ### str_489314
 
 ```c
-// "Sfx\Rogue\Rogue80.wav"
+// `Sfx\Rogue\Rogue80.wav`
 const char str_489314[22];
 ```
 
@@ -1520,7 +1520,7 @@ const char str_489314[22];
 ### str_48932C
 
 ```c
-// "Sfx\Rogue\Rogue79.wav"
+// `Sfx\Rogue\Rogue79.wav`
 const char str_48932C[22];
 ```
 
@@ -1529,7 +1529,7 @@ const char str_48932C[22];
 ### str_489344
 
 ```c
-// "Sfx\Rogue\Rogue78.wav"
+// `Sfx\Rogue\Rogue78.wav`
 const char str_489344[22];
 ```
 
@@ -1538,7 +1538,7 @@ const char str_489344[22];
 ### str_48935C
 
 ```c
-// "Sfx\Rogue\Rogue77.wav"
+// `Sfx\Rogue\Rogue77.wav`
 const char str_48935C[22];
 ```
 
@@ -1547,7 +1547,7 @@ const char str_48935C[22];
 ### str_489374
 
 ```c
-// "Sfx\Rogue\Rogue76.wav"
+// `Sfx\Rogue\Rogue76.wav`
 const char str_489374[22];
 ```
 
@@ -1556,7 +1556,7 @@ const char str_489374[22];
 ### str_48938C
 
 ```c
-// "Sfx\Rogue\Rogue75.wav"
+// `Sfx\Rogue\Rogue75.wav`
 const char str_48938C[22];
 ```
 
@@ -1565,7 +1565,7 @@ const char str_48938C[22];
 ### str_4893A4
 
 ```c
-// "Sfx\Rogue\Rogue74.wav"
+// `Sfx\Rogue\Rogue74.wav`
 const char str_4893A4[22];
 ```
 
@@ -1574,7 +1574,7 @@ const char str_4893A4[22];
 ### str_4893BC
 
 ```c
-// "Sfx\Rogue\Rogue73.wav"
+// `Sfx\Rogue\Rogue73.wav`
 const char str_4893BC[22];
 ```
 
@@ -1583,7 +1583,7 @@ const char str_4893BC[22];
 ### str_4893D4
 
 ```c
-// "Sfx\Rogue\Rogue72.wav"
+// `Sfx\Rogue\Rogue72.wav`
 const char str_4893D4[22];
 ```
 
@@ -1592,7 +1592,7 @@ const char str_4893D4[22];
 ### str_4893EC
 
 ```c
-// "Sfx\Rogue\Rogue71.wav"
+// `Sfx\Rogue\Rogue71.wav`
 const char str_4893EC[22];
 ```
 
@@ -1601,7 +1601,7 @@ const char str_4893EC[22];
 ### str_489404
 
 ```c
-// "Sfx\Rogue\Rogue70.wav"
+// `Sfx\Rogue\Rogue70.wav`
 const char str_489404[22];
 ```
 
@@ -1610,7 +1610,7 @@ const char str_489404[22];
 ### str_48941C
 
 ```c
-// "Sfx\Rogue\Rogue69b.wav"
+// `Sfx\Rogue\Rogue69b.wav`
 const char str_48941C[23];
 ```
 
@@ -1619,7 +1619,7 @@ const char str_48941C[23];
 ### str_489434
 
 ```c
-// "Sfx\Rogue\Rogue69.wav"
+// `Sfx\Rogue\Rogue69.wav`
 const char str_489434[22];
 ```
 
@@ -1628,7 +1628,7 @@ const char str_489434[22];
 ### str_48944C
 
 ```c
-// "Sfx\Rogue\Rogue68.wav"
+// `Sfx\Rogue\Rogue68.wav`
 const char str_48944C[22];
 ```
 
@@ -1637,7 +1637,7 @@ const char str_48944C[22];
 ### str_489464
 
 ```c
-// "Sfx\Rogue\Rogue67.wav"
+// `Sfx\Rogue\Rogue67.wav`
 const char str_489464[22];
 ```
 
@@ -1646,7 +1646,7 @@ const char str_489464[22];
 ### str_48947C
 
 ```c
-// "Sfx\Rogue\Rogue66.wav"
+// `Sfx\Rogue\Rogue66.wav`
 const char str_48947C[22];
 ```
 
@@ -1655,7 +1655,7 @@ const char str_48947C[22];
 ### str_489494
 
 ```c
-// "Sfx\Rogue\Rogue65.wav"
+// `Sfx\Rogue\Rogue65.wav`
 const char str_489494[22];
 ```
 
@@ -1664,7 +1664,7 @@ const char str_489494[22];
 ### str_4894AC
 
 ```c
-// "Sfx\Rogue\Rogue64.wav"
+// `Sfx\Rogue\Rogue64.wav`
 const char str_4894AC[22];
 ```
 
@@ -1673,7 +1673,7 @@ const char str_4894AC[22];
 ### str_4894C4
 
 ```c
-// "Sfx\Rogue\Rogue63.wav"
+// `Sfx\Rogue\Rogue63.wav`
 const char str_4894C4[22];
 ```
 
@@ -1682,7 +1682,7 @@ const char str_4894C4[22];
 ### str_4894DC
 
 ```c
-// "Sfx\Rogue\Rogue62.wav"
+// `Sfx\Rogue\Rogue62.wav`
 const char str_4894DC[22];
 ```
 
@@ -1691,7 +1691,7 @@ const char str_4894DC[22];
 ### str_4894F4
 
 ```c
-// "Sfx\Rogue\Rogue61.wav"
+// `Sfx\Rogue\Rogue61.wav`
 const char str_4894F4[22];
 ```
 
@@ -1700,7 +1700,7 @@ const char str_4894F4[22];
 ### str_48950C
 
 ```c
-// "Sfx\Rogue\Rogue60.wav"
+// `Sfx\Rogue\Rogue60.wav`
 const char str_48950C[22];
 ```
 
@@ -1709,7 +1709,7 @@ const char str_48950C[22];
 ### str_489524
 
 ```c
-// "Sfx\Rogue\Rogue59.wav"
+// `Sfx\Rogue\Rogue59.wav`
 const char str_489524[22];
 ```
 
@@ -1718,7 +1718,7 @@ const char str_489524[22];
 ### str_48953C
 
 ```c
-// "Sfx\Rogue\Rogue58.wav"
+// `Sfx\Rogue\Rogue58.wav`
 const char str_48953C[22];
 ```
 
@@ -1727,7 +1727,7 @@ const char str_48953C[22];
 ### str_489554
 
 ```c
-// "Sfx\Rogue\Rogue57.wav"
+// `Sfx\Rogue\Rogue57.wav`
 const char str_489554[22];
 ```
 
@@ -1736,7 +1736,7 @@ const char str_489554[22];
 ### str_48956C
 
 ```c
-// "Sfx\Rogue\Rogue56.wav"
+// `Sfx\Rogue\Rogue56.wav`
 const char str_48956C[22];
 ```
 
@@ -1745,7 +1745,7 @@ const char str_48956C[22];
 ### str_489584
 
 ```c
-// "Sfx\Rogue\Rogue55.wav"
+// `Sfx\Rogue\Rogue55.wav`
 const char str_489584[22];
 ```
 
@@ -1754,7 +1754,7 @@ const char str_489584[22];
 ### str_48959C
 
 ```c
-// "Sfx\Rogue\Rogue54.wav"
+// `Sfx\Rogue\Rogue54.wav`
 const char str_48959C[22];
 ```
 
@@ -1763,7 +1763,7 @@ const char str_48959C[22];
 ### str_4895B4
 
 ```c
-// "Sfx\Rogue\Rogue53.wav"
+// `Sfx\Rogue\Rogue53.wav`
 const char str_4895B4[22];
 ```
 
@@ -1772,7 +1772,7 @@ const char str_4895B4[22];
 ### str_4895CC
 
 ```c
-// "Sfx\Rogue\Rogue52.wav"
+// `Sfx\Rogue\Rogue52.wav`
 const char str_4895CC[22];
 ```
 
@@ -1781,7 +1781,7 @@ const char str_4895CC[22];
 ### str_4895E4
 
 ```c
-// "Sfx\Rogue\Rogue51.wav"
+// `Sfx\Rogue\Rogue51.wav`
 const char str_4895E4[22];
 ```
 
@@ -1790,7 +1790,7 @@ const char str_4895E4[22];
 ### str_4895FC
 
 ```c
-// "Sfx\Rogue\Rogue50.wav"
+// `Sfx\Rogue\Rogue50.wav`
 const char str_4895FC[22];
 ```
 
@@ -1799,7 +1799,7 @@ const char str_4895FC[22];
 ### str_489614
 
 ```c
-// "Sfx\Rogue\Rogue49.wav"
+// `Sfx\Rogue\Rogue49.wav`
 const char str_489614[22];
 ```
 
@@ -1808,7 +1808,7 @@ const char str_489614[22];
 ### str_48962C
 
 ```c
-// "Sfx\Rogue\Rogue48.wav"
+// `Sfx\Rogue\Rogue48.wav`
 const char str_48962C[22];
 ```
 
@@ -1817,7 +1817,7 @@ const char str_48962C[22];
 ### str_489644
 
 ```c
-// "Sfx\Rogue\Rogue47.wav"
+// `Sfx\Rogue\Rogue47.wav`
 const char str_489644[22];
 ```
 
@@ -1826,7 +1826,7 @@ const char str_489644[22];
 ### str_48965C
 
 ```c
-// "Sfx\Rogue\Rogue46.wav"
+// `Sfx\Rogue\Rogue46.wav`
 const char str_48965C[22];
 ```
 
@@ -1835,7 +1835,7 @@ const char str_48965C[22];
 ### str_489674
 
 ```c
-// "Sfx\Rogue\Rogue45.wav"
+// `Sfx\Rogue\Rogue45.wav`
 const char str_489674[22];
 ```
 
@@ -1844,7 +1844,7 @@ const char str_489674[22];
 ### str_48968C
 
 ```c
-// "Sfx\Rogue\Rogue44.wav"
+// `Sfx\Rogue\Rogue44.wav`
 const char str_48968C[22];
 ```
 
@@ -1853,7 +1853,7 @@ const char str_48968C[22];
 ### str_4896A4
 
 ```c
-// "Sfx\Rogue\Rogue43.wav"
+// `Sfx\Rogue\Rogue43.wav`
 const char str_4896A4[22];
 ```
 
@@ -1862,7 +1862,7 @@ const char str_4896A4[22];
 ### str_4896BC
 
 ```c
-// "Sfx\Rogue\Rogue42.wav"
+// `Sfx\Rogue\Rogue42.wav`
 const char str_4896BC[22];
 ```
 
@@ -1871,7 +1871,7 @@ const char str_4896BC[22];
 ### str_4896D4
 
 ```c
-// "Sfx\Rogue\Rogue41.wav"
+// `Sfx\Rogue\Rogue41.wav`
 const char str_4896D4[22];
 ```
 
@@ -1880,7 +1880,7 @@ const char str_4896D4[22];
 ### str_4896EC
 
 ```c
-// "Sfx\Rogue\Rogue40.wav"
+// `Sfx\Rogue\Rogue40.wav`
 const char str_4896EC[22];
 ```
 
@@ -1889,7 +1889,7 @@ const char str_4896EC[22];
 ### str_489704
 
 ```c
-// "Sfx\Rogue\Rogue39.wav"
+// `Sfx\Rogue\Rogue39.wav`
 const char str_489704[22];
 ```
 
@@ -1898,7 +1898,7 @@ const char str_489704[22];
 ### str_48971C
 
 ```c
-// "Sfx\Rogue\Rogue38.wav"
+// `Sfx\Rogue\Rogue38.wav`
 const char str_48971C[22];
 ```
 
@@ -1907,7 +1907,7 @@ const char str_48971C[22];
 ### str_489734
 
 ```c
-// "Sfx\Rogue\Rogue37.wav"
+// `Sfx\Rogue\Rogue37.wav`
 const char str_489734[22];
 ```
 
@@ -1916,7 +1916,7 @@ const char str_489734[22];
 ### str_48974C
 
 ```c
-// "Sfx\Rogue\Rogue36.wav"
+// `Sfx\Rogue\Rogue36.wav`
 const char str_48974C[22];
 ```
 
@@ -1925,7 +1925,7 @@ const char str_48974C[22];
 ### str_489764
 
 ```c
-// "Sfx\Rogue\Rogue35.wav"
+// `Sfx\Rogue\Rogue35.wav`
 const char str_489764[22];
 ```
 
@@ -1934,7 +1934,7 @@ const char str_489764[22];
 ### str_48977C
 
 ```c
-// "Sfx\Rogue\Rogue34.wav"
+// `Sfx\Rogue\Rogue34.wav`
 const char str_48977C[22];
 ```
 
@@ -1943,7 +1943,7 @@ const char str_48977C[22];
 ### str_489794
 
 ```c
-// "Sfx\Rogue\Rogue33.wav"
+// `Sfx\Rogue\Rogue33.wav`
 const char str_489794[22];
 ```
 
@@ -1952,7 +1952,7 @@ const char str_489794[22];
 ### str_4897AC
 
 ```c
-// "Sfx\Rogue\Rogue32.wav"
+// `Sfx\Rogue\Rogue32.wav`
 const char str_4897AC[22];
 ```
 
@@ -1961,7 +1961,7 @@ const char str_4897AC[22];
 ### str_4897C4
 
 ```c
-// "Sfx\Rogue\Rogue31.wav"
+// `Sfx\Rogue\Rogue31.wav`
 const char str_4897C4[22];
 ```
 
@@ -1970,7 +1970,7 @@ const char str_4897C4[22];
 ### str_4897DC
 
 ```c
-// "Sfx\Rogue\Rogue30.wav"
+// `Sfx\Rogue\Rogue30.wav`
 const char str_4897DC[22];
 ```
 
@@ -1979,7 +1979,7 @@ const char str_4897DC[22];
 ### str_4897F4
 
 ```c
-// "Sfx\Rogue\Rogue29.wav"
+// `Sfx\Rogue\Rogue29.wav`
 const char str_4897F4[22];
 ```
 
@@ -1988,7 +1988,7 @@ const char str_4897F4[22];
 ### str_48980C
 
 ```c
-// "Sfx\Rogue\Rogue28.wav"
+// `Sfx\Rogue\Rogue28.wav`
 const char str_48980C[22];
 ```
 
@@ -1997,7 +1997,7 @@ const char str_48980C[22];
 ### str_489824
 
 ```c
-// "Sfx\Rogue\Rogue27.wav"
+// `Sfx\Rogue\Rogue27.wav`
 const char str_489824[22];
 ```
 
@@ -2006,7 +2006,7 @@ const char str_489824[22];
 ### str_48983C
 
 ```c
-// "Sfx\Rogue\Rogue26.wav"
+// `Sfx\Rogue\Rogue26.wav`
 const char str_48983C[22];
 ```
 
@@ -2015,7 +2015,7 @@ const char str_48983C[22];
 ### str_489854
 
 ```c
-// "Sfx\Rogue\Rogue25.wav"
+// `Sfx\Rogue\Rogue25.wav`
 const char str_489854[22];
 ```
 
@@ -2024,7 +2024,7 @@ const char str_489854[22];
 ### str_48986C
 
 ```c
-// "Sfx\Rogue\Rogue24.wav"
+// `Sfx\Rogue\Rogue24.wav`
 const char str_48986C[22];
 ```
 
@@ -2033,7 +2033,7 @@ const char str_48986C[22];
 ### str_489884
 
 ```c
-// "Sfx\Rogue\Rogue23.wav"
+// `Sfx\Rogue\Rogue23.wav`
 const char str_489884[22];
 ```
 
@@ -2042,7 +2042,7 @@ const char str_489884[22];
 ### str_48989C
 
 ```c
-// "Sfx\Rogue\Rogue22.wav"
+// `Sfx\Rogue\Rogue22.wav`
 const char str_48989C[22];
 ```
 
@@ -2051,7 +2051,7 @@ const char str_48989C[22];
 ### str_4898B4
 
 ```c
-// "Sfx\Rogue\Rogue21.wav"
+// `Sfx\Rogue\Rogue21.wav`
 const char str_4898B4[22];
 ```
 
@@ -2060,7 +2060,7 @@ const char str_4898B4[22];
 ### str_4898CC
 
 ```c
-// "Sfx\Rogue\Rogue20.wav"
+// `Sfx\Rogue\Rogue20.wav`
 const char str_4898CC[22];
 ```
 
@@ -2069,7 +2069,7 @@ const char str_4898CC[22];
 ### str_4898E4
 
 ```c
-// "Sfx\Rogue\Rogue19.wav"
+// `Sfx\Rogue\Rogue19.wav`
 const char str_4898E4[22];
 ```
 
@@ -2078,7 +2078,7 @@ const char str_4898E4[22];
 ### str_4898FC
 
 ```c
-// "Sfx\Rogue\Rogue18.wav"
+// `Sfx\Rogue\Rogue18.wav`
 const char str_4898FC[22];
 ```
 
@@ -2087,7 +2087,7 @@ const char str_4898FC[22];
 ### str_489914
 
 ```c
-// "Sfx\Rogue\Rogue17.wav"
+// `Sfx\Rogue\Rogue17.wav`
 const char str_489914[22];
 ```
 
@@ -2096,7 +2096,7 @@ const char str_489914[22];
 ### str_48992C
 
 ```c
-// "Sfx\Rogue\Rogue16.wav"
+// `Sfx\Rogue\Rogue16.wav`
 const char str_48992C[22];
 ```
 
@@ -2105,7 +2105,7 @@ const char str_48992C[22];
 ### str_489944
 
 ```c
-// "Sfx\Rogue\Rogue15.wav"
+// `Sfx\Rogue\Rogue15.wav`
 const char str_489944[22];
 ```
 
@@ -2114,7 +2114,7 @@ const char str_489944[22];
 ### str_48995C
 
 ```c
-// "Sfx\Rogue\Rogue14.wav"
+// `Sfx\Rogue\Rogue14.wav`
 const char str_48995C[22];
 ```
 
@@ -2123,7 +2123,7 @@ const char str_48995C[22];
 ### str_489974
 
 ```c
-// "Sfx\Rogue\Rogue13.wav"
+// `Sfx\Rogue\Rogue13.wav`
 const char str_489974[22];
 ```
 
@@ -2132,7 +2132,7 @@ const char str_489974[22];
 ### str_48998C
 
 ```c
-// "Sfx\Rogue\Rogue12.wav"
+// `Sfx\Rogue\Rogue12.wav`
 const char str_48998C[22];
 ```
 
@@ -2141,7 +2141,7 @@ const char str_48998C[22];
 ### str_4899A4
 
 ```c
-// "Sfx\Rogue\Rogue11.wav"
+// `Sfx\Rogue\Rogue11.wav`
 const char str_4899A4[22];
 ```
 
@@ -2150,7 +2150,7 @@ const char str_4899A4[22];
 ### str_4899BC
 
 ```c
-// "Sfx\Rogue\Rogue10.wav"
+// `Sfx\Rogue\Rogue10.wav`
 const char str_4899BC[22];
 ```
 
@@ -2159,7 +2159,7 @@ const char str_4899BC[22];
 ### str_4899D4
 
 ```c
-// "Sfx\Rogue\Rogue09.wav"
+// `Sfx\Rogue\Rogue09.wav`
 const char str_4899D4[22];
 ```
 
@@ -2168,7 +2168,7 @@ const char str_4899D4[22];
 ### str_4899EC
 
 ```c
-// "Sfx\Rogue\Rogue08.wav"
+// `Sfx\Rogue\Rogue08.wav`
 const char str_4899EC[22];
 ```
 
@@ -2177,7 +2177,7 @@ const char str_4899EC[22];
 ### str_489A04
 
 ```c
-// "Sfx\Rogue\Rogue07.wav"
+// `Sfx\Rogue\Rogue07.wav`
 const char str_489A04[22];
 ```
 
@@ -2186,7 +2186,7 @@ const char str_489A04[22];
 ### str_489A1C
 
 ```c
-// "Sfx\Rogue\Rogue06.wav"
+// `Sfx\Rogue\Rogue06.wav`
 const char str_489A1C[22];
 ```
 
@@ -2195,7 +2195,7 @@ const char str_489A1C[22];
 ### str_489A34
 
 ```c
-// "Sfx\Rogue\Rogue05.wav"
+// `Sfx\Rogue\Rogue05.wav`
 const char str_489A34[22];
 ```
 
@@ -2204,7 +2204,7 @@ const char str_489A34[22];
 ### str_489A4C
 
 ```c
-// "Sfx\Rogue\Rogue04.wav"
+// `Sfx\Rogue\Rogue04.wav`
 const char str_489A4C[22];
 ```
 
@@ -2213,7 +2213,7 @@ const char str_489A4C[22];
 ### str_489A64
 
 ```c
-// "Sfx\Rogue\Rogue03.wav"
+// `Sfx\Rogue\Rogue03.wav`
 const char str_489A64[22];
 ```
 
@@ -2222,7 +2222,7 @@ const char str_489A64[22];
 ### str_489A7C
 
 ```c
-// "Sfx\Rogue\Rogue02.wav"
+// `Sfx\Rogue\Rogue02.wav`
 const char str_489A7C[22];
 ```
 
@@ -2231,7 +2231,7 @@ const char str_489A7C[22];
 ### str_489A94
 
 ```c
-// "Sfx\Rogue\Rogue01.wav"
+// `Sfx\Rogue\Rogue01.wav`
 const char str_489A94[22];
 ```
 
@@ -2240,7 +2240,7 @@ const char str_489A94[22];
 ### str_489AAC
 
 ```c
-// "Sfx\Sorceror\Mage102.wav"
+// `Sfx\Sorceror\Mage102.wav`
 const char str_489AAC[25];
 ```
 
@@ -2249,7 +2249,7 @@ const char str_489AAC[25];
 ### str_489AC8
 
 ```c
-// "Sfx\Sorceror\Mage101.wav"
+// `Sfx\Sorceror\Mage101.wav`
 const char str_489AC8[25];
 ```
 
@@ -2258,7 +2258,7 @@ const char str_489AC8[25];
 ### str_489AE4
 
 ```c
-// "Sfx\Sorceror\Mage100.wav"
+// `Sfx\Sorceror\Mage100.wav`
 const char str_489AE4[25];
 ```
 
@@ -2267,7 +2267,7 @@ const char str_489AE4[25];
 ### str_489B00
 
 ```c
-// "Sfx\Sorceror\Mage99.wav"
+// `Sfx\Sorceror\Mage99.wav`
 const char str_489B00[24];
 ```
 
@@ -2276,7 +2276,7 @@ const char str_489B00[24];
 ### str_489B18
 
 ```c
-// "Sfx\Sorceror\Mage98.wav"
+// `Sfx\Sorceror\Mage98.wav`
 const char str_489B18[24];
 ```
 
@@ -2285,7 +2285,7 @@ const char str_489B18[24];
 ### str_489B30
 
 ```c
-// "Sfx\Sorceror\Mage97.wav"
+// `Sfx\Sorceror\Mage97.wav`
 const char str_489B30[24];
 ```
 
@@ -2294,7 +2294,7 @@ const char str_489B30[24];
 ### str_489B48
 
 ```c
-// "Sfx\Sorceror\Mage96.wav"
+// `Sfx\Sorceror\Mage96.wav`
 const char str_489B48[24];
 ```
 
@@ -2303,7 +2303,7 @@ const char str_489B48[24];
 ### str_489B60
 
 ```c
-// "Sfx\Sorceror\Mage95.wav"
+// `Sfx\Sorceror\Mage95.wav`
 const char str_489B60[24];
 ```
 
@@ -2312,7 +2312,7 @@ const char str_489B60[24];
 ### str_489B78
 
 ```c
-// "Sfx\Sorceror\Mage94.wav"
+// `Sfx\Sorceror\Mage94.wav`
 const char str_489B78[24];
 ```
 
@@ -2321,7 +2321,7 @@ const char str_489B78[24];
 ### str_489B90
 
 ```c
-// "Sfx\Sorceror\Mage93.wav"
+// `Sfx\Sorceror\Mage93.wav`
 const char str_489B90[24];
 ```
 
@@ -2330,7 +2330,7 @@ const char str_489B90[24];
 ### str_489BA8
 
 ```c
-// "Sfx\Sorceror\Mage92.wav"
+// `Sfx\Sorceror\Mage92.wav`
 const char str_489BA8[24];
 ```
 
@@ -2339,7 +2339,7 @@ const char str_489BA8[24];
 ### str_489BC0
 
 ```c
-// "Sfx\Sorceror\Mage91.wav"
+// `Sfx\Sorceror\Mage91.wav`
 const char str_489BC0[24];
 ```
 
@@ -2348,7 +2348,7 @@ const char str_489BC0[24];
 ### str_489BD8
 
 ```c
-// "Sfx\Sorceror\Mage90.wav"
+// `Sfx\Sorceror\Mage90.wav`
 const char str_489BD8[24];
 ```
 
@@ -2357,7 +2357,7 @@ const char str_489BD8[24];
 ### str_489BF0
 
 ```c
-// "Sfx\Sorceror\Mage89.wav"
+// `Sfx\Sorceror\Mage89.wav`
 const char str_489BF0[24];
 ```
 
@@ -2366,7 +2366,7 @@ const char str_489BF0[24];
 ### str_489C08
 
 ```c
-// "Sfx\Sorceror\Mage88.wav"
+// `Sfx\Sorceror\Mage88.wav`
 const char str_489C08[24];
 ```
 
@@ -2375,7 +2375,7 @@ const char str_489C08[24];
 ### str_489C20
 
 ```c
-// "Sfx\Sorceror\Mage87.wav"
+// `Sfx\Sorceror\Mage87.wav`
 const char str_489C20[24];
 ```
 
@@ -2384,7 +2384,7 @@ const char str_489C20[24];
 ### str_489C38
 
 ```c
-// "Sfx\Sorceror\Mage86.wav"
+// `Sfx\Sorceror\Mage86.wav`
 const char str_489C38[24];
 ```
 
@@ -2393,7 +2393,7 @@ const char str_489C38[24];
 ### str_489C50
 
 ```c
-// "Sfx\Sorceror\Mage85.wav"
+// `Sfx\Sorceror\Mage85.wav`
 const char str_489C50[24];
 ```
 
@@ -2402,7 +2402,7 @@ const char str_489C50[24];
 ### str_489C68
 
 ```c
-// "Sfx\Sorceror\Mage84.wav"
+// `Sfx\Sorceror\Mage84.wav`
 const char str_489C68[24];
 ```
 
@@ -2411,7 +2411,7 @@ const char str_489C68[24];
 ### str_489C80
 
 ```c
-// "Sfx\Sorceror\Mage83.wav"
+// `Sfx\Sorceror\Mage83.wav`
 const char str_489C80[24];
 ```
 
@@ -2420,7 +2420,7 @@ const char str_489C80[24];
 ### str_489C98
 
 ```c
-// "Sfx\Sorceror\Mage82.wav"
+// `Sfx\Sorceror\Mage82.wav`
 const char str_489C98[24];
 ```
 
@@ -2429,7 +2429,7 @@ const char str_489C98[24];
 ### str_489CB0
 
 ```c
-// "Sfx\Sorceror\Mage81.wav"
+// `Sfx\Sorceror\Mage81.wav`
 const char str_489CB0[24];
 ```
 
@@ -2438,7 +2438,7 @@ const char str_489CB0[24];
 ### str_489CC8
 
 ```c
-// "Sfx\Sorceror\Mage80.wav"
+// `Sfx\Sorceror\Mage80.wav`
 const char str_489CC8[24];
 ```
 
@@ -2447,7 +2447,7 @@ const char str_489CC8[24];
 ### str_489CE0
 
 ```c
-// "Sfx\Sorceror\Mage79.wav"
+// `Sfx\Sorceror\Mage79.wav`
 const char str_489CE0[24];
 ```
 
@@ -2456,7 +2456,7 @@ const char str_489CE0[24];
 ### str_489CF8
 
 ```c
-// "Sfx\Sorceror\Mage78.wav"
+// `Sfx\Sorceror\Mage78.wav`
 const char str_489CF8[24];
 ```
 
@@ -2465,7 +2465,7 @@ const char str_489CF8[24];
 ### str_489D10
 
 ```c
-// "Sfx\Sorceror\Mage77.wav"
+// `Sfx\Sorceror\Mage77.wav`
 const char str_489D10[24];
 ```
 
@@ -2474,7 +2474,7 @@ const char str_489D10[24];
 ### str_489D28
 
 ```c
-// "Sfx\Sorceror\Mage76.wav"
+// `Sfx\Sorceror\Mage76.wav`
 const char str_489D28[24];
 ```
 
@@ -2483,7 +2483,7 @@ const char str_489D28[24];
 ### str_489D40
 
 ```c
-// "Sfx\Sorceror\Mage75.wav"
+// `Sfx\Sorceror\Mage75.wav`
 const char str_489D40[24];
 ```
 
@@ -2492,7 +2492,7 @@ const char str_489D40[24];
 ### str_489D58
 
 ```c
-// "Sfx\Sorceror\Mage74.wav"
+// `Sfx\Sorceror\Mage74.wav`
 const char str_489D58[24];
 ```
 
@@ -2501,7 +2501,7 @@ const char str_489D58[24];
 ### str_489D70
 
 ```c
-// "Sfx\Sorceror\Mage73.wav"
+// `Sfx\Sorceror\Mage73.wav`
 const char str_489D70[24];
 ```
 
@@ -2510,7 +2510,7 @@ const char str_489D70[24];
 ### str_489D88
 
 ```c
-// "Sfx\Sorceror\Mage72.wav"
+// `Sfx\Sorceror\Mage72.wav`
 const char str_489D88[24];
 ```
 
@@ -2519,7 +2519,7 @@ const char str_489D88[24];
 ### str_489DA0
 
 ```c
-// "Sfx\Sorceror\Mage71.wav"
+// `Sfx\Sorceror\Mage71.wav`
 const char str_489DA0[24];
 ```
 
@@ -2528,7 +2528,7 @@ const char str_489DA0[24];
 ### str_489DB8
 
 ```c
-// "Sfx\Sorceror\Mage70.wav"
+// `Sfx\Sorceror\Mage70.wav`
 const char str_489DB8[24];
 ```
 
@@ -2537,7 +2537,7 @@ const char str_489DB8[24];
 ### str_489DD0
 
 ```c
-// "Sfx\Sorceror\Mage69b.wav"
+// `Sfx\Sorceror\Mage69b.wav`
 const char str_489DD0[25];
 ```
 
@@ -2546,7 +2546,7 @@ const char str_489DD0[25];
 ### str_489DEC
 
 ```c
-// "Sfx\Sorceror\Mage69.wav"
+// `Sfx\Sorceror\Mage69.wav`
 const char str_489DEC[24];
 ```
 
@@ -2555,7 +2555,7 @@ const char str_489DEC[24];
 ### str_489E04
 
 ```c
-// "Sfx\Sorceror\Mage68.wav"
+// `Sfx\Sorceror\Mage68.wav`
 const char str_489E04[24];
 ```
 
@@ -2564,7 +2564,7 @@ const char str_489E04[24];
 ### str_489E1C
 
 ```c
-// "Sfx\Sorceror\Mage67.wav"
+// `Sfx\Sorceror\Mage67.wav`
 const char str_489E1C[24];
 ```
 
@@ -2573,7 +2573,7 @@ const char str_489E1C[24];
 ### str_489E34
 
 ```c
-// "Sfx\Sorceror\Mage66.wav"
+// `Sfx\Sorceror\Mage66.wav`
 const char str_489E34[24];
 ```
 
@@ -2582,7 +2582,7 @@ const char str_489E34[24];
 ### str_489E4C
 
 ```c
-// "Sfx\Sorceror\Mage65.wav"
+// `Sfx\Sorceror\Mage65.wav`
 const char str_489E4C[24];
 ```
 
@@ -2591,7 +2591,7 @@ const char str_489E4C[24];
 ### str_489E64
 
 ```c
-// "Sfx\Sorceror\Mage64.wav"
+// `Sfx\Sorceror\Mage64.wav`
 const char str_489E64[24];
 ```
 
@@ -2600,7 +2600,7 @@ const char str_489E64[24];
 ### str_489E7C
 
 ```c
-// "Sfx\Sorceror\Mage63.wav"
+// `Sfx\Sorceror\Mage63.wav`
 const char str_489E7C[24];
 ```
 
@@ -2609,7 +2609,7 @@ const char str_489E7C[24];
 ### str_489E94
 
 ```c
-// "Sfx\Sorceror\Mage62.wav"
+// `Sfx\Sorceror\Mage62.wav`
 const char str_489E94[24];
 ```
 
@@ -2618,7 +2618,7 @@ const char str_489E94[24];
 ### str_489EAC
 
 ```c
-// "Sfx\Sorceror\Mage61.wav"
+// `Sfx\Sorceror\Mage61.wav`
 const char str_489EAC[24];
 ```
 
@@ -2627,7 +2627,7 @@ const char str_489EAC[24];
 ### str_489EC4
 
 ```c
-// "Sfx\Sorceror\Mage60.wav"
+// `Sfx\Sorceror\Mage60.wav`
 const char str_489EC4[24];
 ```
 
@@ -2636,7 +2636,7 @@ const char str_489EC4[24];
 ### str_489EDC
 
 ```c
-// "Sfx\Sorceror\Mage59.wav"
+// `Sfx\Sorceror\Mage59.wav`
 const char str_489EDC[24];
 ```
 
@@ -2645,7 +2645,7 @@ const char str_489EDC[24];
 ### str_489EF4
 
 ```c
-// "Sfx\Sorceror\Mage58.wav"
+// `Sfx\Sorceror\Mage58.wav`
 const char str_489EF4[24];
 ```
 
@@ -2654,7 +2654,7 @@ const char str_489EF4[24];
 ### str_489F0C
 
 ```c
-// "Sfx\Sorceror\Mage57.wav"
+// `Sfx\Sorceror\Mage57.wav`
 const char str_489F0C[24];
 ```
 
@@ -2663,7 +2663,7 @@ const char str_489F0C[24];
 ### str_489F24
 
 ```c
-// "Sfx\Sorceror\Mage56.wav"
+// `Sfx\Sorceror\Mage56.wav`
 const char str_489F24[24];
 ```
 
@@ -2672,7 +2672,7 @@ const char str_489F24[24];
 ### str_489F3C
 
 ```c
-// "Sfx\Sorceror\Mage55.wav"
+// `Sfx\Sorceror\Mage55.wav`
 const char str_489F3C[24];
 ```
 
@@ -2681,7 +2681,7 @@ const char str_489F3C[24];
 ### str_489F54
 
 ```c
-// "Sfx\Sorceror\Mage54.wav"
+// `Sfx\Sorceror\Mage54.wav`
 const char str_489F54[24];
 ```
 
@@ -2690,7 +2690,7 @@ const char str_489F54[24];
 ### str_489F6C
 
 ```c
-// "Sfx\Sorceror\Mage53.wav"
+// `Sfx\Sorceror\Mage53.wav`
 const char str_489F6C[24];
 ```
 
@@ -2699,7 +2699,7 @@ const char str_489F6C[24];
 ### str_489F84
 
 ```c
-// "Sfx\Sorceror\Mage52.wav"
+// `Sfx\Sorceror\Mage52.wav`
 const char str_489F84[24];
 ```
 
@@ -2708,7 +2708,7 @@ const char str_489F84[24];
 ### str_489F9C
 
 ```c
-// "Sfx\Sorceror\Mage51.wav"
+// `Sfx\Sorceror\Mage51.wav`
 const char str_489F9C[24];
 ```
 
@@ -2717,7 +2717,7 @@ const char str_489F9C[24];
 ### str_489FB4
 
 ```c
-// "Sfx\Sorceror\Mage50.wav"
+// `Sfx\Sorceror\Mage50.wav`
 const char str_489FB4[24];
 ```
 
@@ -2726,7 +2726,7 @@ const char str_489FB4[24];
 ### str_489FCC
 
 ```c
-// "Sfx\Sorceror\Mage49.wav"
+// `Sfx\Sorceror\Mage49.wav`
 const char str_489FCC[24];
 ```
 
@@ -2735,7 +2735,7 @@ const char str_489FCC[24];
 ### str_489FE4
 
 ```c
-// "Sfx\Sorceror\Mage48.wav"
+// `Sfx\Sorceror\Mage48.wav`
 const char str_489FE4[24];
 ```
 
@@ -2744,7 +2744,7 @@ const char str_489FE4[24];
 ### str_489FFC
 
 ```c
-// "Sfx\Sorceror\Mage47.wav"
+// `Sfx\Sorceror\Mage47.wav`
 const char str_489FFC[24];
 ```
 
@@ -2753,7 +2753,7 @@ const char str_489FFC[24];
 ### str_48A014
 
 ```c
-// "Sfx\Sorceror\Mage46.wav"
+// `Sfx\Sorceror\Mage46.wav`
 const char str_48A014[24];
 ```
 
@@ -2762,7 +2762,7 @@ const char str_48A014[24];
 ### str_48A02C
 
 ```c
-// "Sfx\Sorceror\Mage45.wav"
+// `Sfx\Sorceror\Mage45.wav`
 const char str_48A02C[24];
 ```
 
@@ -2771,7 +2771,7 @@ const char str_48A02C[24];
 ### str_48A044
 
 ```c
-// "Sfx\Sorceror\Mage44.wav"
+// `Sfx\Sorceror\Mage44.wav`
 const char str_48A044[24];
 ```
 
@@ -2780,7 +2780,7 @@ const char str_48A044[24];
 ### str_48A05C
 
 ```c
-// "Sfx\Sorceror\Mage43.wav"
+// `Sfx\Sorceror\Mage43.wav`
 const char str_48A05C[24];
 ```
 
@@ -2789,7 +2789,7 @@ const char str_48A05C[24];
 ### str_48A074
 
 ```c
-// "Sfx\Sorceror\Mage42.wav"
+// `Sfx\Sorceror\Mage42.wav`
 const char str_48A074[24];
 ```
 
@@ -2798,7 +2798,7 @@ const char str_48A074[24];
 ### str_48A08C
 
 ```c
-// "Sfx\Sorceror\Mage41.wav"
+// `Sfx\Sorceror\Mage41.wav`
 const char str_48A08C[24];
 ```
 
@@ -2807,7 +2807,7 @@ const char str_48A08C[24];
 ### str_48A0A4
 
 ```c
-// "Sfx\Sorceror\Mage40.wav"
+// `Sfx\Sorceror\Mage40.wav`
 const char str_48A0A4[24];
 ```
 
@@ -2816,7 +2816,7 @@ const char str_48A0A4[24];
 ### str_48A0BC
 
 ```c
-// "Sfx\Sorceror\Mage39.wav"
+// `Sfx\Sorceror\Mage39.wav`
 const char str_48A0BC[24];
 ```
 
@@ -2825,7 +2825,7 @@ const char str_48A0BC[24];
 ### str_48A0D4
 
 ```c
-// "Sfx\Sorceror\Mage38.wav"
+// `Sfx\Sorceror\Mage38.wav`
 const char str_48A0D4[24];
 ```
 
@@ -2834,7 +2834,7 @@ const char str_48A0D4[24];
 ### str_48A0EC
 
 ```c
-// "Sfx\Sorceror\Mage37.wav"
+// `Sfx\Sorceror\Mage37.wav`
 const char str_48A0EC[24];
 ```
 
@@ -2843,7 +2843,7 @@ const char str_48A0EC[24];
 ### str_48A104
 
 ```c
-// "Sfx\Sorceror\Mage36.wav"
+// `Sfx\Sorceror\Mage36.wav`
 const char str_48A104[24];
 ```
 
@@ -2852,7 +2852,7 @@ const char str_48A104[24];
 ### str_48A11C
 
 ```c
-// "Sfx\Sorceror\Mage35.wav"
+// `Sfx\Sorceror\Mage35.wav`
 const char str_48A11C[24];
 ```
 
@@ -2861,7 +2861,7 @@ const char str_48A11C[24];
 ### str_48A134
 
 ```c
-// "Sfx\Sorceror\Mage34.wav"
+// `Sfx\Sorceror\Mage34.wav`
 const char str_48A134[24];
 ```
 
@@ -2870,7 +2870,7 @@ const char str_48A134[24];
 ### str_48A14C
 
 ```c
-// "Sfx\Sorceror\Mage33.wav"
+// `Sfx\Sorceror\Mage33.wav`
 const char str_48A14C[24];
 ```
 
@@ -2879,7 +2879,7 @@ const char str_48A14C[24];
 ### str_48A164
 
 ```c
-// "Sfx\Sorceror\Mage32.wav"
+// `Sfx\Sorceror\Mage32.wav`
 const char str_48A164[24];
 ```
 
@@ -2888,7 +2888,7 @@ const char str_48A164[24];
 ### str_48A17C
 
 ```c
-// "Sfx\Sorceror\Mage31.wav"
+// `Sfx\Sorceror\Mage31.wav`
 const char str_48A17C[24];
 ```
 
@@ -2897,7 +2897,7 @@ const char str_48A17C[24];
 ### str_48A194
 
 ```c
-// "Sfx\Sorceror\Mage30.wav"
+// `Sfx\Sorceror\Mage30.wav`
 const char str_48A194[24];
 ```
 
@@ -2906,7 +2906,7 @@ const char str_48A194[24];
 ### str_48A1AC
 
 ```c
-// "Sfx\Sorceror\Mage29.wav"
+// `Sfx\Sorceror\Mage29.wav`
 const char str_48A1AC[24];
 ```
 
@@ -2915,7 +2915,7 @@ const char str_48A1AC[24];
 ### str_48A1C4
 
 ```c
-// "Sfx\Sorceror\Mage28.wav"
+// `Sfx\Sorceror\Mage28.wav`
 const char str_48A1C4[24];
 ```
 
@@ -2924,7 +2924,7 @@ const char str_48A1C4[24];
 ### str_48A1DC
 
 ```c
-// "Sfx\Sorceror\Mage27.wav"
+// `Sfx\Sorceror\Mage27.wav`
 const char str_48A1DC[24];
 ```
 
@@ -2933,7 +2933,7 @@ const char str_48A1DC[24];
 ### str_48A1F4
 
 ```c
-// "Sfx\Sorceror\Mage26.wav"
+// `Sfx\Sorceror\Mage26.wav`
 const char str_48A1F4[24];
 ```
 
@@ -2942,7 +2942,7 @@ const char str_48A1F4[24];
 ### str_48A20C
 
 ```c
-// "Sfx\Sorceror\Mage25.wav"
+// `Sfx\Sorceror\Mage25.wav`
 const char str_48A20C[24];
 ```
 
@@ -2951,7 +2951,7 @@ const char str_48A20C[24];
 ### str_48A224
 
 ```c
-// "Sfx\Sorceror\Mage24.wav"
+// `Sfx\Sorceror\Mage24.wav`
 const char str_48A224[24];
 ```
 
@@ -2960,7 +2960,7 @@ const char str_48A224[24];
 ### str_48A23C
 
 ```c
-// "Sfx\Sorceror\Mage23.wav"
+// `Sfx\Sorceror\Mage23.wav`
 const char str_48A23C[24];
 ```
 
@@ -2969,7 +2969,7 @@ const char str_48A23C[24];
 ### str_48A254
 
 ```c
-// "Sfx\Sorceror\Mage22.wav"
+// `Sfx\Sorceror\Mage22.wav`
 const char str_48A254[24];
 ```
 
@@ -2978,7 +2978,7 @@ const char str_48A254[24];
 ### str_48A26C
 
 ```c
-// "Sfx\Sorceror\Mage21.wav"
+// `Sfx\Sorceror\Mage21.wav`
 const char str_48A26C[24];
 ```
 
@@ -2987,7 +2987,7 @@ const char str_48A26C[24];
 ### str_48A284
 
 ```c
-// "Sfx\Sorceror\Mage20.wav"
+// `Sfx\Sorceror\Mage20.wav`
 const char str_48A284[24];
 ```
 
@@ -2996,7 +2996,7 @@ const char str_48A284[24];
 ### str_48A29C
 
 ```c
-// "Sfx\Sorceror\Mage19.wav"
+// `Sfx\Sorceror\Mage19.wav`
 const char str_48A29C[24];
 ```
 
@@ -3005,7 +3005,7 @@ const char str_48A29C[24];
 ### str_48A2B4
 
 ```c
-// "Sfx\Sorceror\Mage18.wav"
+// `Sfx\Sorceror\Mage18.wav`
 const char str_48A2B4[24];
 ```
 
@@ -3014,7 +3014,7 @@ const char str_48A2B4[24];
 ### str_48A2CC
 
 ```c
-// "Sfx\Sorceror\Mage17.wav"
+// `Sfx\Sorceror\Mage17.wav`
 const char str_48A2CC[24];
 ```
 
@@ -3023,7 +3023,7 @@ const char str_48A2CC[24];
 ### str_48A2E4
 
 ```c
-// "Sfx\Sorceror\Mage16.wav"
+// `Sfx\Sorceror\Mage16.wav`
 const char str_48A2E4[24];
 ```
 
@@ -3032,7 +3032,7 @@ const char str_48A2E4[24];
 ### str_48A2FC
 
 ```c
-// "Sfx\Sorceror\Mage15.wav"
+// `Sfx\Sorceror\Mage15.wav`
 const char str_48A2FC[24];
 ```
 
@@ -3041,7 +3041,7 @@ const char str_48A2FC[24];
 ### str_48A314
 
 ```c
-// "Sfx\Sorceror\Mage14.wav"
+// `Sfx\Sorceror\Mage14.wav`
 const char str_48A314[24];
 ```
 
@@ -3050,7 +3050,7 @@ const char str_48A314[24];
 ### str_48A32C
 
 ```c
-// "Sfx\Sorceror\Mage13.wav"
+// `Sfx\Sorceror\Mage13.wav`
 const char str_48A32C[24];
 ```
 
@@ -3059,7 +3059,7 @@ const char str_48A32C[24];
 ### str_48A344
 
 ```c
-// "Sfx\Sorceror\Mage12.wav"
+// `Sfx\Sorceror\Mage12.wav`
 const char str_48A344[24];
 ```
 
@@ -3068,7 +3068,7 @@ const char str_48A344[24];
 ### str_48A35C
 
 ```c
-// "Sfx\Sorceror\Mage11.wav"
+// `Sfx\Sorceror\Mage11.wav`
 const char str_48A35C[24];
 ```
 
@@ -3077,7 +3077,7 @@ const char str_48A35C[24];
 ### str_48A374
 
 ```c
-// "Sfx\Sorceror\Mage10.wav"
+// `Sfx\Sorceror\Mage10.wav`
 const char str_48A374[24];
 ```
 
@@ -3086,7 +3086,7 @@ const char str_48A374[24];
 ### str_48A38C
 
 ```c
-// "Sfx\Sorceror\Mage09.wav"
+// `Sfx\Sorceror\Mage09.wav`
 const char str_48A38C[24];
 ```
 
@@ -3095,7 +3095,7 @@ const char str_48A38C[24];
 ### str_48A3A4
 
 ```c
-// "Sfx\Sorceror\Mage08.wav"
+// `Sfx\Sorceror\Mage08.wav`
 const char str_48A3A4[24];
 ```
 
@@ -3104,7 +3104,7 @@ const char str_48A3A4[24];
 ### str_48A3BC
 
 ```c
-// "Sfx\Sorceror\Mage07.wav"
+// `Sfx\Sorceror\Mage07.wav`
 const char str_48A3BC[24];
 ```
 
@@ -3113,7 +3113,7 @@ const char str_48A3BC[24];
 ### str_48A3D4
 
 ```c
-// "Sfx\Sorceror\Mage06.wav"
+// `Sfx\Sorceror\Mage06.wav`
 const char str_48A3D4[24];
 ```
 
@@ -3122,7 +3122,7 @@ const char str_48A3D4[24];
 ### str_48A3EC
 
 ```c
-// "Sfx\Sorceror\Mage05.wav"
+// `Sfx\Sorceror\Mage05.wav`
 const char str_48A3EC[24];
 ```
 
@@ -3131,7 +3131,7 @@ const char str_48A3EC[24];
 ### str_48A404
 
 ```c
-// "Sfx\Sorceror\Mage04.wav"
+// `Sfx\Sorceror\Mage04.wav`
 const char str_48A404[24];
 ```
 
@@ -3140,7 +3140,7 @@ const char str_48A404[24];
 ### str_48A41C
 
 ```c
-// "Sfx\Sorceror\Mage03.wav"
+// `Sfx\Sorceror\Mage03.wav`
 const char str_48A41C[24];
 ```
 
@@ -3149,7 +3149,7 @@ const char str_48A41C[24];
 ### str_48A434
 
 ```c
-// "Sfx\Sorceror\Mage02.wav"
+// `Sfx\Sorceror\Mage02.wav`
 const char str_48A434[24];
 ```
 
@@ -3158,7 +3158,7 @@ const char str_48A434[24];
 ### str_48A44C
 
 ```c
-// "Sfx\Sorceror\Mage01.wav"
+// `Sfx\Sorceror\Mage01.wav`
 const char str_48A44C[24];
 ```
 
@@ -3167,7 +3167,7 @@ const char str_48A44C[24];
 ### str_48A464
 
 ```c
-// "Sfx\Towners\Wound01.wav"
+// `Sfx\Towners\Wound01.wav`
 const char str_48A464[24];
 ```
 
@@ -3176,7 +3176,7 @@ const char str_48A464[24];
 ### str_48A47C
 
 ```c
-// "Sfx\Towners\Witch50.wav"
+// `Sfx\Towners\Witch50.wav`
 const char str_48A47C[24];
 ```
 
@@ -3185,7 +3185,7 @@ const char str_48A47C[24];
 ### str_48A494
 
 ```c
-// "Sfx\Towners\Witch49.wav"
+// `Sfx\Towners\Witch49.wav`
 const char str_48A494[24];
 ```
 
@@ -3194,7 +3194,7 @@ const char str_48A494[24];
 ### str_48A4AC
 
 ```c
-// "Sfx\Towners\Witch48.wav"
+// `Sfx\Towners\Witch48.wav`
 const char str_48A4AC[24];
 ```
 
@@ -3203,7 +3203,7 @@ const char str_48A4AC[24];
 ### str_48A4C4
 
 ```c
-// "Sfx\Towners\Witch47.wav"
+// `Sfx\Towners\Witch47.wav`
 const char str_48A4C4[24];
 ```
 
@@ -3212,7 +3212,7 @@ const char str_48A4C4[24];
 ### str_48A4DC
 
 ```c
-// "Sfx\Towners\Witch46.wav"
+// `Sfx\Towners\Witch46.wav`
 const char str_48A4DC[24];
 ```
 
@@ -3221,7 +3221,7 @@ const char str_48A4DC[24];
 ### str_48A4F4
 
 ```c
-// "Sfx\Towners\Witch45.wav"
+// `Sfx\Towners\Witch45.wav`
 const char str_48A4F4[24];
 ```
 
@@ -3230,7 +3230,7 @@ const char str_48A4F4[24];
 ### str_48A50C
 
 ```c
-// "Sfx\Towners\Witch44.wav"
+// `Sfx\Towners\Witch44.wav`
 const char str_48A50C[24];
 ```
 
@@ -3239,7 +3239,7 @@ const char str_48A50C[24];
 ### str_48A524
 
 ```c
-// "Sfx\Towners\Witch43.wav"
+// `Sfx\Towners\Witch43.wav`
 const char str_48A524[24];
 ```
 
@@ -3248,7 +3248,7 @@ const char str_48A524[24];
 ### str_48A53C
 
 ```c
-// "Sfx\Towners\Witch42.wav"
+// `Sfx\Towners\Witch42.wav`
 const char str_48A53C[24];
 ```
 
@@ -3257,7 +3257,7 @@ const char str_48A53C[24];
 ### str_48A554
 
 ```c
-// "Sfx\Towners\Witch41.wav"
+// `Sfx\Towners\Witch41.wav`
 const char str_48A554[24];
 ```
 
@@ -3266,7 +3266,7 @@ const char str_48A554[24];
 ### str_48A56C
 
 ```c
-// "Sfx\Towners\Witch40.wav"
+// `Sfx\Towners\Witch40.wav`
 const char str_48A56C[24];
 ```
 
@@ -3275,7 +3275,7 @@ const char str_48A56C[24];
 ### str_48A584
 
 ```c
-// "Sfx\Towners\Witch39.wav"
+// `Sfx\Towners\Witch39.wav`
 const char str_48A584[24];
 ```
 
@@ -3284,7 +3284,7 @@ const char str_48A584[24];
 ### str_48A59C
 
 ```c
-// "Sfx\Towners\Witch38.wav"
+// `Sfx\Towners\Witch38.wav`
 const char str_48A59C[24];
 ```
 
@@ -3293,7 +3293,7 @@ const char str_48A59C[24];
 ### str_48A5B4
 
 ```c
-// "Sfx\Towners\Witch37.wav"
+// `Sfx\Towners\Witch37.wav`
 const char str_48A5B4[24];
 ```
 
@@ -3302,7 +3302,7 @@ const char str_48A5B4[24];
 ### str_48A5CC
 
 ```c
-// "Sfx\Towners\Witch36.wav"
+// `Sfx\Towners\Witch36.wav`
 const char str_48A5CC[24];
 ```
 
@@ -3311,7 +3311,7 @@ const char str_48A5CC[24];
 ### str_48A5E4
 
 ```c
-// "Sfx\Towners\Witch35.wav"
+// `Sfx\Towners\Witch35.wav`
 const char str_48A5E4[24];
 ```
 
@@ -3320,7 +3320,7 @@ const char str_48A5E4[24];
 ### str_48A5FC
 
 ```c
-// "Sfx\Towners\Witch34.wav"
+// `Sfx\Towners\Witch34.wav`
 const char str_48A5FC[24];
 ```
 
@@ -3329,7 +3329,7 @@ const char str_48A5FC[24];
 ### str_48A614
 
 ```c
-// "Sfx\Towners\Witch33.wav"
+// `Sfx\Towners\Witch33.wav`
 const char str_48A614[24];
 ```
 
@@ -3338,7 +3338,7 @@ const char str_48A614[24];
 ### str_48A62C
 
 ```c
-// "Sfx\Towners\Witch32.wav"
+// `Sfx\Towners\Witch32.wav`
 const char str_48A62C[24];
 ```
 
@@ -3347,7 +3347,7 @@ const char str_48A62C[24];
 ### str_48A644
 
 ```c
-// "Sfx\Towners\Witch31.wav"
+// `Sfx\Towners\Witch31.wav`
 const char str_48A644[24];
 ```
 
@@ -3356,7 +3356,7 @@ const char str_48A644[24];
 ### str_48A65C
 
 ```c
-// "Sfx\Towners\Witch30.wav"
+// `Sfx\Towners\Witch30.wav`
 const char str_48A65C[24];
 ```
 
@@ -3365,7 +3365,7 @@ const char str_48A65C[24];
 ### str_48A674
 
 ```c
-// "Sfx\Towners\Witch29.wav"
+// `Sfx\Towners\Witch29.wav`
 const char str_48A674[24];
 ```
 
@@ -3374,7 +3374,7 @@ const char str_48A674[24];
 ### str_48A68C
 
 ```c
-// "Sfx\Towners\Witch28.wav"
+// `Sfx\Towners\Witch28.wav`
 const char str_48A68C[24];
 ```
 
@@ -3383,7 +3383,7 @@ const char str_48A68C[24];
 ### str_48A6A4
 
 ```c
-// "Sfx\Towners\Witch27.wav"
+// `Sfx\Towners\Witch27.wav`
 const char str_48A6A4[24];
 ```
 
@@ -3392,7 +3392,7 @@ const char str_48A6A4[24];
 ### str_48A6BC
 
 ```c
-// "Sfx\Towners\Witch26.wav"
+// `Sfx\Towners\Witch26.wav`
 const char str_48A6BC[24];
 ```
 
@@ -3401,7 +3401,7 @@ const char str_48A6BC[24];
 ### str_48A6D4
 
 ```c
-// "Sfx\Towners\Witch25.wav"
+// `Sfx\Towners\Witch25.wav`
 const char str_48A6D4[24];
 ```
 
@@ -3410,7 +3410,7 @@ const char str_48A6D4[24];
 ### str_48A6EC
 
 ```c
-// "Sfx\Towners\Witch24.wav"
+// `Sfx\Towners\Witch24.wav`
 const char str_48A6EC[24];
 ```
 
@@ -3419,7 +3419,7 @@ const char str_48A6EC[24];
 ### str_48A704
 
 ```c
-// "Sfx\Towners\Witch23.wav"
+// `Sfx\Towners\Witch23.wav`
 const char str_48A704[24];
 ```
 
@@ -3428,7 +3428,7 @@ const char str_48A704[24];
 ### str_48A71C
 
 ```c
-// "Sfx\Towners\Witch22.wav"
+// `Sfx\Towners\Witch22.wav`
 const char str_48A71C[24];
 ```
 
@@ -3437,7 +3437,7 @@ const char str_48A71C[24];
 ### str_48A734
 
 ```c
-// "Sfx\Towners\Witch21.wav"
+// `Sfx\Towners\Witch21.wav`
 const char str_48A734[24];
 ```
 
@@ -3446,7 +3446,7 @@ const char str_48A734[24];
 ### str_48A74C
 
 ```c
-// "Sfx\Towners\Witch20.wav"
+// `Sfx\Towners\Witch20.wav`
 const char str_48A74C[24];
 ```
 
@@ -3455,7 +3455,7 @@ const char str_48A74C[24];
 ### str_48A764
 
 ```c
-// "Sfx\Towners\Witch19.wav"
+// `Sfx\Towners\Witch19.wav`
 const char str_48A764[24];
 ```
 
@@ -3464,7 +3464,7 @@ const char str_48A764[24];
 ### str_48A77C
 
 ```c
-// "Sfx\Towners\Witch18.wav"
+// `Sfx\Towners\Witch18.wav`
 const char str_48A77C[24];
 ```
 
@@ -3473,7 +3473,7 @@ const char str_48A77C[24];
 ### str_48A794
 
 ```c
-// "Sfx\Towners\Witch17.wav"
+// `Sfx\Towners\Witch17.wav`
 const char str_48A794[24];
 ```
 
@@ -3482,7 +3482,7 @@ const char str_48A794[24];
 ### str_48A7AC
 
 ```c
-// "Sfx\Towners\Witch16.wav"
+// `Sfx\Towners\Witch16.wav`
 const char str_48A7AC[24];
 ```
 
@@ -3491,7 +3491,7 @@ const char str_48A7AC[24];
 ### str_48A7C4
 
 ```c
-// "Sfx\Towners\Witch15.wav"
+// `Sfx\Towners\Witch15.wav`
 const char str_48A7C4[24];
 ```
 
@@ -3500,7 +3500,7 @@ const char str_48A7C4[24];
 ### str_48A7DC
 
 ```c
-// "Sfx\Towners\Witch14.wav"
+// `Sfx\Towners\Witch14.wav`
 const char str_48A7DC[24];
 ```
 
@@ -3509,7 +3509,7 @@ const char str_48A7DC[24];
 ### str_48A7F4
 
 ```c
-// "Sfx\Towners\Witch13.wav"
+// `Sfx\Towners\Witch13.wav`
 const char str_48A7F4[24];
 ```
 
@@ -3518,7 +3518,7 @@ const char str_48A7F4[24];
 ### str_48A80C
 
 ```c
-// "Sfx\Towners\Witch12.wav"
+// `Sfx\Towners\Witch12.wav`
 const char str_48A80C[24];
 ```
 
@@ -3527,7 +3527,7 @@ const char str_48A80C[24];
 ### str_48A824
 
 ```c
-// "Sfx\Towners\Witch11.wav"
+// `Sfx\Towners\Witch11.wav`
 const char str_48A824[24];
 ```
 
@@ -3536,7 +3536,7 @@ const char str_48A824[24];
 ### str_48A83C
 
 ```c
-// "Sfx\Towners\Witch10.wav"
+// `Sfx\Towners\Witch10.wav`
 const char str_48A83C[24];
 ```
 
@@ -3545,7 +3545,7 @@ const char str_48A83C[24];
 ### str_48A854
 
 ```c
-// "Sfx\Towners\Witch09.wav"
+// `Sfx\Towners\Witch09.wav`
 const char str_48A854[24];
 ```
 
@@ -3554,7 +3554,7 @@ const char str_48A854[24];
 ### str_48A86C
 
 ```c
-// "Sfx\Towners\Witch08.wav"
+// `Sfx\Towners\Witch08.wav`
 const char str_48A86C[24];
 ```
 
@@ -3563,7 +3563,7 @@ const char str_48A86C[24];
 ### str_48A884
 
 ```c
-// "Sfx\Towners\Witch07.wav"
+// `Sfx\Towners\Witch07.wav`
 const char str_48A884[24];
 ```
 
@@ -3572,7 +3572,7 @@ const char str_48A884[24];
 ### str_48A89C
 
 ```c
-// "Sfx\Towners\Witch06.wav"
+// `Sfx\Towners\Witch06.wav`
 const char str_48A89C[24];
 ```
 
@@ -3581,7 +3581,7 @@ const char str_48A89C[24];
 ### str_48A8B4
 
 ```c
-// "Sfx\Towners\Witch05.wav"
+// `Sfx\Towners\Witch05.wav`
 const char str_48A8B4[24];
 ```
 
@@ -3590,7 +3590,7 @@ const char str_48A8B4[24];
 ### str_48A8CC
 
 ```c
-// "Sfx\Towners\Witch04.wav"
+// `Sfx\Towners\Witch04.wav`
 const char str_48A8CC[24];
 ```
 
@@ -3599,7 +3599,7 @@ const char str_48A8CC[24];
 ### str_48A8E4
 
 ```c
-// "Sfx\Towners\Witch03.wav"
+// `Sfx\Towners\Witch03.wav`
 const char str_48A8E4[24];
 ```
 
@@ -3608,7 +3608,7 @@ const char str_48A8E4[24];
 ### str_48A8FC
 
 ```c
-// "Sfx\Towners\Witch02.wav"
+// `Sfx\Towners\Witch02.wav`
 const char str_48A8FC[24];
 ```
 
@@ -3617,7 +3617,7 @@ const char str_48A8FC[24];
 ### str_48A914
 
 ```c
-// "Sfx\Towners\Witch01.wav"
+// `Sfx\Towners\Witch01.wav`
 const char str_48A914[24];
 ```
 
@@ -3626,7 +3626,7 @@ const char str_48A914[24];
 ### str_48A92C
 
 ```c
-// "Sfx\Towners\Tavown45.wav"
+// `Sfx\Towners\Tavown45.wav`
 const char str_48A92C[25];
 ```
 
@@ -3635,7 +3635,7 @@ const char str_48A92C[25];
 ### str_48A948
 
 ```c
-// "Sfx\Towners\Tavown44.wav"
+// `Sfx\Towners\Tavown44.wav`
 const char str_48A948[25];
 ```
 
@@ -3644,7 +3644,7 @@ const char str_48A948[25];
 ### str_48A964
 
 ```c
-// "Sfx\Towners\Tavown43.wav"
+// `Sfx\Towners\Tavown43.wav`
 const char str_48A964[25];
 ```
 
@@ -3653,7 +3653,7 @@ const char str_48A964[25];
 ### str_48A980
 
 ```c
-// "Sfx\Towners\Tavown42.wav"
+// `Sfx\Towners\Tavown42.wav`
 const char str_48A980[25];
 ```
 
@@ -3662,7 +3662,7 @@ const char str_48A980[25];
 ### str_48A99C
 
 ```c
-// "Sfx\Towners\Tavown41.wav"
+// `Sfx\Towners\Tavown41.wav`
 const char str_48A99C[25];
 ```
 
@@ -3671,7 +3671,7 @@ const char str_48A99C[25];
 ### str_48A9B8
 
 ```c
-// "Sfx\Towners\Tavown40.wav"
+// `Sfx\Towners\Tavown40.wav`
 const char str_48A9B8[25];
 ```
 
@@ -3680,7 +3680,7 @@ const char str_48A9B8[25];
 ### str_48A9D4
 
 ```c
-// "Sfx\Towners\Tavown39.wav"
+// `Sfx\Towners\Tavown39.wav`
 const char str_48A9D4[25];
 ```
 
@@ -3689,7 +3689,7 @@ const char str_48A9D4[25];
 ### str_48A9F0
 
 ```c
-// "Sfx\Towners\Tavown38.wav"
+// `Sfx\Towners\Tavown38.wav`
 const char str_48A9F0[25];
 ```
 
@@ -3698,7 +3698,7 @@ const char str_48A9F0[25];
 ### str_48AA0C
 
 ```c
-// "Sfx\Towners\Tavown37.wav"
+// `Sfx\Towners\Tavown37.wav`
 const char str_48AA0C[25];
 ```
 
@@ -3707,7 +3707,7 @@ const char str_48AA0C[25];
 ### str_48AA28
 
 ```c
-// "Sfx\Towners\Tavown36.wav"
+// `Sfx\Towners\Tavown36.wav`
 const char str_48AA28[25];
 ```
 
@@ -3716,7 +3716,7 @@ const char str_48AA28[25];
 ### str_48AA44
 
 ```c
-// "Sfx\Towners\Tavown35.wav"
+// `Sfx\Towners\Tavown35.wav`
 const char str_48AA44[25];
 ```
 
@@ -3725,7 +3725,7 @@ const char str_48AA44[25];
 ### str_48AA60
 
 ```c
-// "Sfx\Towners\Tavown34.wav"
+// `Sfx\Towners\Tavown34.wav`
 const char str_48AA60[25];
 ```
 
@@ -3734,7 +3734,7 @@ const char str_48AA60[25];
 ### str_48AA7C
 
 ```c
-// "Sfx\Towners\Tavown33.wav"
+// `Sfx\Towners\Tavown33.wav`
 const char str_48AA7C[25];
 ```
 
@@ -3743,7 +3743,7 @@ const char str_48AA7C[25];
 ### str_48AA98
 
 ```c
-// "Sfx\Towners\Tavown32.wav"
+// `Sfx\Towners\Tavown32.wav`
 const char str_48AA98[25];
 ```
 
@@ -3752,7 +3752,7 @@ const char str_48AA98[25];
 ### str_48AAB4
 
 ```c
-// "Sfx\Towners\Tavown31.wav"
+// `Sfx\Towners\Tavown31.wav`
 const char str_48AAB4[25];
 ```
 
@@ -3761,7 +3761,7 @@ const char str_48AAB4[25];
 ### str_48AAD0
 
 ```c
-// "Sfx\Towners\Tavown30.wav"
+// `Sfx\Towners\Tavown30.wav`
 const char str_48AAD0[25];
 ```
 
@@ -3770,7 +3770,7 @@ const char str_48AAD0[25];
 ### str_48AAEC
 
 ```c
-// "Sfx\Towners\Tavown29.wav"
+// `Sfx\Towners\Tavown29.wav`
 const char str_48AAEC[25];
 ```
 
@@ -3779,7 +3779,7 @@ const char str_48AAEC[25];
 ### str_48AB08
 
 ```c
-// "Sfx\Towners\Tavown28.wav"
+// `Sfx\Towners\Tavown28.wav`
 const char str_48AB08[25];
 ```
 
@@ -3788,7 +3788,7 @@ const char str_48AB08[25];
 ### str_48AB24
 
 ```c
-// "Sfx\Towners\Tavown27.wav"
+// `Sfx\Towners\Tavown27.wav`
 const char str_48AB24[25];
 ```
 
@@ -3797,7 +3797,7 @@ const char str_48AB24[25];
 ### str_48AB40
 
 ```c
-// "Sfx\Towners\Tavown26.wav"
+// `Sfx\Towners\Tavown26.wav`
 const char str_48AB40[25];
 ```
 
@@ -3806,7 +3806,7 @@ const char str_48AB40[25];
 ### str_48AB5C
 
 ```c
-// "Sfx\Towners\Tavown25.wav"
+// `Sfx\Towners\Tavown25.wav`
 const char str_48AB5C[25];
 ```
 
@@ -3815,7 +3815,7 @@ const char str_48AB5C[25];
 ### str_48AB78
 
 ```c
-// "Sfx\Towners\Tavown24.wav"
+// `Sfx\Towners\Tavown24.wav`
 const char str_48AB78[25];
 ```
 
@@ -3824,7 +3824,7 @@ const char str_48AB78[25];
 ### str_48AB94
 
 ```c
-// "Sfx\Towners\Tavown23.wav"
+// `Sfx\Towners\Tavown23.wav`
 const char str_48AB94[25];
 ```
 
@@ -3833,7 +3833,7 @@ const char str_48AB94[25];
 ### str_48ABB0
 
 ```c
-// "Sfx\Towners\Tavown22.wav"
+// `Sfx\Towners\Tavown22.wav`
 const char str_48ABB0[25];
 ```
 
@@ -3842,7 +3842,7 @@ const char str_48ABB0[25];
 ### str_48ABCC
 
 ```c
-// "Sfx\Towners\Tavown21.wav"
+// `Sfx\Towners\Tavown21.wav`
 const char str_48ABCC[25];
 ```
 
@@ -3851,7 +3851,7 @@ const char str_48ABCC[25];
 ### str_48ABE8
 
 ```c
-// "Sfx\Towners\Tavown20.wav"
+// `Sfx\Towners\Tavown20.wav`
 const char str_48ABE8[25];
 ```
 
@@ -3860,7 +3860,7 @@ const char str_48ABE8[25];
 ### str_48AC04
 
 ```c
-// "Sfx\Towners\Tavown19.wav"
+// `Sfx\Towners\Tavown19.wav`
 const char str_48AC04[25];
 ```
 
@@ -3869,7 +3869,7 @@ const char str_48AC04[25];
 ### str_48AC20
 
 ```c
-// "Sfx\Towners\Tavown18.wav"
+// `Sfx\Towners\Tavown18.wav`
 const char str_48AC20[25];
 ```
 
@@ -3878,7 +3878,7 @@ const char str_48AC20[25];
 ### str_48AC3C
 
 ```c
-// "Sfx\Towners\Tavown17.wav"
+// `Sfx\Towners\Tavown17.wav`
 const char str_48AC3C[25];
 ```
 
@@ -3887,7 +3887,7 @@ const char str_48AC3C[25];
 ### str_48AC58
 
 ```c
-// "Sfx\Towners\Tavown16.wav"
+// `Sfx\Towners\Tavown16.wav`
 const char str_48AC58[25];
 ```
 
@@ -3896,7 +3896,7 @@ const char str_48AC58[25];
 ### str_48AC74
 
 ```c
-// "Sfx\Towners\Tavown15.wav"
+// `Sfx\Towners\Tavown15.wav`
 const char str_48AC74[25];
 ```
 
@@ -3905,7 +3905,7 @@ const char str_48AC74[25];
 ### str_48AC90
 
 ```c
-// "Sfx\Towners\Tavown14.wav"
+// `Sfx\Towners\Tavown14.wav`
 const char str_48AC90[25];
 ```
 
@@ -3914,7 +3914,7 @@ const char str_48AC90[25];
 ### str_48ACAC
 
 ```c
-// "Sfx\Towners\Tavown13.wav"
+// `Sfx\Towners\Tavown13.wav`
 const char str_48ACAC[25];
 ```
 
@@ -3923,7 +3923,7 @@ const char str_48ACAC[25];
 ### str_48ACC8
 
 ```c
-// "Sfx\Towners\Tavown12.wav"
+// `Sfx\Towners\Tavown12.wav`
 const char str_48ACC8[25];
 ```
 
@@ -3932,7 +3932,7 @@ const char str_48ACC8[25];
 ### str_48ACE4
 
 ```c
-// "Sfx\Towners\Tavown11.wav"
+// `Sfx\Towners\Tavown11.wav`
 const char str_48ACE4[25];
 ```
 
@@ -3941,7 +3941,7 @@ const char str_48ACE4[25];
 ### str_48AD00
 
 ```c
-// "Sfx\Towners\Tavown10.wav"
+// `Sfx\Towners\Tavown10.wav`
 const char str_48AD00[25];
 ```
 
@@ -3950,7 +3950,7 @@ const char str_48AD00[25];
 ### str_48AD1C
 
 ```c
-// "Sfx\Towners\Tavown09.wav"
+// `Sfx\Towners\Tavown09.wav`
 const char str_48AD1C[25];
 ```
 
@@ -3959,7 +3959,7 @@ const char str_48AD1C[25];
 ### str_48AD38
 
 ```c
-// "Sfx\Towners\Tavown08.wav"
+// `Sfx\Towners\Tavown08.wav`
 const char str_48AD38[25];
 ```
 
@@ -3968,7 +3968,7 @@ const char str_48AD38[25];
 ### str_48AD54
 
 ```c
-// "Sfx\Towners\Tavown07.wav"
+// `Sfx\Towners\Tavown07.wav`
 const char str_48AD54[25];
 ```
 
@@ -3977,7 +3977,7 @@ const char str_48AD54[25];
 ### str_48AD70
 
 ```c
-// "Sfx\Towners\Tavown06.wav"
+// `Sfx\Towners\Tavown06.wav`
 const char str_48AD70[25];
 ```
 
@@ -3986,7 +3986,7 @@ const char str_48AD70[25];
 ### str_48AD8C
 
 ```c
-// "Sfx\Towners\Tavown05.wav"
+// `Sfx\Towners\Tavown05.wav`
 const char str_48AD8C[25];
 ```
 
@@ -3995,7 +3995,7 @@ const char str_48AD8C[25];
 ### str_48ADA8
 
 ```c
-// "Sfx\Towners\Tavown04.wav"
+// `Sfx\Towners\Tavown04.wav`
 const char str_48ADA8[25];
 ```
 
@@ -4004,7 +4004,7 @@ const char str_48ADA8[25];
 ### str_48ADC4
 
 ```c
-// "Sfx\Towners\Tavown03.wav"
+// `Sfx\Towners\Tavown03.wav`
 const char str_48ADC4[25];
 ```
 
@@ -4013,7 +4013,7 @@ const char str_48ADC4[25];
 ### str_48ADE0
 
 ```c
-// "Sfx\Towners\Tavown02.wav"
+// `Sfx\Towners\Tavown02.wav`
 const char str_48ADE0[25];
 ```
 
@@ -4022,7 +4022,7 @@ const char str_48ADE0[25];
 ### str_48ADFC
 
 ```c
-// "Sfx\Towners\Tavown01.wav"
+// `Sfx\Towners\Tavown01.wav`
 const char str_48ADFC[25];
 ```
 
@@ -4031,7 +4031,7 @@ const char str_48ADFC[25];
 ### str_48AE18
 
 ```c
-// "Sfx\Towners\Tavown00.wav"
+// `Sfx\Towners\Tavown00.wav`
 const char str_48AE18[25];
 ```
 
@@ -4040,7 +4040,7 @@ const char str_48AE18[25];
 ### str_48AE34
 
 ```c
-// "Sfx\Towners\Storyt38.wav"
+// `Sfx\Towners\Storyt38.wav`
 const char str_48AE34[25];
 ```
 
@@ -4049,7 +4049,7 @@ const char str_48AE34[25];
 ### str_48AE50
 
 ```c
-// "Sfx\Towners\Storyt37.wav"
+// `Sfx\Towners\Storyt37.wav`
 const char str_48AE50[25];
 ```
 
@@ -4058,7 +4058,7 @@ const char str_48AE50[25];
 ### str_48AE6C
 
 ```c
-// "Sfx\Towners\Storyt36.wav"
+// `Sfx\Towners\Storyt36.wav`
 const char str_48AE6C[25];
 ```
 
@@ -4067,7 +4067,7 @@ const char str_48AE6C[25];
 ### str_48AE88
 
 ```c
-// "Sfx\Towners\Storyt35.wav"
+// `Sfx\Towners\Storyt35.wav`
 const char str_48AE88[25];
 ```
 
@@ -4076,7 +4076,7 @@ const char str_48AE88[25];
 ### str_48AEA4
 
 ```c
-// "Sfx\Towners\Storyt34.wav"
+// `Sfx\Towners\Storyt34.wav`
 const char str_48AEA4[25];
 ```
 
@@ -4085,7 +4085,7 @@ const char str_48AEA4[25];
 ### str_48AEC0
 
 ```c
-// "Sfx\Towners\Storyt33.wav"
+// `Sfx\Towners\Storyt33.wav`
 const char str_48AEC0[25];
 ```
 
@@ -4094,7 +4094,7 @@ const char str_48AEC0[25];
 ### str_48AEDC
 
 ```c
-// "Sfx\Towners\Storyt32.wav"
+// `Sfx\Towners\Storyt32.wav`
 const char str_48AEDC[25];
 ```
 
@@ -4103,7 +4103,7 @@ const char str_48AEDC[25];
 ### str_48AEF8
 
 ```c
-// "Sfx\Towners\Storyt31.wav"
+// `Sfx\Towners\Storyt31.wav`
 const char str_48AEF8[25];
 ```
 
@@ -4112,7 +4112,7 @@ const char str_48AEF8[25];
 ### str_48AF14
 
 ```c
-// "Sfx\Towners\Storyt30.wav"
+// `Sfx\Towners\Storyt30.wav`
 const char str_48AF14[25];
 ```
 
@@ -4121,7 +4121,7 @@ const char str_48AF14[25];
 ### str_48AF30
 
 ```c
-// "Sfx\Towners\Storyt29.wav"
+// `Sfx\Towners\Storyt29.wav`
 const char str_48AF30[25];
 ```
 
@@ -4130,7 +4130,7 @@ const char str_48AF30[25];
 ### str_48AF4C
 
 ```c
-// "Sfx\Towners\Storyt28.wav"
+// `Sfx\Towners\Storyt28.wav`
 const char str_48AF4C[25];
 ```
 
@@ -4139,7 +4139,7 @@ const char str_48AF4C[25];
 ### str_48AF68
 
 ```c
-// "Sfx\Towners\Storyt27.wav"
+// `Sfx\Towners\Storyt27.wav`
 const char str_48AF68[25];
 ```
 
@@ -4148,7 +4148,7 @@ const char str_48AF68[25];
 ### str_48AF84
 
 ```c
-// "Sfx\Towners\Storyt26.wav"
+// `Sfx\Towners\Storyt26.wav`
 const char str_48AF84[25];
 ```
 
@@ -4157,7 +4157,7 @@ const char str_48AF84[25];
 ### str_48AFA0
 
 ```c
-// "Sfx\Towners\Storyt25.wav"
+// `Sfx\Towners\Storyt25.wav`
 const char str_48AFA0[25];
 ```
 
@@ -4166,7 +4166,7 @@ const char str_48AFA0[25];
 ### str_48AFBC
 
 ```c
-// "Sfx\Towners\Storyt24.wav"
+// `Sfx\Towners\Storyt24.wav`
 const char str_48AFBC[25];
 ```
 
@@ -4175,7 +4175,7 @@ const char str_48AFBC[25];
 ### str_48AFD8
 
 ```c
-// "Sfx\Towners\Storyt23.wav"
+// `Sfx\Towners\Storyt23.wav`
 const char str_48AFD8[25];
 ```
 
@@ -4184,7 +4184,7 @@ const char str_48AFD8[25];
 ### str_48AFF4
 
 ```c
-// "Sfx\Towners\Storyt22.wav"
+// `Sfx\Towners\Storyt22.wav`
 const char str_48AFF4[25];
 ```
 
@@ -4193,7 +4193,7 @@ const char str_48AFF4[25];
 ### str_48B010
 
 ```c
-// "Sfx\Towners\Storyt21.wav"
+// `Sfx\Towners\Storyt21.wav`
 const char str_48B010[25];
 ```
 
@@ -4202,7 +4202,7 @@ const char str_48B010[25];
 ### str_48B02C
 
 ```c
-// "Sfx\Towners\Storyt20.wav"
+// `Sfx\Towners\Storyt20.wav`
 const char str_48B02C[25];
 ```
 
@@ -4211,7 +4211,7 @@ const char str_48B02C[25];
 ### str_48B048
 
 ```c
-// "Sfx\Towners\Storyt19.wav"
+// `Sfx\Towners\Storyt19.wav`
 const char str_48B048[25];
 ```
 
@@ -4220,7 +4220,7 @@ const char str_48B048[25];
 ### str_48B064
 
 ```c
-// "Sfx\Towners\Storyt18.wav"
+// `Sfx\Towners\Storyt18.wav`
 const char str_48B064[25];
 ```
 
@@ -4229,7 +4229,7 @@ const char str_48B064[25];
 ### str_48B080
 
 ```c
-// "Sfx\Towners\Storyt17.wav"
+// `Sfx\Towners\Storyt17.wav`
 const char str_48B080[25];
 ```
 
@@ -4238,7 +4238,7 @@ const char str_48B080[25];
 ### str_48B09C
 
 ```c
-// "Sfx\Towners\Storyt16.wav"
+// `Sfx\Towners\Storyt16.wav`
 const char str_48B09C[25];
 ```
 
@@ -4247,7 +4247,7 @@ const char str_48B09C[25];
 ### str_48B0B8
 
 ```c
-// "Sfx\Towners\Storyt15.wav"
+// `Sfx\Towners\Storyt15.wav`
 const char str_48B0B8[25];
 ```
 
@@ -4256,7 +4256,7 @@ const char str_48B0B8[25];
 ### str_48B0D4
 
 ```c
-// "Sfx\Towners\Storyt14.wav"
+// `Sfx\Towners\Storyt14.wav`
 const char str_48B0D4[25];
 ```
 
@@ -4265,7 +4265,7 @@ const char str_48B0D4[25];
 ### str_48B0F0
 
 ```c
-// "Sfx\Towners\Storyt13.wav"
+// `Sfx\Towners\Storyt13.wav`
 const char str_48B0F0[25];
 ```
 
@@ -4274,7 +4274,7 @@ const char str_48B0F0[25];
 ### str_48B10C
 
 ```c
-// "Sfx\Towners\Storyt12.wav"
+// `Sfx\Towners\Storyt12.wav`
 const char str_48B10C[25];
 ```
 
@@ -4283,7 +4283,7 @@ const char str_48B10C[25];
 ### str_48B128
 
 ```c
-// "Sfx\Towners\Storyt11.wav"
+// `Sfx\Towners\Storyt11.wav`
 const char str_48B128[25];
 ```
 
@@ -4292,7 +4292,7 @@ const char str_48B128[25];
 ### str_48B144
 
 ```c
-// "Sfx\Towners\Storyt10.wav"
+// `Sfx\Towners\Storyt10.wav`
 const char str_48B144[25];
 ```
 
@@ -4301,7 +4301,7 @@ const char str_48B144[25];
 ### str_48B160
 
 ```c
-// "Sfx\Towners\Storyt09.wav"
+// `Sfx\Towners\Storyt09.wav`
 const char str_48B160[25];
 ```
 
@@ -4310,7 +4310,7 @@ const char str_48B160[25];
 ### str_48B17C
 
 ```c
-// "Sfx\Towners\Storyt08.wav"
+// `Sfx\Towners\Storyt08.wav`
 const char str_48B17C[25];
 ```
 
@@ -4319,7 +4319,7 @@ const char str_48B17C[25];
 ### str_48B198
 
 ```c
-// "Sfx\Towners\Storyt07.wav"
+// `Sfx\Towners\Storyt07.wav`
 const char str_48B198[25];
 ```
 
@@ -4328,7 +4328,7 @@ const char str_48B198[25];
 ### str_48B1B4
 
 ```c
-// "Sfx\Towners\Storyt06.wav"
+// `Sfx\Towners\Storyt06.wav`
 const char str_48B1B4[25];
 ```
 
@@ -4337,7 +4337,7 @@ const char str_48B1B4[25];
 ### str_48B1D0
 
 ```c
-// "Sfx\Towners\Storyt05.wav"
+// `Sfx\Towners\Storyt05.wav`
 const char str_48B1D0[25];
 ```
 
@@ -4346,7 +4346,7 @@ const char str_48B1D0[25];
 ### str_48B1EC
 
 ```c
-// "Sfx\Towners\Storyt04.wav"
+// `Sfx\Towners\Storyt04.wav`
 const char str_48B1EC[25];
 ```
 
@@ -4355,7 +4355,7 @@ const char str_48B1EC[25];
 ### str_48B208
 
 ```c
-// "Sfx\Towners\Storyt03.wav"
+// `Sfx\Towners\Storyt03.wav`
 const char str_48B208[25];
 ```
 
@@ -4364,7 +4364,7 @@ const char str_48B208[25];
 ### str_48B224
 
 ```c
-// "Sfx\Towners\Storyt02.wav"
+// `Sfx\Towners\Storyt02.wav`
 const char str_48B224[25];
 ```
 
@@ -4373,7 +4373,7 @@ const char str_48B224[25];
 ### str_48B240
 
 ```c
-// "Sfx\Towners\Storyt01.wav"
+// `Sfx\Towners\Storyt01.wav`
 const char str_48B240[25];
 ```
 
@@ -4382,7 +4382,7 @@ const char str_48B240[25];
 ### str_48B25C
 
 ```c
-// "Sfx\Towners\Storyt00.wav"
+// `Sfx\Towners\Storyt00.wav`
 const char str_48B25C[25];
 ```
 
@@ -4391,7 +4391,7 @@ const char str_48B25C[25];
 ### str_48B278
 
 ```c
-// "Sfx\Towners\Priest07.wav"
+// `Sfx\Towners\Priest07.wav`
 const char str_48B278[25];
 ```
 
@@ -4400,7 +4400,7 @@ const char str_48B278[25];
 ### str_48B294
 
 ```c
-// "Sfx\Towners\Priest06.wav"
+// `Sfx\Towners\Priest06.wav`
 const char str_48B294[25];
 ```
 
@@ -4409,7 +4409,7 @@ const char str_48B294[25];
 ### str_48B2B0
 
 ```c
-// "Sfx\Towners\Priest05.wav"
+// `Sfx\Towners\Priest05.wav`
 const char str_48B2B0[25];
 ```
 
@@ -4418,7 +4418,7 @@ const char str_48B2B0[25];
 ### str_48B2CC
 
 ```c
-// "Sfx\Towners\Priest04.wav"
+// `Sfx\Towners\Priest04.wav`
 const char str_48B2CC[25];
 ```
 
@@ -4427,7 +4427,7 @@ const char str_48B2CC[25];
 ### str_48B2E8
 
 ```c
-// "Sfx\Towners\Priest03.wav"
+// `Sfx\Towners\Priest03.wav`
 const char str_48B2E8[25];
 ```
 
@@ -4436,7 +4436,7 @@ const char str_48B2E8[25];
 ### str_48B304
 
 ```c
-// "Sfx\Towners\Priest02.wav"
+// `Sfx\Towners\Priest02.wav`
 const char str_48B304[25];
 ```
 
@@ -4445,7 +4445,7 @@ const char str_48B304[25];
 ### str_48B320
 
 ```c
-// "Sfx\Towners\Priest01.wav"
+// `Sfx\Towners\Priest01.wav`
 const char str_48B320[25];
 ```
 
@@ -4454,7 +4454,7 @@ const char str_48B320[25];
 ### str_48B33C
 
 ```c
-// "Sfx\Towners\Priest00.wav"
+// `Sfx\Towners\Priest00.wav`
 const char str_48B33C[25];
 ```
 
@@ -4463,7 +4463,7 @@ const char str_48B33C[25];
 ### str_48B358
 
 ```c
-// "Sfx\Towners\Pegboy43.wav"
+// `Sfx\Towners\Pegboy43.wav`
 const char str_48B358[25];
 ```
 
@@ -4472,7 +4472,7 @@ const char str_48B358[25];
 ### str_48B374
 
 ```c
-// "Sfx\Towners\Pegboy42.wav"
+// `Sfx\Towners\Pegboy42.wav`
 const char str_48B374[25];
 ```
 
@@ -4481,7 +4481,7 @@ const char str_48B374[25];
 ### str_48B390
 
 ```c
-// "Sfx\Towners\Pegboy41.wav"
+// `Sfx\Towners\Pegboy41.wav`
 const char str_48B390[25];
 ```
 
@@ -4490,7 +4490,7 @@ const char str_48B390[25];
 ### str_48B3AC
 
 ```c
-// "Sfx\Towners\Pegboy40.wav"
+// `Sfx\Towners\Pegboy40.wav`
 const char str_48B3AC[25];
 ```
 
@@ -4499,7 +4499,7 @@ const char str_48B3AC[25];
 ### str_48B3C8
 
 ```c
-// "Sfx\Towners\Pegboy39.wav"
+// `Sfx\Towners\Pegboy39.wav`
 const char str_48B3C8[25];
 ```
 
@@ -4508,7 +4508,7 @@ const char str_48B3C8[25];
 ### str_48B3E4
 
 ```c
-// "Sfx\Towners\Pegboy38.wav"
+// `Sfx\Towners\Pegboy38.wav`
 const char str_48B3E4[25];
 ```
 
@@ -4517,7 +4517,7 @@ const char str_48B3E4[25];
 ### str_48B400
 
 ```c
-// "Sfx\Towners\Pegboy37.wav"
+// `Sfx\Towners\Pegboy37.wav`
 const char str_48B400[25];
 ```
 
@@ -4526,7 +4526,7 @@ const char str_48B400[25];
 ### str_48B41C
 
 ```c
-// "Sfx\Towners\Pegboy36.wav"
+// `Sfx\Towners\Pegboy36.wav`
 const char str_48B41C[25];
 ```
 
@@ -4535,7 +4535,7 @@ const char str_48B41C[25];
 ### str_48B438
 
 ```c
-// "Sfx\Towners\Pegboy35.wav"
+// `Sfx\Towners\Pegboy35.wav`
 const char str_48B438[25];
 ```
 
@@ -4544,7 +4544,7 @@ const char str_48B438[25];
 ### str_48B454
 
 ```c
-// "Sfx\Towners\Pegboy34.wav"
+// `Sfx\Towners\Pegboy34.wav`
 const char str_48B454[25];
 ```
 
@@ -4553,7 +4553,7 @@ const char str_48B454[25];
 ### str_48B470
 
 ```c
-// "Sfx\Towners\Pegboy33.wav"
+// `Sfx\Towners\Pegboy33.wav`
 const char str_48B470[25];
 ```
 
@@ -4562,7 +4562,7 @@ const char str_48B470[25];
 ### str_48B48C
 
 ```c
-// "Sfx\Towners\Pegboy32.wav"
+// `Sfx\Towners\Pegboy32.wav`
 const char str_48B48C[25];
 ```
 
@@ -4571,7 +4571,7 @@ const char str_48B48C[25];
 ### str_48B4A8
 
 ```c
-// "Sfx\Towners\Pegboy31.wav"
+// `Sfx\Towners\Pegboy31.wav`
 const char str_48B4A8[25];
 ```
 
@@ -4580,7 +4580,7 @@ const char str_48B4A8[25];
 ### str_48B4C4
 
 ```c
-// "Sfx\Towners\Pegboy30.wav"
+// `Sfx\Towners\Pegboy30.wav`
 const char str_48B4C4[25];
 ```
 
@@ -4589,7 +4589,7 @@ const char str_48B4C4[25];
 ### str_48B4E0
 
 ```c
-// "Sfx\Towners\Pegboy29.wav"
+// `Sfx\Towners\Pegboy29.wav`
 const char str_48B4E0[25];
 ```
 
@@ -4598,7 +4598,7 @@ const char str_48B4E0[25];
 ### str_48B4FC
 
 ```c
-// "Sfx\Towners\Pegboy28.wav"
+// `Sfx\Towners\Pegboy28.wav`
 const char str_48B4FC[25];
 ```
 
@@ -4607,7 +4607,7 @@ const char str_48B4FC[25];
 ### str_48B518
 
 ```c
-// "Sfx\Towners\Pegboy27.wav"
+// `Sfx\Towners\Pegboy27.wav`
 const char str_48B518[25];
 ```
 
@@ -4616,7 +4616,7 @@ const char str_48B518[25];
 ### str_48B534
 
 ```c
-// "Sfx\Towners\Pegboy26.wav"
+// `Sfx\Towners\Pegboy26.wav`
 const char str_48B534[25];
 ```
 
@@ -4625,7 +4625,7 @@ const char str_48B534[25];
 ### str_48B550
 
 ```c
-// "Sfx\Towners\Pegboy25.wav"
+// `Sfx\Towners\Pegboy25.wav`
 const char str_48B550[25];
 ```
 
@@ -4634,7 +4634,7 @@ const char str_48B550[25];
 ### str_48B56C
 
 ```c
-// "Sfx\Towners\Pegboy24.wav"
+// `Sfx\Towners\Pegboy24.wav`
 const char str_48B56C[25];
 ```
 
@@ -4643,7 +4643,7 @@ const char str_48B56C[25];
 ### str_48B588
 
 ```c
-// "Sfx\Towners\Pegboy23.wav"
+// `Sfx\Towners\Pegboy23.wav`
 const char str_48B588[25];
 ```
 
@@ -4652,7 +4652,7 @@ const char str_48B588[25];
 ### str_48B5A4
 
 ```c
-// "Sfx\Towners\Pegboy22.wav"
+// `Sfx\Towners\Pegboy22.wav`
 const char str_48B5A4[25];
 ```
 
@@ -4661,7 +4661,7 @@ const char str_48B5A4[25];
 ### str_48B5C0
 
 ```c
-// "Sfx\Towners\Pegboy21.wav"
+// `Sfx\Towners\Pegboy21.wav`
 const char str_48B5C0[25];
 ```
 
@@ -4670,7 +4670,7 @@ const char str_48B5C0[25];
 ### str_48B5DC
 
 ```c
-// "Sfx\Towners\Pegboy20.wav"
+// `Sfx\Towners\Pegboy20.wav`
 const char str_48B5DC[25];
 ```
 
@@ -4679,7 +4679,7 @@ const char str_48B5DC[25];
 ### str_48B5F8
 
 ```c
-// "Sfx\Towners\Pegboy19.wav"
+// `Sfx\Towners\Pegboy19.wav`
 const char str_48B5F8[25];
 ```
 
@@ -4688,7 +4688,7 @@ const char str_48B5F8[25];
 ### str_48B614
 
 ```c
-// "Sfx\Towners\Pegboy18.wav"
+// `Sfx\Towners\Pegboy18.wav`
 const char str_48B614[25];
 ```
 
@@ -4697,7 +4697,7 @@ const char str_48B614[25];
 ### str_48B630
 
 ```c
-// "Sfx\Towners\Pegboy17.wav"
+// `Sfx\Towners\Pegboy17.wav`
 const char str_48B630[25];
 ```
 
@@ -4706,7 +4706,7 @@ const char str_48B630[25];
 ### str_48B64C
 
 ```c
-// "Sfx\Towners\Pegboy16.wav"
+// `Sfx\Towners\Pegboy16.wav`
 const char str_48B64C[25];
 ```
 
@@ -4715,7 +4715,7 @@ const char str_48B64C[25];
 ### str_48B668
 
 ```c
-// "Sfx\Towners\Pegboy15.wav"
+// `Sfx\Towners\Pegboy15.wav`
 const char str_48B668[25];
 ```
 
@@ -4724,7 +4724,7 @@ const char str_48B668[25];
 ### str_48B684
 
 ```c
-// "Sfx\Towners\Pegboy14.wav"
+// `Sfx\Towners\Pegboy14.wav`
 const char str_48B684[25];
 ```
 
@@ -4733,7 +4733,7 @@ const char str_48B684[25];
 ### str_48B6A0
 
 ```c
-// "Sfx\Towners\Pegboy13.wav"
+// `Sfx\Towners\Pegboy13.wav`
 const char str_48B6A0[25];
 ```
 
@@ -4742,7 +4742,7 @@ const char str_48B6A0[25];
 ### str_48B6BC
 
 ```c
-// "Sfx\Towners\Pegboy12.wav"
+// `Sfx\Towners\Pegboy12.wav`
 const char str_48B6BC[25];
 ```
 
@@ -4751,7 +4751,7 @@ const char str_48B6BC[25];
 ### str_48B6D8
 
 ```c
-// "Sfx\Towners\Pegboy11.wav"
+// `Sfx\Towners\Pegboy11.wav`
 const char str_48B6D8[25];
 ```
 
@@ -4760,7 +4760,7 @@ const char str_48B6D8[25];
 ### str_48B6F4
 
 ```c
-// "Sfx\Towners\Pegboy10.wav"
+// `Sfx\Towners\Pegboy10.wav`
 const char str_48B6F4[25];
 ```
 
@@ -4769,7 +4769,7 @@ const char str_48B6F4[25];
 ### str_48B710
 
 ```c
-// "Sfx\Towners\Pegboy09.wav"
+// `Sfx\Towners\Pegboy09.wav`
 const char str_48B710[25];
 ```
 
@@ -4778,7 +4778,7 @@ const char str_48B710[25];
 ### str_48B72C
 
 ```c
-// "Sfx\Towners\Pegboy08.wav"
+// `Sfx\Towners\Pegboy08.wav`
 const char str_48B72C[25];
 ```
 
@@ -4787,7 +4787,7 @@ const char str_48B72C[25];
 ### str_48B748
 
 ```c
-// "Sfx\Towners\Pegboy07.wav"
+// `Sfx\Towners\Pegboy07.wav`
 const char str_48B748[25];
 ```
 
@@ -4796,7 +4796,7 @@ const char str_48B748[25];
 ### str_48B764
 
 ```c
-// "Sfx\Towners\Pegboy06.wav"
+// `Sfx\Towners\Pegboy06.wav`
 const char str_48B764[25];
 ```
 
@@ -4805,7 +4805,7 @@ const char str_48B764[25];
 ### str_48B780
 
 ```c
-// "Sfx\Towners\Pegboy05.wav"
+// `Sfx\Towners\Pegboy05.wav`
 const char str_48B780[25];
 ```
 
@@ -4814,7 +4814,7 @@ const char str_48B780[25];
 ### str_48B79C
 
 ```c
-// "Sfx\Towners\Pegboy04.wav"
+// `Sfx\Towners\Pegboy04.wav`
 const char str_48B79C[25];
 ```
 
@@ -4823,7 +4823,7 @@ const char str_48B79C[25];
 ### str_48B7B8
 
 ```c
-// "Sfx\Towners\Pegboy03.wav"
+// `Sfx\Towners\Pegboy03.wav`
 const char str_48B7B8[25];
 ```
 
@@ -4832,7 +4832,7 @@ const char str_48B7B8[25];
 ### str_48B7D4
 
 ```c
-// "Sfx\Towners\Pegboy02.wav"
+// `Sfx\Towners\Pegboy02.wav`
 const char str_48B7D4[25];
 ```
 
@@ -4841,7 +4841,7 @@ const char str_48B7D4[25];
 ### str_48B7F0
 
 ```c
-// "Sfx\Towners\Pegboy01.wav"
+// `Sfx\Towners\Pegboy01.wav`
 const char str_48B7F0[25];
 ```
 
@@ -4850,7 +4850,7 @@ const char str_48B7F0[25];
 ### str_48B80C
 
 ```c
-// "Sfx\Towners\Healer47.wav"
+// `Sfx\Towners\Healer47.wav`
 const char str_48B80C[25];
 ```
 
@@ -4859,7 +4859,7 @@ const char str_48B80C[25];
 ### str_48B828
 
 ```c
-// "Sfx\Towners\Healer46.wav"
+// `Sfx\Towners\Healer46.wav`
 const char str_48B828[25];
 ```
 
@@ -4868,7 +4868,7 @@ const char str_48B828[25];
 ### str_48B844
 
 ```c
-// "Sfx\Towners\Healer45.wav"
+// `Sfx\Towners\Healer45.wav`
 const char str_48B844[25];
 ```
 
@@ -4877,7 +4877,7 @@ const char str_48B844[25];
 ### str_48B860
 
 ```c
-// "Sfx\Towners\Healer44.wav"
+// `Sfx\Towners\Healer44.wav`
 const char str_48B860[25];
 ```
 
@@ -4886,7 +4886,7 @@ const char str_48B860[25];
 ### str_48B87C
 
 ```c
-// "Sfx\Towners\Healer43.wav"
+// `Sfx\Towners\Healer43.wav`
 const char str_48B87C[25];
 ```
 
@@ -4895,7 +4895,7 @@ const char str_48B87C[25];
 ### str_48B898
 
 ```c
-// "Sfx\Towners\Healer42.wav"
+// `Sfx\Towners\Healer42.wav`
 const char str_48B898[25];
 ```
 
@@ -4904,7 +4904,7 @@ const char str_48B898[25];
 ### str_48B8B4
 
 ```c
-// "Sfx\Towners\Healer41.wav"
+// `Sfx\Towners\Healer41.wav`
 const char str_48B8B4[25];
 ```
 
@@ -4913,7 +4913,7 @@ const char str_48B8B4[25];
 ### str_48B8D0
 
 ```c
-// "Sfx\Towners\Healer40.wav"
+// `Sfx\Towners\Healer40.wav`
 const char str_48B8D0[25];
 ```
 
@@ -4922,7 +4922,7 @@ const char str_48B8D0[25];
 ### str_48B8EC
 
 ```c
-// "Sfx\Towners\Healer39.wav"
+// `Sfx\Towners\Healer39.wav`
 const char str_48B8EC[25];
 ```
 
@@ -4931,7 +4931,7 @@ const char str_48B8EC[25];
 ### str_48B908
 
 ```c
-// "Sfx\Towners\Healer38.wav"
+// `Sfx\Towners\Healer38.wav`
 const char str_48B908[25];
 ```
 
@@ -4940,7 +4940,7 @@ const char str_48B908[25];
 ### str_48B924
 
 ```c
-// "Sfx\Towners\Healer37.wav"
+// `Sfx\Towners\Healer37.wav`
 const char str_48B924[25];
 ```
 
@@ -4949,7 +4949,7 @@ const char str_48B924[25];
 ### str_48B940
 
 ```c
-// "Sfx\Towners\Healer36.wav"
+// `Sfx\Towners\Healer36.wav`
 const char str_48B940[25];
 ```
 
@@ -4958,7 +4958,7 @@ const char str_48B940[25];
 ### str_48B95C
 
 ```c
-// "Sfx\Towners\Healer35.wav"
+// `Sfx\Towners\Healer35.wav`
 const char str_48B95C[25];
 ```
 
@@ -4967,7 +4967,7 @@ const char str_48B95C[25];
 ### str_48B978
 
 ```c
-// "Sfx\Towners\Healer34.wav"
+// `Sfx\Towners\Healer34.wav`
 const char str_48B978[25];
 ```
 
@@ -4976,7 +4976,7 @@ const char str_48B978[25];
 ### str_48B994
 
 ```c
-// "Sfx\Towners\Healer33.wav"
+// `Sfx\Towners\Healer33.wav`
 const char str_48B994[25];
 ```
 
@@ -4985,7 +4985,7 @@ const char str_48B994[25];
 ### str_48B9B0
 
 ```c
-// "Sfx\Towners\Healer32.wav"
+// `Sfx\Towners\Healer32.wav`
 const char str_48B9B0[25];
 ```
 
@@ -4994,7 +4994,7 @@ const char str_48B9B0[25];
 ### str_48B9CC
 
 ```c
-// "Sfx\Towners\Healer31.wav"
+// `Sfx\Towners\Healer31.wav`
 const char str_48B9CC[25];
 ```
 
@@ -5003,7 +5003,7 @@ const char str_48B9CC[25];
 ### str_48B9E8
 
 ```c
-// "Sfx\Towners\Healer30.wav"
+// `Sfx\Towners\Healer30.wav`
 const char str_48B9E8[25];
 ```
 
@@ -5012,7 +5012,7 @@ const char str_48B9E8[25];
 ### str_48BA04
 
 ```c
-// "Sfx\Towners\Healer29.wav"
+// `Sfx\Towners\Healer29.wav`
 const char str_48BA04[25];
 ```
 
@@ -5021,7 +5021,7 @@ const char str_48BA04[25];
 ### str_48BA20
 
 ```c
-// "Sfx\Towners\Healer28.wav"
+// `Sfx\Towners\Healer28.wav`
 const char str_48BA20[25];
 ```
 
@@ -5030,7 +5030,7 @@ const char str_48BA20[25];
 ### str_48BA3C
 
 ```c
-// "Sfx\Towners\Healer27.wav"
+// `Sfx\Towners\Healer27.wav`
 const char str_48BA3C[25];
 ```
 
@@ -5039,7 +5039,7 @@ const char str_48BA3C[25];
 ### str_48BA58
 
 ```c
-// "Sfx\Towners\Healer26.wav"
+// `Sfx\Towners\Healer26.wav`
 const char str_48BA58[25];
 ```
 
@@ -5048,7 +5048,7 @@ const char str_48BA58[25];
 ### str_48BA74
 
 ```c
-// "Sfx\Towners\Healer25.wav"
+// `Sfx\Towners\Healer25.wav`
 const char str_48BA74[25];
 ```
 
@@ -5057,7 +5057,7 @@ const char str_48BA74[25];
 ### str_48BA90
 
 ```c
-// "Sfx\Towners\Healer24.wav"
+// `Sfx\Towners\Healer24.wav`
 const char str_48BA90[25];
 ```
 
@@ -5066,7 +5066,7 @@ const char str_48BA90[25];
 ### str_48BAAC
 
 ```c
-// "Sfx\Towners\Healer23.wav"
+// `Sfx\Towners\Healer23.wav`
 const char str_48BAAC[25];
 ```
 
@@ -5075,7 +5075,7 @@ const char str_48BAAC[25];
 ### str_48BAC8
 
 ```c
-// "Sfx\Towners\Healer22.wav"
+// `Sfx\Towners\Healer22.wav`
 const char str_48BAC8[25];
 ```
 
@@ -5084,7 +5084,7 @@ const char str_48BAC8[25];
 ### str_48BAE4
 
 ```c
-// "Sfx\Towners\Healer21.wav"
+// `Sfx\Towners\Healer21.wav`
 const char str_48BAE4[25];
 ```
 
@@ -5093,7 +5093,7 @@ const char str_48BAE4[25];
 ### str_48BB00
 
 ```c
-// "Sfx\Towners\Healer20.wav"
+// `Sfx\Towners\Healer20.wav`
 const char str_48BB00[25];
 ```
 
@@ -5102,7 +5102,7 @@ const char str_48BB00[25];
 ### str_48BB1C
 
 ```c
-// "Sfx\Towners\Healer19.wav"
+// `Sfx\Towners\Healer19.wav`
 const char str_48BB1C[25];
 ```
 
@@ -5111,7 +5111,7 @@ const char str_48BB1C[25];
 ### str_48BB38
 
 ```c
-// "Sfx\Towners\Healer18.wav"
+// `Sfx\Towners\Healer18.wav`
 const char str_48BB38[25];
 ```
 
@@ -5120,7 +5120,7 @@ const char str_48BB38[25];
 ### str_48BB54
 
 ```c
-// "Sfx\Towners\Healer17.wav"
+// `Sfx\Towners\Healer17.wav`
 const char str_48BB54[25];
 ```
 
@@ -5129,7 +5129,7 @@ const char str_48BB54[25];
 ### str_48BB70
 
 ```c
-// "Sfx\Towners\Healer16.wav"
+// `Sfx\Towners\Healer16.wav`
 const char str_48BB70[25];
 ```
 
@@ -5138,7 +5138,7 @@ const char str_48BB70[25];
 ### str_48BB8C
 
 ```c
-// "Sfx\Towners\Healer15.wav"
+// `Sfx\Towners\Healer15.wav`
 const char str_48BB8C[25];
 ```
 
@@ -5147,7 +5147,7 @@ const char str_48BB8C[25];
 ### str_48BBA8
 
 ```c
-// "Sfx\Towners\Healer14.wav"
+// `Sfx\Towners\Healer14.wav`
 const char str_48BBA8[25];
 ```
 
@@ -5156,7 +5156,7 @@ const char str_48BBA8[25];
 ### str_48BBC4
 
 ```c
-// "Sfx\Towners\Healer13.wav"
+// `Sfx\Towners\Healer13.wav`
 const char str_48BBC4[25];
 ```
 
@@ -5165,7 +5165,7 @@ const char str_48BBC4[25];
 ### str_48BBE0
 
 ```c
-// "Sfx\Towners\Healer12.wav"
+// `Sfx\Towners\Healer12.wav`
 const char str_48BBE0[25];
 ```
 
@@ -5174,7 +5174,7 @@ const char str_48BBE0[25];
 ### str_48BBFC
 
 ```c
-// "Sfx\Towners\Healer11.wav"
+// `Sfx\Towners\Healer11.wav`
 const char str_48BBFC[25];
 ```
 
@@ -5183,7 +5183,7 @@ const char str_48BBFC[25];
 ### str_48BC18
 
 ```c
-// "Sfx\Towners\Healer10.wav"
+// `Sfx\Towners\Healer10.wav`
 const char str_48BC18[25];
 ```
 
@@ -5192,7 +5192,7 @@ const char str_48BC18[25];
 ### str_48BC34
 
 ```c
-// "Sfx\Towners\Healer09.wav"
+// `Sfx\Towners\Healer09.wav`
 const char str_48BC34[25];
 ```
 
@@ -5201,7 +5201,7 @@ const char str_48BC34[25];
 ### str_48BC50
 
 ```c
-// "Sfx\Towners\Healer08.wav"
+// `Sfx\Towners\Healer08.wav`
 const char str_48BC50[25];
 ```
 
@@ -5210,7 +5210,7 @@ const char str_48BC50[25];
 ### str_48BC6C
 
 ```c
-// "Sfx\Towners\Healer07.wav"
+// `Sfx\Towners\Healer07.wav`
 const char str_48BC6C[25];
 ```
 
@@ -5219,7 +5219,7 @@ const char str_48BC6C[25];
 ### str_48BC88
 
 ```c
-// "Sfx\Towners\Healer06.wav"
+// `Sfx\Towners\Healer06.wav`
 const char str_48BC88[25];
 ```
 
@@ -5228,7 +5228,7 @@ const char str_48BC88[25];
 ### str_48BCA4
 
 ```c
-// "Sfx\Towners\Healer05.wav"
+// `Sfx\Towners\Healer05.wav`
 const char str_48BCA4[25];
 ```
 
@@ -5237,7 +5237,7 @@ const char str_48BCA4[25];
 ### str_48BCC0
 
 ```c
-// "Sfx\Towners\Healer04.wav"
+// `Sfx\Towners\Healer04.wav`
 const char str_48BCC0[25];
 ```
 
@@ -5246,7 +5246,7 @@ const char str_48BCC0[25];
 ### str_48BCDC
 
 ```c
-// "Sfx\Towners\Healer03.wav"
+// `Sfx\Towners\Healer03.wav`
 const char str_48BCDC[25];
 ```
 
@@ -5255,7 +5255,7 @@ const char str_48BCDC[25];
 ### str_48BCF8
 
 ```c
-// "Sfx\Towners\Healer02.wav"
+// `Sfx\Towners\Healer02.wav`
 const char str_48BCF8[25];
 ```
 
@@ -5264,7 +5264,7 @@ const char str_48BCF8[25];
 ### str_48BD14
 
 ```c
-// "Sfx\Towners\Healer01.wav"
+// `Sfx\Towners\Healer01.wav`
 const char str_48BD14[25];
 ```
 
@@ -5273,7 +5273,7 @@ const char str_48BD14[25];
 ### str_48BD30
 
 ```c
-// "Sfx\Towners\Drunk35.wav"
+// `Sfx\Towners\Drunk35.wav`
 const char str_48BD30[24];
 ```
 
@@ -5282,7 +5282,7 @@ const char str_48BD30[24];
 ### str_48BD48
 
 ```c
-// "Sfx\Towners\Drunk34.wav"
+// `Sfx\Towners\Drunk34.wav`
 const char str_48BD48[24];
 ```
 
@@ -5291,7 +5291,7 @@ const char str_48BD48[24];
 ### str_48BD60
 
 ```c
-// "Sfx\Towners\Drunk33.wav"
+// `Sfx\Towners\Drunk33.wav`
 const char str_48BD60[24];
 ```
 
@@ -5300,7 +5300,7 @@ const char str_48BD60[24];
 ### str_48BD78
 
 ```c
-// "Sfx\Towners\Drunk32.wav"
+// `Sfx\Towners\Drunk32.wav`
 const char str_48BD78[24];
 ```
 
@@ -5309,7 +5309,7 @@ const char str_48BD78[24];
 ### str_48BD90
 
 ```c
-// "Sfx\Towners\Drunk31.wav"
+// `Sfx\Towners\Drunk31.wav`
 const char str_48BD90[24];
 ```
 
@@ -5318,7 +5318,7 @@ const char str_48BD90[24];
 ### str_48BDA8
 
 ```c
-// "Sfx\Towners\Drunk30.wav"
+// `Sfx\Towners\Drunk30.wav`
 const char str_48BDA8[24];
 ```
 
@@ -5327,7 +5327,7 @@ const char str_48BDA8[24];
 ### str_48BDC0
 
 ```c
-// "Sfx\Towners\Drunk29.wav"
+// `Sfx\Towners\Drunk29.wav`
 const char str_48BDC0[24];
 ```
 
@@ -5336,7 +5336,7 @@ const char str_48BDC0[24];
 ### str_48BDD8
 
 ```c
-// "Sfx\Towners\Drunk28.wav"
+// `Sfx\Towners\Drunk28.wav`
 const char str_48BDD8[24];
 ```
 
@@ -5345,7 +5345,7 @@ const char str_48BDD8[24];
 ### str_48BDF0
 
 ```c
-// "Sfx\Towners\Drunk27.wav"
+// `Sfx\Towners\Drunk27.wav`
 const char str_48BDF0[24];
 ```
 
@@ -5354,7 +5354,7 @@ const char str_48BDF0[24];
 ### str_48BE08
 
 ```c
-// "Sfx\Towners\Drunk26.wav"
+// `Sfx\Towners\Drunk26.wav`
 const char str_48BE08[24];
 ```
 
@@ -5363,7 +5363,7 @@ const char str_48BE08[24];
 ### str_48BE20
 
 ```c
-// "Sfx\Towners\Drunk25.wav"
+// `Sfx\Towners\Drunk25.wav`
 const char str_48BE20[24];
 ```
 
@@ -5372,7 +5372,7 @@ const char str_48BE20[24];
 ### str_48BE38
 
 ```c
-// "Sfx\Towners\Drunk24.wav"
+// `Sfx\Towners\Drunk24.wav`
 const char str_48BE38[24];
 ```
 
@@ -5381,7 +5381,7 @@ const char str_48BE38[24];
 ### str_48BE50
 
 ```c
-// "Sfx\Towners\Drunk23.wav"
+// `Sfx\Towners\Drunk23.wav`
 const char str_48BE50[24];
 ```
 
@@ -5390,7 +5390,7 @@ const char str_48BE50[24];
 ### str_48BE68
 
 ```c
-// "Sfx\Towners\Drunk22.wav"
+// `Sfx\Towners\Drunk22.wav`
 const char str_48BE68[24];
 ```
 
@@ -5399,7 +5399,7 @@ const char str_48BE68[24];
 ### str_48BE80
 
 ```c
-// "Sfx\Towners\Drunk21.wav"
+// `Sfx\Towners\Drunk21.wav`
 const char str_48BE80[24];
 ```
 
@@ -5408,7 +5408,7 @@ const char str_48BE80[24];
 ### str_48BE98
 
 ```c
-// "Sfx\Towners\Drunk20.wav"
+// `Sfx\Towners\Drunk20.wav`
 const char str_48BE98[24];
 ```
 
@@ -5417,7 +5417,7 @@ const char str_48BE98[24];
 ### str_48BEB0
 
 ```c
-// "Sfx\Towners\Drunk19.wav"
+// `Sfx\Towners\Drunk19.wav`
 const char str_48BEB0[24];
 ```
 
@@ -5426,7 +5426,7 @@ const char str_48BEB0[24];
 ### str_48BEC8
 
 ```c
-// "Sfx\Towners\Drunk18.wav"
+// `Sfx\Towners\Drunk18.wav`
 const char str_48BEC8[24];
 ```
 
@@ -5435,7 +5435,7 @@ const char str_48BEC8[24];
 ### str_48BEE0
 
 ```c
-// "Sfx\Towners\Drunk17.wav"
+// `Sfx\Towners\Drunk17.wav`
 const char str_48BEE0[24];
 ```
 
@@ -5444,7 +5444,7 @@ const char str_48BEE0[24];
 ### str_48BEF8
 
 ```c
-// "Sfx\Towners\Drunk16.wav"
+// `Sfx\Towners\Drunk16.wav`
 const char str_48BEF8[24];
 ```
 
@@ -5453,7 +5453,7 @@ const char str_48BEF8[24];
 ### str_48BF10
 
 ```c
-// "Sfx\Towners\Drunk15.wav"
+// `Sfx\Towners\Drunk15.wav`
 const char str_48BF10[24];
 ```
 
@@ -5462,7 +5462,7 @@ const char str_48BF10[24];
 ### str_48BF28
 
 ```c
-// "Sfx\Towners\Drunk14.wav"
+// `Sfx\Towners\Drunk14.wav`
 const char str_48BF28[24];
 ```
 
@@ -5471,7 +5471,7 @@ const char str_48BF28[24];
 ### str_48BF40
 
 ```c
-// "Sfx\Towners\Drunk13.wav"
+// `Sfx\Towners\Drunk13.wav`
 const char str_48BF40[24];
 ```
 
@@ -5480,7 +5480,7 @@ const char str_48BF40[24];
 ### str_48BF58
 
 ```c
-// "Sfx\Towners\Drunk12.wav"
+// `Sfx\Towners\Drunk12.wav`
 const char str_48BF58[24];
 ```
 
@@ -5489,7 +5489,7 @@ const char str_48BF58[24];
 ### str_48BF70
 
 ```c
-// "Sfx\Towners\Drunk11.wav"
+// `Sfx\Towners\Drunk11.wav`
 const char str_48BF70[24];
 ```
 
@@ -5498,7 +5498,7 @@ const char str_48BF70[24];
 ### str_48BF88
 
 ```c
-// "Sfx\Towners\Drunk10.wav"
+// `Sfx\Towners\Drunk10.wav`
 const char str_48BF88[24];
 ```
 
@@ -5507,7 +5507,7 @@ const char str_48BF88[24];
 ### str_48BFA0
 
 ```c
-// "Sfx\Towners\Drunk09.wav"
+// `Sfx\Towners\Drunk09.wav`
 const char str_48BFA0[24];
 ```
 
@@ -5516,7 +5516,7 @@ const char str_48BFA0[24];
 ### str_48BFB8
 
 ```c
-// "Sfx\Towners\Drunk08.wav"
+// `Sfx\Towners\Drunk08.wav`
 const char str_48BFB8[24];
 ```
 
@@ -5525,7 +5525,7 @@ const char str_48BFB8[24];
 ### str_48BFD0
 
 ```c
-// "Sfx\Towners\Drunk07.wav"
+// `Sfx\Towners\Drunk07.wav`
 const char str_48BFD0[24];
 ```
 
@@ -5534,7 +5534,7 @@ const char str_48BFD0[24];
 ### str_48BFE8
 
 ```c
-// "Sfx\Towners\Drunk06.wav"
+// `Sfx\Towners\Drunk06.wav`
 const char str_48BFE8[24];
 ```
 
@@ -5543,7 +5543,7 @@ const char str_48BFE8[24];
 ### str_48C000
 
 ```c
-// "Sfx\Towners\Drunk05.wav"
+// `Sfx\Towners\Drunk05.wav`
 const char str_48C000[24];
 ```
 
@@ -5552,7 +5552,7 @@ const char str_48C000[24];
 ### str_48C018
 
 ```c
-// "Sfx\Towners\Drunk04.wav"
+// `Sfx\Towners\Drunk04.wav`
 const char str_48C018[24];
 ```
 
@@ -5561,7 +5561,7 @@ const char str_48C018[24];
 ### str_48C030
 
 ```c
-// "Sfx\Towners\Drunk03.wav"
+// `Sfx\Towners\Drunk03.wav`
 const char str_48C030[24];
 ```
 
@@ -5570,7 +5570,7 @@ const char str_48C030[24];
 ### str_48C048
 
 ```c
-// "Sfx\Towners\Drunk02.wav"
+// `Sfx\Towners\Drunk02.wav`
 const char str_48C048[24];
 ```
 
@@ -5579,7 +5579,7 @@ const char str_48C048[24];
 ### str_48C060
 
 ```c
-// "Sfx\Towners\Drunk01.wav"
+// `Sfx\Towners\Drunk01.wav`
 const char str_48C060[24];
 ```
 
@@ -5588,7 +5588,7 @@ const char str_48C060[24];
 ### str_48C078
 
 ```c
-// "Sfx\Towners\Deadguy2.wav"
+// `Sfx\Towners\Deadguy2.wav`
 const char str_48C078[25];
 ```
 
@@ -5597,7 +5597,7 @@ const char str_48C078[25];
 ### str_48C094
 
 ```c
-// "Sfx\Towners\Cow2.wav"
+// `Sfx\Towners\Cow2.wav`
 const char str_48C094[21];
 ```
 
@@ -5606,7 +5606,7 @@ const char str_48C094[21];
 ### str_48C0AC
 
 ```c
-// "Sfx\Towners\Cow1.wav"
+// `Sfx\Towners\Cow1.wav`
 const char str_48C0AC[21];
 ```
 
@@ -5615,7 +5615,7 @@ const char str_48C0AC[21];
 ### str_48C0C4
 
 ```c
-// "Sfx\Towners\Bsmith56.wav"
+// `Sfx\Towners\Bsmith56.wav`
 const char str_48C0C4[25];
 ```
 
@@ -5624,7 +5624,7 @@ const char str_48C0C4[25];
 ### str_48C0E0
 
 ```c
-// "Sfx\Towners\Bsmith55.wav"
+// `Sfx\Towners\Bsmith55.wav`
 const char str_48C0E0[25];
 ```
 
@@ -5633,7 +5633,7 @@ const char str_48C0E0[25];
 ### str_48C0FC
 
 ```c
-// "Sfx\Towners\Bsmith54.wav"
+// `Sfx\Towners\Bsmith54.wav`
 const char str_48C0FC[25];
 ```
 
@@ -5642,7 +5642,7 @@ const char str_48C0FC[25];
 ### str_48C118
 
 ```c
-// "Sfx\Towners\Bsmith53.wav"
+// `Sfx\Towners\Bsmith53.wav`
 const char str_48C118[25];
 ```
 
@@ -5651,7 +5651,7 @@ const char str_48C118[25];
 ### str_48C134
 
 ```c
-// "Sfx\Towners\Bsmith52.wav"
+// `Sfx\Towners\Bsmith52.wav`
 const char str_48C134[25];
 ```
 
@@ -5660,7 +5660,7 @@ const char str_48C134[25];
 ### str_48C150
 
 ```c
-// "Sfx\Towners\Bsmith51.wav"
+// `Sfx\Towners\Bsmith51.wav`
 const char str_48C150[25];
 ```
 
@@ -5669,7 +5669,7 @@ const char str_48C150[25];
 ### str_48C16C
 
 ```c
-// "Sfx\Towners\Bsmith50.wav"
+// `Sfx\Towners\Bsmith50.wav`
 const char str_48C16C[25];
 ```
 
@@ -5678,7 +5678,7 @@ const char str_48C16C[25];
 ### str_48C188
 
 ```c
-// "Sfx\Towners\Bsmith49.wav"
+// `Sfx\Towners\Bsmith49.wav`
 const char str_48C188[25];
 ```
 
@@ -5687,7 +5687,7 @@ const char str_48C188[25];
 ### str_48C1A4
 
 ```c
-// "Sfx\Towners\Bsmith48.wav"
+// `Sfx\Towners\Bsmith48.wav`
 const char str_48C1A4[25];
 ```
 
@@ -5696,7 +5696,7 @@ const char str_48C1A4[25];
 ### str_48C1C0
 
 ```c
-// "Sfx\Towners\Bsmith47.wav"
+// `Sfx\Towners\Bsmith47.wav`
 const char str_48C1C0[25];
 ```
 
@@ -5705,7 +5705,7 @@ const char str_48C1C0[25];
 ### str_48C1DC
 
 ```c
-// "Sfx\Towners\Bsmith46.wav"
+// `Sfx\Towners\Bsmith46.wav`
 const char str_48C1DC[25];
 ```
 
@@ -5714,7 +5714,7 @@ const char str_48C1DC[25];
 ### str_48C1F8
 
 ```c
-// "Sfx\Towners\Bsmith45.wav"
+// `Sfx\Towners\Bsmith45.wav`
 const char str_48C1F8[25];
 ```
 
@@ -5723,7 +5723,7 @@ const char str_48C1F8[25];
 ### str_48C214
 
 ```c
-// "Sfx\Towners\Bsmith44.wav"
+// `Sfx\Towners\Bsmith44.wav`
 const char str_48C214[25];
 ```
 
@@ -5732,7 +5732,7 @@ const char str_48C214[25];
 ### str_48C230
 
 ```c
-// "Sfx\Towners\Bsmith43.wav"
+// `Sfx\Towners\Bsmith43.wav`
 const char str_48C230[25];
 ```
 
@@ -5741,7 +5741,7 @@ const char str_48C230[25];
 ### str_48C24C
 
 ```c
-// "Sfx\Towners\Bsmith42.wav"
+// `Sfx\Towners\Bsmith42.wav`
 const char str_48C24C[25];
 ```
 
@@ -5750,7 +5750,7 @@ const char str_48C24C[25];
 ### str_48C268
 
 ```c
-// "Sfx\Towners\Bsmith41.wav"
+// `Sfx\Towners\Bsmith41.wav`
 const char str_48C268[25];
 ```
 
@@ -5759,7 +5759,7 @@ const char str_48C268[25];
 ### str_48C284
 
 ```c
-// "Sfx\Towners\Bsmith40.wav"
+// `Sfx\Towners\Bsmith40.wav`
 const char str_48C284[25];
 ```
 
@@ -5768,7 +5768,7 @@ const char str_48C284[25];
 ### str_48C2A0
 
 ```c
-// "Sfx\Towners\Bsmith39.wav"
+// `Sfx\Towners\Bsmith39.wav`
 const char str_48C2A0[25];
 ```
 
@@ -5777,7 +5777,7 @@ const char str_48C2A0[25];
 ### str_48C2BC
 
 ```c
-// "Sfx\Towners\Bsmith38.wav"
+// `Sfx\Towners\Bsmith38.wav`
 const char str_48C2BC[25];
 ```
 
@@ -5786,7 +5786,7 @@ const char str_48C2BC[25];
 ### str_48C2D8
 
 ```c
-// "Sfx\Towners\Bsmith37.wav"
+// `Sfx\Towners\Bsmith37.wav`
 const char str_48C2D8[25];
 ```
 
@@ -5795,7 +5795,7 @@ const char str_48C2D8[25];
 ### str_48C2F4
 
 ```c
-// "Sfx\Towners\Bsmith36.wav"
+// `Sfx\Towners\Bsmith36.wav`
 const char str_48C2F4[25];
 ```
 
@@ -5804,7 +5804,7 @@ const char str_48C2F4[25];
 ### str_48C310
 
 ```c
-// "Sfx\Towners\Bsmith35.wav"
+// `Sfx\Towners\Bsmith35.wav`
 const char str_48C310[25];
 ```
 
@@ -5813,7 +5813,7 @@ const char str_48C310[25];
 ### str_48C32C
 
 ```c
-// "Sfx\Towners\Bsmith34.wav"
+// `Sfx\Towners\Bsmith34.wav`
 const char str_48C32C[25];
 ```
 
@@ -5822,7 +5822,7 @@ const char str_48C32C[25];
 ### str_48C348
 
 ```c
-// "Sfx\Towners\Bsmith33.wav"
+// `Sfx\Towners\Bsmith33.wav`
 const char str_48C348[25];
 ```
 
@@ -5831,7 +5831,7 @@ const char str_48C348[25];
 ### str_48C364
 
 ```c
-// "Sfx\Towners\Bsmith32.wav"
+// `Sfx\Towners\Bsmith32.wav`
 const char str_48C364[25];
 ```
 
@@ -5840,7 +5840,7 @@ const char str_48C364[25];
 ### str_48C380
 
 ```c
-// "Sfx\Towners\Bsmith31.wav"
+// `Sfx\Towners\Bsmith31.wav`
 const char str_48C380[25];
 ```
 
@@ -5849,7 +5849,7 @@ const char str_48C380[25];
 ### str_48C39C
 
 ```c
-// "Sfx\Towners\Bsmith30.wav"
+// `Sfx\Towners\Bsmith30.wav`
 const char str_48C39C[25];
 ```
 
@@ -5858,7 +5858,7 @@ const char str_48C39C[25];
 ### str_48C3B8
 
 ```c
-// "Sfx\Towners\Bsmith29.wav"
+// `Sfx\Towners\Bsmith29.wav`
 const char str_48C3B8[25];
 ```
 
@@ -5867,7 +5867,7 @@ const char str_48C3B8[25];
 ### str_48C3D4
 
 ```c
-// "Sfx\Towners\Bsmith28.wav"
+// `Sfx\Towners\Bsmith28.wav`
 const char str_48C3D4[25];
 ```
 
@@ -5876,7 +5876,7 @@ const char str_48C3D4[25];
 ### str_48C3F0
 
 ```c
-// "Sfx\Towners\Bsmith27.wav"
+// `Sfx\Towners\Bsmith27.wav`
 const char str_48C3F0[25];
 ```
 
@@ -5885,7 +5885,7 @@ const char str_48C3F0[25];
 ### str_48C40C
 
 ```c
-// "Sfx\Towners\Bsmith26.wav"
+// `Sfx\Towners\Bsmith26.wav`
 const char str_48C40C[25];
 ```
 
@@ -5894,7 +5894,7 @@ const char str_48C40C[25];
 ### str_48C428
 
 ```c
-// "Sfx\Towners\Bsmith25.wav"
+// `Sfx\Towners\Bsmith25.wav`
 const char str_48C428[25];
 ```
 
@@ -5903,7 +5903,7 @@ const char str_48C428[25];
 ### str_48C444
 
 ```c
-// "Sfx\Towners\Bsmith24.wav"
+// `Sfx\Towners\Bsmith24.wav`
 const char str_48C444[25];
 ```
 
@@ -5912,7 +5912,7 @@ const char str_48C444[25];
 ### str_48C460
 
 ```c
-// "Sfx\Towners\Bsmith23.wav"
+// `Sfx\Towners\Bsmith23.wav`
 const char str_48C460[25];
 ```
 
@@ -5921,7 +5921,7 @@ const char str_48C460[25];
 ### str_48C47C
 
 ```c
-// "Sfx\Towners\Bsmith22.wav"
+// `Sfx\Towners\Bsmith22.wav`
 const char str_48C47C[25];
 ```
 
@@ -5930,7 +5930,7 @@ const char str_48C47C[25];
 ### str_48C498
 
 ```c
-// "Sfx\Towners\Bsmith21.wav"
+// `Sfx\Towners\Bsmith21.wav`
 const char str_48C498[25];
 ```
 
@@ -5939,7 +5939,7 @@ const char str_48C498[25];
 ### str_48C4B4
 
 ```c
-// "Sfx\Towners\Bsmith20.wav"
+// `Sfx\Towners\Bsmith20.wav`
 const char str_48C4B4[25];
 ```
 
@@ -5948,7 +5948,7 @@ const char str_48C4B4[25];
 ### str_48C4D0
 
 ```c
-// "Sfx\Towners\Bsmith19.wav"
+// `Sfx\Towners\Bsmith19.wav`
 const char str_48C4D0[25];
 ```
 
@@ -5957,7 +5957,7 @@ const char str_48C4D0[25];
 ### str_48C4EC
 
 ```c
-// "Sfx\Towners\Bsmith18.wav"
+// `Sfx\Towners\Bsmith18.wav`
 const char str_48C4EC[25];
 ```
 
@@ -5966,7 +5966,7 @@ const char str_48C4EC[25];
 ### str_48C508
 
 ```c
-// "Sfx\Towners\Bsmith17.wav"
+// `Sfx\Towners\Bsmith17.wav`
 const char str_48C508[25];
 ```
 
@@ -5975,7 +5975,7 @@ const char str_48C508[25];
 ### str_48C524
 
 ```c
-// "Sfx\Towners\Bsmith16.wav"
+// `Sfx\Towners\Bsmith16.wav`
 const char str_48C524[25];
 ```
 
@@ -5984,7 +5984,7 @@ const char str_48C524[25];
 ### str_48C540
 
 ```c
-// "Sfx\Towners\Bsmith15.wav"
+// `Sfx\Towners\Bsmith15.wav`
 const char str_48C540[25];
 ```
 
@@ -5993,7 +5993,7 @@ const char str_48C540[25];
 ### str_48C55C
 
 ```c
-// "Sfx\Towners\Bsmith14.wav"
+// `Sfx\Towners\Bsmith14.wav`
 const char str_48C55C[25];
 ```
 
@@ -6002,7 +6002,7 @@ const char str_48C55C[25];
 ### str_48C578
 
 ```c
-// "Sfx\Towners\Bsmith13.wav"
+// `Sfx\Towners\Bsmith13.wav`
 const char str_48C578[25];
 ```
 
@@ -6011,7 +6011,7 @@ const char str_48C578[25];
 ### str_48C594
 
 ```c
-// "Sfx\Towners\Bsmith12.wav"
+// `Sfx\Towners\Bsmith12.wav`
 const char str_48C594[25];
 ```
 
@@ -6020,7 +6020,7 @@ const char str_48C594[25];
 ### str_48C5B0
 
 ```c
-// "Sfx\Towners\Bsmith11.wav"
+// `Sfx\Towners\Bsmith11.wav`
 const char str_48C5B0[25];
 ```
 
@@ -6029,7 +6029,7 @@ const char str_48C5B0[25];
 ### str_48C5CC
 
 ```c
-// "Sfx\Towners\Bsmith10.wav"
+// `Sfx\Towners\Bsmith10.wav`
 const char str_48C5CC[25];
 ```
 
@@ -6038,7 +6038,7 @@ const char str_48C5CC[25];
 ### str_48C5E8
 
 ```c
-// "Sfx\Towners\Bsmith09.wav"
+// `Sfx\Towners\Bsmith09.wav`
 const char str_48C5E8[25];
 ```
 
@@ -6047,7 +6047,7 @@ const char str_48C5E8[25];
 ### str_48C604
 
 ```c
-// "Sfx\Towners\Bsmith08.wav"
+// `Sfx\Towners\Bsmith08.wav`
 const char str_48C604[25];
 ```
 
@@ -6056,7 +6056,7 @@ const char str_48C604[25];
 ### str_48C620
 
 ```c
-// "Sfx\Towners\Bsmith07.wav"
+// `Sfx\Towners\Bsmith07.wav`
 const char str_48C620[25];
 ```
 
@@ -6065,7 +6065,7 @@ const char str_48C620[25];
 ### str_48C63C
 
 ```c
-// "Sfx\Towners\Bsmith06.wav"
+// `Sfx\Towners\Bsmith06.wav`
 const char str_48C63C[25];
 ```
 
@@ -6074,7 +6074,7 @@ const char str_48C63C[25];
 ### str_48C658
 
 ```c
-// "Sfx\Towners\Bsmith05.wav"
+// `Sfx\Towners\Bsmith05.wav`
 const char str_48C658[25];
 ```
 
@@ -6083,7 +6083,7 @@ const char str_48C658[25];
 ### str_48C674
 
 ```c
-// "Sfx\Towners\Bsmith04.wav"
+// `Sfx\Towners\Bsmith04.wav`
 const char str_48C674[25];
 ```
 
@@ -6092,7 +6092,7 @@ const char str_48C674[25];
 ### str_48C690
 
 ```c
-// "Sfx\Towners\Bsmith03.wav"
+// `Sfx\Towners\Bsmith03.wav`
 const char str_48C690[25];
 ```
 
@@ -6101,7 +6101,7 @@ const char str_48C690[25];
 ### str_48C6AC
 
 ```c
-// "Sfx\Towners\Bsmith02.wav"
+// `Sfx\Towners\Bsmith02.wav`
 const char str_48C6AC[25];
 ```
 
@@ -6110,7 +6110,7 @@ const char str_48C6AC[25];
 ### str_48C6C8
 
 ```c
-// "Sfx\Towners\Bsmith01.wav"
+// `Sfx\Towners\Bsmith01.wav`
 const char str_48C6C8[25];
 ```
 
@@ -6119,7 +6119,7 @@ const char str_48C6C8[25];
 ### str_48C6E4
 
 ```c
-// "Sfx\Towners\Bmaid40.wav"
+// `Sfx\Towners\Bmaid40.wav`
 const char str_48C6E4[24];
 ```
 
@@ -6128,7 +6128,7 @@ const char str_48C6E4[24];
 ### str_48C6FC
 
 ```c
-// "Sfx\Towners\Bmaid39.wav"
+// `Sfx\Towners\Bmaid39.wav`
 const char str_48C6FC[24];
 ```
 
@@ -6137,7 +6137,7 @@ const char str_48C6FC[24];
 ### str_48C714
 
 ```c
-// "Sfx\Towners\Bmaid38.wav"
+// `Sfx\Towners\Bmaid38.wav`
 const char str_48C714[24];
 ```
 
@@ -6146,7 +6146,7 @@ const char str_48C714[24];
 ### str_48C72C
 
 ```c
-// "Sfx\Towners\Bmaid37.wav"
+// `Sfx\Towners\Bmaid37.wav`
 const char str_48C72C[24];
 ```
 
@@ -6155,7 +6155,7 @@ const char str_48C72C[24];
 ### str_48C744
 
 ```c
-// "Sfx\Towners\Bmaid36.wav"
+// `Sfx\Towners\Bmaid36.wav`
 const char str_48C744[24];
 ```
 
@@ -6164,7 +6164,7 @@ const char str_48C744[24];
 ### str_48C75C
 
 ```c
-// "Sfx\Towners\Bmaid35.wav"
+// `Sfx\Towners\Bmaid35.wav`
 const char str_48C75C[24];
 ```
 
@@ -6173,7 +6173,7 @@ const char str_48C75C[24];
 ### str_48C774
 
 ```c
-// "Sfx\Towners\Bmaid34.wav"
+// `Sfx\Towners\Bmaid34.wav`
 const char str_48C774[24];
 ```
 
@@ -6182,7 +6182,7 @@ const char str_48C774[24];
 ### str_48C78C
 
 ```c
-// "Sfx\Towners\Bmaid33.wav"
+// `Sfx\Towners\Bmaid33.wav`
 const char str_48C78C[24];
 ```
 
@@ -6191,7 +6191,7 @@ const char str_48C78C[24];
 ### str_48C7A4
 
 ```c
-// "Sfx\Towners\Bmaid32.wav"
+// `Sfx\Towners\Bmaid32.wav`
 const char str_48C7A4[24];
 ```
 
@@ -6200,7 +6200,7 @@ const char str_48C7A4[24];
 ### str_48C7BC
 
 ```c
-// "Sfx\Towners\Bmaid31.wav"
+// `Sfx\Towners\Bmaid31.wav`
 const char str_48C7BC[24];
 ```
 
@@ -6209,7 +6209,7 @@ const char str_48C7BC[24];
 ### str_48C7D4
 
 ```c
-// "Sfx\Towners\Bmaid30.wav"
+// `Sfx\Towners\Bmaid30.wav`
 const char str_48C7D4[24];
 ```
 
@@ -6218,7 +6218,7 @@ const char str_48C7D4[24];
 ### str_48C7EC
 
 ```c
-// "Sfx\Towners\Bmaid29.wav"
+// `Sfx\Towners\Bmaid29.wav`
 const char str_48C7EC[24];
 ```
 
@@ -6227,7 +6227,7 @@ const char str_48C7EC[24];
 ### str_48C804
 
 ```c
-// "Sfx\Towners\Bmaid28.wav"
+// `Sfx\Towners\Bmaid28.wav`
 const char str_48C804[24];
 ```
 
@@ -6236,7 +6236,7 @@ const char str_48C804[24];
 ### str_48C81C
 
 ```c
-// "Sfx\Towners\Bmaid27.wav"
+// `Sfx\Towners\Bmaid27.wav`
 const char str_48C81C[24];
 ```
 
@@ -6245,7 +6245,7 @@ const char str_48C81C[24];
 ### str_48C834
 
 ```c
-// "Sfx\Towners\Bmaid26.wav"
+// `Sfx\Towners\Bmaid26.wav`
 const char str_48C834[24];
 ```
 
@@ -6254,7 +6254,7 @@ const char str_48C834[24];
 ### str_48C84C
 
 ```c
-// "Sfx\Towners\Bmaid25.wav"
+// `Sfx\Towners\Bmaid25.wav`
 const char str_48C84C[24];
 ```
 
@@ -6263,7 +6263,7 @@ const char str_48C84C[24];
 ### str_48C864
 
 ```c
-// "Sfx\Towners\Bmaid24.wav"
+// `Sfx\Towners\Bmaid24.wav`
 const char str_48C864[24];
 ```
 
@@ -6272,7 +6272,7 @@ const char str_48C864[24];
 ### str_48C87C
 
 ```c
-// "Sfx\Towners\Bmaid23.wav"
+// `Sfx\Towners\Bmaid23.wav`
 const char str_48C87C[24];
 ```
 
@@ -6281,7 +6281,7 @@ const char str_48C87C[24];
 ### str_48C894
 
 ```c
-// "Sfx\Towners\Bmaid22.wav"
+// `Sfx\Towners\Bmaid22.wav`
 const char str_48C894[24];
 ```
 
@@ -6290,7 +6290,7 @@ const char str_48C894[24];
 ### str_48C8AC
 
 ```c
-// "Sfx\Towners\Bmaid21.wav"
+// `Sfx\Towners\Bmaid21.wav`
 const char str_48C8AC[24];
 ```
 
@@ -6299,7 +6299,7 @@ const char str_48C8AC[24];
 ### str_48C8C4
 
 ```c
-// "Sfx\Towners\Bmaid20.wav"
+// `Sfx\Towners\Bmaid20.wav`
 const char str_48C8C4[24];
 ```
 
@@ -6308,7 +6308,7 @@ const char str_48C8C4[24];
 ### str_48C8DC
 
 ```c
-// "Sfx\Towners\Bmaid19.wav"
+// `Sfx\Towners\Bmaid19.wav`
 const char str_48C8DC[24];
 ```
 
@@ -6317,7 +6317,7 @@ const char str_48C8DC[24];
 ### str_48C8F4
 
 ```c
-// "Sfx\Towners\Bmaid18.wav"
+// `Sfx\Towners\Bmaid18.wav`
 const char str_48C8F4[24];
 ```
 
@@ -6326,7 +6326,7 @@ const char str_48C8F4[24];
 ### str_48C90C
 
 ```c
-// "Sfx\Towners\Bmaid17.wav"
+// `Sfx\Towners\Bmaid17.wav`
 const char str_48C90C[24];
 ```
 
@@ -6335,7 +6335,7 @@ const char str_48C90C[24];
 ### str_48C924
 
 ```c
-// "Sfx\Towners\Bmaid16.wav"
+// `Sfx\Towners\Bmaid16.wav`
 const char str_48C924[24];
 ```
 
@@ -6344,7 +6344,7 @@ const char str_48C924[24];
 ### str_48C93C
 
 ```c
-// "Sfx\Towners\Bmaid15.wav"
+// `Sfx\Towners\Bmaid15.wav`
 const char str_48C93C[24];
 ```
 
@@ -6353,7 +6353,7 @@ const char str_48C93C[24];
 ### str_48C954
 
 ```c
-// "Sfx\Towners\Bmaid14.wav"
+// `Sfx\Towners\Bmaid14.wav`
 const char str_48C954[24];
 ```
 
@@ -6362,7 +6362,7 @@ const char str_48C954[24];
 ### str_48C96C
 
 ```c
-// "Sfx\Towners\Bmaid13.wav"
+// `Sfx\Towners\Bmaid13.wav`
 const char str_48C96C[24];
 ```
 
@@ -6371,7 +6371,7 @@ const char str_48C96C[24];
 ### str_48C984
 
 ```c
-// "Sfx\Towners\Bmaid12.wav"
+// `Sfx\Towners\Bmaid12.wav`
 const char str_48C984[24];
 ```
 
@@ -6380,7 +6380,7 @@ const char str_48C984[24];
 ### str_48C99C
 
 ```c
-// "Sfx\Towners\Bmaid11.wav"
+// `Sfx\Towners\Bmaid11.wav`
 const char str_48C99C[24];
 ```
 
@@ -6389,7 +6389,7 @@ const char str_48C99C[24];
 ### str_48C9B4
 
 ```c
-// "Sfx\Towners\Bmaid10.wav"
+// `Sfx\Towners\Bmaid10.wav`
 const char str_48C9B4[24];
 ```
 
@@ -6398,7 +6398,7 @@ const char str_48C9B4[24];
 ### str_48C9CC
 
 ```c
-// "Sfx\Towners\Bmaid09.wav"
+// `Sfx\Towners\Bmaid09.wav`
 const char str_48C9CC[24];
 ```
 
@@ -6407,7 +6407,7 @@ const char str_48C9CC[24];
 ### str_48C9E4
 
 ```c
-// "Sfx\Towners\Bmaid08.wav"
+// `Sfx\Towners\Bmaid08.wav`
 const char str_48C9E4[24];
 ```
 
@@ -6416,7 +6416,7 @@ const char str_48C9E4[24];
 ### str_48C9FC
 
 ```c
-// "Sfx\Towners\Bmaid07.wav"
+// `Sfx\Towners\Bmaid07.wav`
 const char str_48C9FC[24];
 ```
 
@@ -6425,7 +6425,7 @@ const char str_48C9FC[24];
 ### str_48CA14
 
 ```c
-// "Sfx\Towners\Bmaid06.wav"
+// `Sfx\Towners\Bmaid06.wav`
 const char str_48CA14[24];
 ```
 
@@ -6434,7 +6434,7 @@ const char str_48CA14[24];
 ### str_48CA2C
 
 ```c
-// "Sfx\Towners\Bmaid05.wav"
+// `Sfx\Towners\Bmaid05.wav`
 const char str_48CA2C[24];
 ```
 
@@ -6443,7 +6443,7 @@ const char str_48CA2C[24];
 ### str_48CA44
 
 ```c
-// "Sfx\Towners\Bmaid04.wav"
+// `Sfx\Towners\Bmaid04.wav`
 const char str_48CA44[24];
 ```
 
@@ -6452,7 +6452,7 @@ const char str_48CA44[24];
 ### str_48CA5C
 
 ```c
-// "Sfx\Towners\Bmaid03.wav"
+// `Sfx\Towners\Bmaid03.wav`
 const char str_48CA5C[24];
 ```
 
@@ -6461,7 +6461,7 @@ const char str_48CA5C[24];
 ### str_48CA74
 
 ```c
-// "Sfx\Towners\Bmaid02.wav"
+// `Sfx\Towners\Bmaid02.wav`
 const char str_48CA74[24];
 ```
 
@@ -6470,7 +6470,7 @@ const char str_48CA74[24];
 ### str_48CA8C
 
 ```c
-// "Sfx\Towners\Bmaid01.wav"
+// `Sfx\Towners\Bmaid01.wav`
 const char str_48CA8C[24];
 ```
 
@@ -6479,7 +6479,7 @@ const char str_48CA8C[24];
 ### str_48CAA4
 
 ```c
-// "Sfx\Misc\Wallstrt.wav"
+// `Sfx\Misc\Wallstrt.wav`
 const char str_48CAA4[22];
 ```
 
@@ -6488,7 +6488,7 @@ const char str_48CAA4[22];
 ### str_48CABC
 
 ```c
-// "Sfx\Misc\Wallloop.wav"
+// `Sfx\Misc\Wallloop.wav`
 const char str_48CABC[22];
 ```
 
@@ -6497,7 +6497,7 @@ const char str_48CABC[22];
 ### str_48CAD4
 
 ```c
-// "Sfx\Misc\Vtheft.wav"
+// `Sfx\Misc\Vtheft.wav`
 const char str_48CAD4[20];
 ```
 
@@ -6506,7 +6506,7 @@ const char str_48CAD4[20];
 ### str_48CAE8
 
 ```c
-// "Sfx\Misc\Teleport.wav"
+// `Sfx\Misc\Teleport.wav`
 const char str_48CAE8[22];
 ```
 
@@ -6515,7 +6515,7 @@ const char str_48CAE8[22];
 ### str_48CB00
 
 ```c
-// "Sfx\Misc\Trapdis.wav"
+// `Sfx\Misc\Trapdis.wav`
 const char str_48CB00[21];
 ```
 
@@ -6524,7 +6524,7 @@ const char str_48CB00[21];
 ### str_48CB18
 
 ```c
-// "Sfx\Misc\Storm.wav"
+// `Sfx\Misc\Storm.wav`
 const char str_48CB18[19];
 ```
 
@@ -6533,7 +6533,7 @@ const char str_48CB18[19];
 ### str_48CB2C
 
 ```c
-// "Sfx\Misc\Spoutstr.wav"
+// `Sfx\Misc\Spoutstr.wav`
 const char str_48CB2C[22];
 ```
 
@@ -6542,7 +6542,7 @@ const char str_48CB2C[22];
 ### str_48CB44
 
 ```c
-// "Sfx\Misc\Spoutlop.wav"
+// `Sfx\Misc\Spoutlop.wav`
 const char str_48CB44[22];
 ```
 
@@ -6551,7 +6551,7 @@ const char str_48CB44[22];
 ### str_48CB5C
 
 ```c
-// "Sfx\Misc\Soulfire.wav"
+// `Sfx\Misc\Soulfire.wav`
 const char str_48CB5C[22];
 ```
 
@@ -6560,7 +6560,7 @@ const char str_48CB5C[22];
 ### str_48CB74
 
 ```c
-// "Sfx\Misc\Shatter.wav"
+// `Sfx\Misc\Shatter.wav`
 const char str_48CB74[21];
 ```
 
@@ -6569,7 +6569,7 @@ const char str_48CB74[21];
 ### str_48CB8C
 
 ```c
-// "Sfx\Misc\Sentinel.wav"
+// `Sfx\Misc\Sentinel.wav`
 const char str_48CB8C[22];
 ```
 
@@ -6578,7 +6578,7 @@ const char str_48CB8C[22];
 ### str_48CBA4
 
 ```c
-// "Sfx\Misc\Scurimp.wav"
+// `Sfx\Misc\Scurimp.wav`
 const char str_48CBA4[21];
 ```
 
@@ -6587,7 +6587,7 @@ const char str_48CBA4[21];
 ### str_48CBBC
 
 ```c
-// "Sfx\Misc\Scurse.wav"
+// `Sfx\Misc\Scurse.wav`
 const char str_48CBBC[20];
 ```
 
@@ -6596,7 +6596,7 @@ const char str_48CBBC[20];
 ### str_48CBD0
 
 ```c
-// "Sfx\Misc\Resur.wav"
+// `Sfx\Misc\Resur.wav`
 const char str_48CBD0[19];
 ```
 
@@ -6605,7 +6605,7 @@ const char str_48CBD0[19];
 ### str_48CBE4
 
 ```c
-// "Sfx\Misc\Puddle.wav"
+// `Sfx\Misc\Puddle.wav`
 const char str_48CBE4[20];
 ```
 
@@ -6614,7 +6614,7 @@ const char str_48CBE4[20];
 ### str_48CBF8
 
 ```c
-// "Sfx\Misc\Portal.wav"
+// `Sfx\Misc\Portal.wav`
 const char str_48CBF8[20];
 ```
 
@@ -6623,7 +6623,7 @@ const char str_48CBF8[20];
 ### str_48CC0C
 
 ```c
-// "Sfx\Misc\Nova.wav"
+// `Sfx\Misc\Nova.wav`
 const char str_48CC0C[18];
 ```
 
@@ -6632,7 +6632,7 @@ const char str_48CC0C[18];
 ### str_48CC20
 
 ```c
-// "Sfx\Misc\Mshield.wav"
+// `Sfx\Misc\Mshield.wav`
 const char str_48CC20[21];
 ```
 
@@ -6641,7 +6641,7 @@ const char str_48CC20[21];
 ### str_48CC38
 
 ```c
-// "Sfx\Misc\Ltning.wav"
+// `Sfx\Misc\Ltning.wav`
 const char str_48CC38[20];
 ```
 
@@ -6650,7 +6650,7 @@ const char str_48CC38[20];
 ### str_48CC4C
 
 ```c
-// "Sfx\Misc\Lning1.wav"
+// `Sfx\Misc\Lning1.wav`
 const char str_48CC4C[20];
 ```
 
@@ -6659,7 +6659,7 @@ const char str_48CC4C[20];
 ### str_48CC60
 
 ```c
-// "Sfx\Misc\Invpot.wav"
+// `Sfx\Misc\Invpot.wav`
 const char str_48CC60[20];
 ```
 
@@ -6668,7 +6668,7 @@ const char str_48CC60[20];
 ### str_48CC74
 
 ```c
-// "Sfx\Misc\Invisibl.wav"
+// `Sfx\Misc\Invisibl.wav`
 const char str_48CC74[22];
 ```
 
@@ -6677,7 +6677,7 @@ const char str_48CC74[22];
 ### str_48CC8C
 
 ```c
-// "Sfx\Misc\Infravis.wav"
+// `Sfx\Misc\Infravis.wav`
 const char str_48CC8C[22];
 ```
 
@@ -6686,7 +6686,7 @@ const char str_48CC8C[22];
 ### str_48CCA4
 
 ```c
-// "Sfx\Misc\Hyper.wav"
+// `Sfx\Misc\Hyper.wav`
 const char str_48CCA4[19];
 ```
 
@@ -6695,7 +6695,7 @@ const char str_48CCA4[19];
 ### str_48CCB8
 
 ```c
-// "Sfx\Misc\Holybolt.wav"
+// `Sfx\Misc\Holybolt.wav`
 const char str_48CCB8[22];
 ```
 
@@ -6704,7 +6704,7 @@ const char str_48CCB8[22];
 ### str_48CCD0
 
 ```c
-// "Sfx\Misc\Grdlanch.wav"
+// `Sfx\Misc\Grdlanch.wav`
 const char str_48CCD0[22];
 ```
 
@@ -6713,7 +6713,7 @@ const char str_48CCD0[22];
 ### str_48CCE8
 
 ```c
-// "Sfx\Misc\Guard.wav"
+// `Sfx\Misc\Guard.wav`
 const char str_48CCE8[19];
 ```
 
@@ -6722,7 +6722,7 @@ const char str_48CCE8[19];
 ### str_48CCFC
 
 ```c
-// "Sfx\Misc\Gshrine.wav"
+// `Sfx\Misc\Gshrine.wav`
 const char str_48CCFC[21];
 ```
 
@@ -6731,7 +6731,7 @@ const char str_48CCFC[21];
 ### str_48CD14
 
 ```c
-// "Sfx\Misc\Golumded.wav"
+// `Sfx\Misc\Golumded.wav`
 const char str_48CD14[22];
 ```
 
@@ -6740,7 +6740,7 @@ const char str_48CD14[22];
 ### str_48CD2C
 
 ```c
-// "Sfx\Misc\Golum.wav"
+// `Sfx\Misc\Golum.wav`
 const char str_48CD2C[19];
 ```
 
@@ -6749,7 +6749,7 @@ const char str_48CD2C[19];
 ### str_48CD40
 
 ```c
-// "Sfx\Misc\Fountain.wav"
+// `Sfx\Misc\Fountain.wav`
 const char str_48CD40[22];
 ```
 
@@ -6758,7 +6758,7 @@ const char str_48CD40[22];
 ### str_48CD58
 
 ```c
-// "Sfx\Misc\Flash.wav"
+// `Sfx\Misc\Flash.wav`
 const char str_48CD58[19];
 ```
 
@@ -6767,7 +6767,7 @@ const char str_48CD58[19];
 ### str_48CD6C
 
 ```c
-// "Sfx\Misc\Flamwave.wav"
+// `Sfx\Misc\Flamwave.wav`
 const char str_48CD6C[22];
 ```
 
@@ -6776,7 +6776,7 @@ const char str_48CD6C[22];
 ### str_48CD84
 
 ```c
-// "Sfx\Misc\Firimp2.wav"
+// `Sfx\Misc\Firimp2.wav`
 const char str_48CD84[21];
 ```
 
@@ -6785,7 +6785,7 @@ const char str_48CD84[21];
 ### str_48CD9C
 
 ```c
-// "Sfx\Misc\Firimp1.wav"
+// `Sfx\Misc\Firimp1.wav`
 const char str_48CD9C[21];
 ```
 
@@ -6794,7 +6794,7 @@ const char str_48CD9C[21];
 ### str_48CDB4
 
 ```c
-// "Sfx\Misc\Fbolt2.wav"
+// `Sfx\Misc\Fbolt2.wav`
 const char str_48CDB4[20];
 ```
 
@@ -6803,7 +6803,7 @@ const char str_48CDB4[20];
 ### str_48CDC8
 
 ```c
-// "Sfx\Misc\Fbolt1.wav"
+// `Sfx\Misc\Fbolt1.wav`
 const char str_48CDC8[20];
 ```
 
@@ -6812,7 +6812,7 @@ const char str_48CDC8[20];
 ### str_48CDDC
 
 ```c
-// "Sfx\Misc\Fball.wav"
+// `Sfx\Misc\Fball.wav`
 const char str_48CDDC[19];
 ```
 
@@ -6821,7 +6821,7 @@ const char str_48CDDC[19];
 ### str_48CDF0
 
 ```c
-// "Sfx\Misc\Ethereal.wav"
+// `Sfx\Misc\Ethereal.wav`
 const char str_48CDF0[22];
 ```
 
@@ -6830,7 +6830,7 @@ const char str_48CDF0[22];
 ### str_48CE08
 
 ```c
-// "Sfx\Misc\Elementl.wav"
+// `Sfx\Misc\Elementl.wav`
 const char str_48CE08[22];
 ```
 
@@ -6839,7 +6839,7 @@ const char str_48CE08[22];
 ### str_48CE20
 
 ```c
-// "Sfx\Misc\Elecimp1.wav"
+// `Sfx\Misc\Elecimp1.wav`
 const char str_48CE20[22];
 ```
 
@@ -6848,7 +6848,7 @@ const char str_48CE20[22];
 ### str_48CE38
 
 ```c
-// "Sfx\Misc\DSerp.wav"
+// `Sfx\Misc\DSerp.wav`
 const char str_48CE38[19];
 ```
 
@@ -6857,7 +6857,7 @@ const char str_48CE38[19];
 ### str_48CE4C
 
 ```c
-// "Sfx\Misc\Chltning.wav"
+// `Sfx\Misc\Chltning.wav`
 const char str_48CE4C[22];
 ```
 
@@ -6866,7 +6866,7 @@ const char str_48CE4C[22];
 ### str_48CE64
 
 ```c
-// "Sfx\Misc\Cbolt.wav"
+// `Sfx\Misc\Cbolt.wav`
 const char str_48CE64[19];
 ```
 
@@ -6875,7 +6875,7 @@ const char str_48CE64[19];
 ### str_48CE78
 
 ```c
-// "Sfx\Misc\Caldron.wav"
+// `Sfx\Misc\Caldron.wav`
 const char str_48CE78[21];
 ```
 
@@ -6884,7 +6884,7 @@ const char str_48CE78[21];
 ### str_48CE90
 
 ```c
-// "Sfx\Misc\Bsimpct.wav"
+// `Sfx\Misc\Bsimpct.wav`
 const char str_48CE90[21];
 ```
 
@@ -6893,7 +6893,7 @@ const char str_48CE90[21];
 ### str_48CEA8
 
 ```c
-// "Sfx\Misc\Bonesp.wav"
+// `Sfx\Misc\Bonesp.wav`
 const char str_48CEA8[20];
 ```
 
@@ -6902,7 +6902,7 @@ const char str_48CEA8[20];
 ### str_48CEBC
 
 ```c
-// "Sfx\Misc\Blsimpt.wav"
+// `Sfx\Misc\Blsimpt.wav`
 const char str_48CEBC[21];
 ```
 
@@ -6911,7 +6911,7 @@ const char str_48CEBC[21];
 ### str_48CED4
 
 ```c
-// "Sfx\Misc\Blodstar.wav"
+// `Sfx\Misc\Blodstar.wav`
 const char str_48CED4[22];
 ```
 
@@ -6920,7 +6920,7 @@ const char str_48CED4[22];
 ### str_48CEEC
 
 ```c
-// "Sfx\Misc\Bldboil.wav"
+// `Sfx\Misc\Bldboil.wav`
 const char str_48CEEC[21];
 ```
 
@@ -6929,7 +6929,7 @@ const char str_48CEEC[21];
 ### str_48CF04
 
 ```c
-// "Sfx\Misc\Arrowall.wav"
+// `Sfx\Misc\Arrowall.wav`
 const char str_48CF04[22];
 ```
 
@@ -6938,7 +6938,7 @@ const char str_48CF04[22];
 ### str_48CF1C
 
 ```c
-// "Sfx\Misc\Apoc.wav"
+// `Sfx\Misc\Apoc.wav`
 const char str_48CF1C[18];
 ```
 
@@ -6947,7 +6947,7 @@ const char str_48CF1C[18];
 ### str_48CF30
 
 ```c
-// "Sfx\Misc\Acids2.wav"
+// `Sfx\Misc\Acids2.wav`
 const char str_48CF30[20];
 ```
 
@@ -6956,7 +6956,7 @@ const char str_48CF30[20];
 ### str_48CF44
 
 ```c
-// "Sfx\Misc\Acids1.wav"
+// `Sfx\Misc\Acids1.wav`
 const char str_48CF44[20];
 ```
 
@@ -6965,7 +6965,7 @@ const char str_48CF44[20];
 ### str_48CF58
 
 ```c
-// "Sfx\Misc\Repair.wav"
+// `Sfx\Misc\Repair.wav`
 const char str_48CF58[20];
 ```
 
@@ -6974,7 +6974,7 @@ const char str_48CF58[20];
 ### str_48CF6C
 
 ```c
-// "Sfx\Misc\Healing.wav"
+// `Sfx\Misc\Healing.wav`
 const char str_48CF6C[21];
 ```
 
@@ -6983,7 +6983,7 @@ const char str_48CF6C[21];
 ### str_48CF84
 
 ```c
-// "Sfx\Misc\Cast9.wav"
+// `Sfx\Misc\Cast9.wav`
 const char str_48CF84[19];
 ```
 
@@ -6992,7 +6992,7 @@ const char str_48CF84[19];
 ### str_48CF98
 
 ```c
-// "Sfx\Misc\Cast8.wav"
+// `Sfx\Misc\Cast8.wav`
 const char str_48CF98[19];
 ```
 
@@ -7001,7 +7001,7 @@ const char str_48CF98[19];
 ### str_48CFAC
 
 ```c
-// "Sfx\Misc\Cast7.wav"
+// `Sfx\Misc\Cast7.wav`
 const char str_48CFAC[19];
 ```
 
@@ -7010,7 +7010,7 @@ const char str_48CFAC[19];
 ### str_48CFC0
 
 ```c
-// "Sfx\Misc\Cast6.wav"
+// `Sfx\Misc\Cast6.wav`
 const char str_48CFC0[19];
 ```
 
@@ -7019,7 +7019,7 @@ const char str_48CFC0[19];
 ### str_48CFD4
 
 ```c
-// "Sfx\Misc\Cast5.wav"
+// `Sfx\Misc\Cast5.wav`
 const char str_48CFD4[19];
 ```
 
@@ -7028,7 +7028,7 @@ const char str_48CFD4[19];
 ### str_48CFE8
 
 ```c
-// "Sfx\Misc\Cast4.wav"
+// `Sfx\Misc\Cast4.wav`
 const char str_48CFE8[19];
 ```
 
@@ -7037,7 +7037,7 @@ const char str_48CFE8[19];
 ### str_48CFFC
 
 ```c
-// "Sfx\Misc\Cast3.wav"
+// `Sfx\Misc\Cast3.wav`
 const char str_48CFFC[19];
 ```
 
@@ -7046,7 +7046,7 @@ const char str_48CFFC[19];
 ### str_48D010
 
 ```c
-// "Sfx\Misc\Cast2.wav"
+// `Sfx\Misc\Cast2.wav`
 const char str_48D010[19];
 ```
 
@@ -7055,7 +7055,7 @@ const char str_48D010[19];
 ### str_48D024
 
 ```c
-// "Sfx\Misc\Cast12.wav"
+// `Sfx\Misc\Cast12.wav`
 const char str_48D024[20];
 ```
 
@@ -7064,7 +7064,7 @@ const char str_48D024[20];
 ### str_48D038
 
 ```c
-// "Sfx\Misc\Cast10.wav"
+// `Sfx\Misc\Cast10.wav`
 const char str_48D038[20];
 ```
 
@@ -7073,7 +7073,7 @@ const char str_48D038[20];
 ### str_48D04C
 
 ```c
-// "Sfx\Misc\Cast1.wav"
+// `Sfx\Misc\Cast1.wav`
 const char str_48D04C[19];
 ```
 
@@ -7082,7 +7082,7 @@ const char str_48D04C[19];
 ### str_48D060
 
 ```c
-// "Sfx\Items\Trap.wav"
+// `Sfx\Items\Trap.wav`
 const char str_48D060[19];
 ```
 
@@ -7091,7 +7091,7 @@ const char str_48D060[19];
 ### str_48D074
 
 ```c
-// "Sfx\Misc\blank.wav"
+// `Sfx\Misc\blank.wav`
 const char str_48D074[19];
 ```
 
@@ -7100,7 +7100,7 @@ const char str_48D074[19];
 ### str_48D088
 
 ```c
-// "Sfx\Items\Titlslct.wav"
+// `Sfx\Items\Titlslct.wav`
 const char str_48D088[23];
 ```
 
@@ -7109,7 +7109,7 @@ const char str_48D088[23];
 ### str_48D0A0
 
 ```c
-// "Sfx\Items\Titlemov.wav"
+// `Sfx\Items\Titlemov.wav`
 const char str_48D0A0[23];
 ```
 
@@ -7118,7 +7118,7 @@ const char str_48D0A0[23];
 ### str_48D0B8
 
 ```c
-// "Sfx\Items\Swrdfkd.wav"
+// `Sfx\Items\Swrdfkd.wav`
 const char str_48D0B8[22];
 ```
 
@@ -7127,7 +7127,7 @@ const char str_48D0B8[22];
 ### str_48D0D0
 
 ```c
-// "Sfx\Items\Shielfkd.wav"
+// `Sfx\Items\Shielfkd.wav`
 const char str_48D0D0[23];
 ```
 
@@ -7136,7 +7136,7 @@ const char str_48D0D0[23];
 ### str_48D0E8
 
 ```c
-// "Sfx\Items\Sarc.wav"
+// `Sfx\Items\Sarc.wav`
 const char str_48D0E8[19];
 ```
 
@@ -7145,7 +7145,7 @@ const char str_48D0E8[19];
 ### str_48D0FC
 
 ```c
-// "Sfx\Items\Readbook.wav"
+// `Sfx\Items\Readbook.wav`
 const char str_48D0FC[23];
 ```
 
@@ -7154,7 +7154,7 @@ const char str_48D0FC[23];
 ### str_48D114
 
 ```c
-// "Sfx\Items\Magic1.wav"
+// `Sfx\Items\Magic1.wav`
 const char str_48D114[21];
 ```
 
@@ -7163,7 +7163,7 @@ const char str_48D114[21];
 ### str_48D12C
 
 ```c
-// "Sfx\Items\Magic.wav"
+// `Sfx\Items\Magic.wav`
 const char str_48D12C[20];
 ```
 
@@ -7172,7 +7172,7 @@ const char str_48D12C[20];
 ### str_48D140
 
 ```c
-// "Sfx\Items\Lever.wav"
+// `Sfx\Items\Lever.wav`
 const char str_48D140[20];
 ```
 
@@ -7181,7 +7181,7 @@ const char str_48D140[20];
 ### str_48D154
 
 ```c
-// "Sfx\Items\Invsword.wav"
+// `Sfx\Items\Invsword.wav`
 const char str_48D154[23];
 ```
 
@@ -7190,7 +7190,7 @@ const char str_48D154[23];
 ### str_48D16C
 
 ```c
-// "Sfx\Items\Invstaf.wav"
+// `Sfx\Items\Invstaf.wav`
 const char str_48D16C[22];
 ```
 
@@ -7199,7 +7199,7 @@ const char str_48D16C[22];
 ### str_48D184
 
 ```c
-// "Sfx\Items\Invsign.wav"
+// `Sfx\Items\Invsign.wav`
 const char str_48D184[22];
 ```
 
@@ -7208,7 +7208,7 @@ const char str_48D184[22];
 ### str_48D19C
 
 ```c
-// "Sfx\Items\Invshiel.wav"
+// `Sfx\Items\Invshiel.wav`
 const char str_48D19C[23];
 ```
 
@@ -7217,7 +7217,7 @@ const char str_48D19C[23];
 ### str_48D1B4
 
 ```c
-// "Sfx\Items\Invscrol.wav"
+// `Sfx\Items\Invscrol.wav`
 const char str_48D1B4[23];
 ```
 
@@ -7226,7 +7226,7 @@ const char str_48D1B4[23];
 ### str_48D1CC
 
 ```c
-// "Sfx\Items\Invrock.wav"
+// `Sfx\Items\Invrock.wav`
 const char str_48D1CC[22];
 ```
 
@@ -7235,7 +7235,7 @@ const char str_48D1CC[22];
 ### str_48D1E4
 
 ```c
-// "Sfx\Items\Invring.wav"
+// `Sfx\Items\Invring.wav`
 const char str_48D1E4[22];
 ```
 
@@ -7244,7 +7244,7 @@ const char str_48D1E4[22];
 ### str_48D1FC
 
 ```c
-// "Sfx\Items\Invpot.wav"
+// `Sfx\Items\Invpot.wav`
 const char str_48D1FC[21];
 ```
 
@@ -7253,7 +7253,7 @@ const char str_48D1FC[21];
 ### str_48D214
 
 ```c
-// "Sfx\Items\Invmush.wav"
+// `Sfx\Items\Invmush.wav`
 const char str_48D214[22];
 ```
 
@@ -7262,7 +7262,7 @@ const char str_48D214[22];
 ### str_48D22C
 
 ```c
-// "Sfx\Items\Invlarm.wav"
+// `Sfx\Items\Invlarm.wav`
 const char str_48D22C[22];
 ```
 
@@ -7271,7 +7271,7 @@ const char str_48D22C[22];
 ### str_48D244
 
 ```c
-// "Sfx\Items\Invharm.wav"
+// `Sfx\Items\Invharm.wav`
 const char str_48D244[22];
 ```
 
@@ -7280,7 +7280,7 @@ const char str_48D244[22];
 ### str_48D25C
 
 ```c
-// "Sfx\Items\Invgrab.wav"
+// `Sfx\Items\Invgrab.wav`
 const char str_48D25C[22];
 ```
 
@@ -7289,7 +7289,7 @@ const char str_48D25C[22];
 ### str_48D274
 
 ```c
-// "Sfx\Items\Invcap.wav"
+// `Sfx\Items\Invcap.wav`
 const char str_48D274[21];
 ```
 
@@ -7298,7 +7298,7 @@ const char str_48D274[21];
 ### str_48D28C
 
 ```c
-// "Sfx\Items\Invbow.wav"
+// `Sfx\Items\Invbow.wav`
 const char str_48D28C[21];
 ```
 
@@ -7307,7 +7307,7 @@ const char str_48D28C[21];
 ### str_48D2A4
 
 ```c
-// "Sfx\Items\Invbook.wav"
+// `Sfx\Items\Invbook.wav`
 const char str_48D2A4[22];
 ```
 
@@ -7316,7 +7316,7 @@ const char str_48D2A4[22];
 ### str_48D2BC
 
 ```c
-// "Sfx\Items\Invbody.wav"
+// `Sfx\Items\Invbody.wav`
 const char str_48D2BC[22];
 ```
 
@@ -7325,7 +7325,7 @@ const char str_48D2BC[22];
 ### str_48D2D4
 
 ```c
-// "Sfx\Items\Invblst.wav"
+// `Sfx\Items\Invblst.wav`
 const char str_48D2D4[22];
 ```
 
@@ -7334,7 +7334,7 @@ const char str_48D2D4[22];
 ### str_48D2EC
 
 ```c
-// "Sfx\Items\Invaxe.wav"
+// `Sfx\Items\Invaxe.wav`
 const char str_48D2EC[21];
 ```
 
@@ -7343,7 +7343,7 @@ const char str_48D2EC[21];
 ### str_48D304
 
 ```c
-// "Sfx\Items\Invanvl.wav"
+// `Sfx\Items\Invanvl.wav`
 const char str_48D304[22];
 ```
 
@@ -7352,7 +7352,7 @@ const char str_48D304[22];
 ### str_48D31C
 
 ```c
-// "Sfx\Items\Hlmtfkd.wav"
+// `Sfx\Items\Hlmtfkd.wav`
 const char str_48D31C[22];
 ```
 
@@ -7361,7 +7361,7 @@ const char str_48D31C[22];
 ### str_48D334
 
 ```c
-// "Sfx\Items\Gold.wav"
+// `Sfx\Items\Gold.wav`
 const char str_48D334[19];
 ```
 
@@ -7370,7 +7370,7 @@ const char str_48D334[19];
 ### str_48D348
 
 ```c
-// "Sfx\Items\Flipswor.wav"
+// `Sfx\Items\Flipswor.wav`
 const char str_48D348[23];
 ```
 
@@ -7379,7 +7379,7 @@ const char str_48D348[23];
 ### str_48D360
 
 ```c
-// "Sfx\Items\Flipstaf.wav"
+// `Sfx\Items\Flipstaf.wav`
 const char str_48D360[23];
 ```
 
@@ -7388,7 +7388,7 @@ const char str_48D360[23];
 ### str_48D378
 
 ```c
-// "Sfx\Items\Flipsign.wav"
+// `Sfx\Items\Flipsign.wav`
 const char str_48D378[23];
 ```
 
@@ -7397,7 +7397,7 @@ const char str_48D378[23];
 ### str_48D390
 
 ```c
-// "Sfx\Items\Flipshld.wav"
+// `Sfx\Items\Flipshld.wav`
 const char str_48D390[23];
 ```
 
@@ -7406,7 +7406,7 @@ const char str_48D390[23];
 ### str_48D3A8
 
 ```c
-// "Sfx\Items\Flipscrl.wav"
+// `Sfx\Items\Flipscrl.wav`
 const char str_48D3A8[23];
 ```
 
@@ -7415,7 +7415,7 @@ const char str_48D3A8[23];
 ### str_48D3C0
 
 ```c
-// "Sfx\Items\Fliprock.wav"
+// `Sfx\Items\Fliprock.wav`
 const char str_48D3C0[23];
 ```
 
@@ -7424,7 +7424,7 @@ const char str_48D3C0[23];
 ### str_48D3D8
 
 ```c
-// "Sfx\Items\Flipring.wav"
+// `Sfx\Items\Flipring.wav`
 const char str_48D3D8[23];
 ```
 
@@ -7433,7 +7433,7 @@ const char str_48D3D8[23];
 ### str_48D3F0
 
 ```c
-// "Sfx\Items\Flippot.wav"
+// `Sfx\Items\Flippot.wav`
 const char str_48D3F0[22];
 ```
 
@@ -7442,7 +7442,7 @@ const char str_48D3F0[22];
 ### str_48D408
 
 ```c
-// "Sfx\Items\Flipmush.wav"
+// `Sfx\Items\Flipmush.wav`
 const char str_48D408[23];
 ```
 
@@ -7451,7 +7451,7 @@ const char str_48D408[23];
 ### str_48D420
 
 ```c
-// "Sfx\Items\Flipmag1.wav"
+// `Sfx\Items\Flipmag1.wav`
 const char str_48D420[23];
 ```
 
@@ -7460,7 +7460,7 @@ const char str_48D420[23];
 ### str_48D438
 
 ```c
-// "Sfx\Items\Flipmag.wav"
+// `Sfx\Items\Flipmag.wav`
 const char str_48D438[22];
 ```
 
@@ -7469,7 +7469,7 @@ const char str_48D438[22];
 ### str_48D450
 
 ```c
-// "Sfx\Items\Fliplarm.wav"
+// `Sfx\Items\Fliplarm.wav`
 const char str_48D450[23];
 ```
 
@@ -7478,7 +7478,7 @@ const char str_48D450[23];
 ### str_48D468
 
 ```c
-// "Sfx\Items\Flipharm.wav"
+// `Sfx\Items\Flipharm.wav`
 const char str_48D468[23];
 ```
 
@@ -7487,7 +7487,7 @@ const char str_48D468[23];
 ### str_48D480
 
 ```c
-// "Sfx\Items\Flipcap.wav"
+// `Sfx\Items\Flipcap.wav`
 const char str_48D480[22];
 ```
 
@@ -7496,7 +7496,7 @@ const char str_48D480[22];
 ### str_48D498
 
 ```c
-// "Sfx\Items\Flipbow.wav"
+// `Sfx\Items\Flipbow.wav`
 const char str_48D498[22];
 ```
 
@@ -7505,7 +7505,7 @@ const char str_48D498[22];
 ### str_48D4B0
 
 ```c
-// "Sfx\Items\Flipbook.wav"
+// `Sfx\Items\Flipbook.wav`
 const char str_48D4B0[23];
 ```
 
@@ -7514,7 +7514,7 @@ const char str_48D4B0[23];
 ### str_48D4C8
 
 ```c
-// "Sfx\Items\Flipbody.wav"
+// `Sfx\Items\Flipbody.wav`
 const char str_48D4C8[23];
 ```
 
@@ -7523,7 +7523,7 @@ const char str_48D4C8[23];
 ### str_48D4E0
 
 ```c
-// "Sfx\Items\Flipblst.wav"
+// `Sfx\Items\Flipblst.wav`
 const char str_48D4E0[23];
 ```
 
@@ -7532,7 +7532,7 @@ const char str_48D4E0[23];
 ### str_48D4F8
 
 ```c
-// "Sfx\Items\Flipaxe.wav"
+// `Sfx\Items\Flipaxe.wav`
 const char str_48D4F8[22];
 ```
 
@@ -7541,7 +7541,7 @@ const char str_48D4F8[22];
 ### str_48D510
 
 ```c
-// "Sfx\Items\Flipanvl.wav"
+// `Sfx\Items\Flipanvl.wav`
 const char str_48D510[23];
 ```
 
@@ -7550,7 +7550,7 @@ const char str_48D510[23];
 ### str_48D528
 
 ```c
-// "Sfx\Items\Dooropen.wav"
+// `Sfx\Items\Dooropen.wav`
 const char str_48D528[23];
 ```
 
@@ -7559,7 +7559,7 @@ const char str_48D528[23];
 ### str_48D540
 
 ```c
-// "Sfx\Items\Doorclos.wav"
+// `Sfx\Items\Doorclos.wav`
 const char str_48D540[23];
 ```
 
@@ -7568,7 +7568,7 @@ const char str_48D540[23];
 ### str_48D558
 
 ```c
-// "Sfx\Items\Chest.wav"
+// `Sfx\Items\Chest.wav`
 const char str_48D558[20];
 ```
 
@@ -7577,7 +7577,7 @@ const char str_48D558[20];
 ### str_48D56C
 
 ```c
-// "Sfx\Items\Bhit1.wav"
+// `Sfx\Items\Bhit1.wav`
 const char str_48D56C[20];
 ```
 
@@ -7586,7 +7586,7 @@ const char str_48D56C[20];
 ### str_48D580
 
 ```c
-// "Sfx\Items\Bhit.wav"
+// `Sfx\Items\Bhit.wav`
 const char str_48D580[19];
 ```
 
@@ -7595,7 +7595,7 @@ const char str_48D580[19];
 ### str_48D594
 
 ```c
-// "Sfx\Items\Barrel.wav"
+// `Sfx\Items\Barrel.wav`
 const char str_48D594[21];
 ```
 
@@ -7604,7 +7604,7 @@ const char str_48D594[21];
 ### str_48D5AC
 
 ```c
-// "Sfx\Items\Barlfire.wav"
+// `Sfx\Items\Barlfire.wav`
 const char str_48D5AC[23];
 ```
 
@@ -7613,7 +7613,7 @@ const char str_48D5AC[23];
 ### str_48D5C4
 
 ```c
-// "Sfx\Items\Armrfkd.wav"
+// `Sfx\Items\Armrfkd.wav`
 const char str_48D5C4[22];
 ```
 
@@ -7622,7 +7622,7 @@ const char str_48D5C4[22];
 ### str_48D5DC
 
 ```c
-// "Sfx\Misc\Questdon.wav"
+// `Sfx\Misc\Questdon.wav`
 const char str_48D5DC[22];
 ```
 
@@ -7631,7 +7631,7 @@ const char str_48D5DC[22];
 ### str_48D5F4
 
 ```c
-// "Sfx\Misc\Dead.wav"
+// `Sfx\Misc\Dead.wav`
 const char str_48D5F4[18];
 ```
 
@@ -7640,7 +7640,7 @@ const char str_48D5F4[18];
 ### str_48D608
 
 ```c
-// "Sfx\Misc\Swing2.wav"
+// `Sfx\Misc\Swing2.wav`
 const char str_48D608[20];
 ```
 
@@ -7649,7 +7649,7 @@ const char str_48D608[20];
 ### str_48D61C
 
 ```c
-// "Sfx\Misc\Swing.wav"
+// `Sfx\Misc\Swing.wav`
 const char str_48D61C[19];
 ```
 
@@ -7658,7 +7658,7 @@ const char str_48D61C[19];
 ### str_48D630
 
 ```c
-// "Sfx\Misc\Lghit1.wav"
+// `Sfx\Misc\Lghit1.wav`
 const char str_48D630[20];
 ```
 
@@ -7667,7 +7667,7 @@ const char str_48D630[20];
 ### str_48D644
 
 ```c
-// "Sfx\Misc\Lghit.wav"
+// `Sfx\Misc\Lghit.wav`
 const char str_48D644[19];
 ```
 
@@ -7676,7 +7676,7 @@ const char str_48D644[19];
 ### str_48D658
 
 ```c
-// "Sfx\Misc\Tmag.wav"
+// `Sfx\Misc\Tmag.wav`
 const char str_48D658[18];
 ```
 
@@ -7685,7 +7685,7 @@ const char str_48D658[18];
 ### str_48D66C
 
 ```c
-// "Sfx\Misc\Fmag.wav"
+// `Sfx\Misc\Fmag.wav`
 const char str_48D66C[18];
 ```
 
@@ -7694,7 +7694,7 @@ const char str_48D66C[18];
 ### str_48D680
 
 ```c
-// "Sfx\Misc\BFire.wav"
+// `Sfx\Misc\BFire.wav`
 const char str_48D680[19];
 ```
 
@@ -7703,7 +7703,7 @@ const char str_48D680[19];
 ### str_48D694
 
 ```c
-// "Sfx\Misc\Walk4.wav"
+// `Sfx\Misc\Walk4.wav`
 const char str_48D694[19];
 ```
 
@@ -7712,7 +7712,7 @@ const char str_48D694[19];
 ### str_48D6A8
 
 ```c
-// "Sfx\Misc\Walk3.wav"
+// `Sfx\Misc\Walk3.wav`
 const char str_48D6A8[19];
 ```
 
@@ -7721,7 +7721,7 @@ const char str_48D6A8[19];
 ### str_48D6BC
 
 ```c
-// "Sfx\Misc\Walk2.wav"
+// `Sfx\Misc\Walk2.wav`
 const char str_48D6BC[19];
 ```
 
@@ -7730,7 +7730,7 @@ const char str_48D6BC[19];
 ### str_48D6D0
 
 ```c
-// "Sfx\Misc\Walk1.wav"
+// `Sfx\Misc\Walk1.wav`
 const char str_48D6D0[19];
 ```
 

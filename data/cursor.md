@@ -5,7 +5,7 @@
 ### str_484250
 
 ```c
-// "Data\Inv\Objcurs.CEL"
+// `Data\Inv\Objcurs.CEL`
 const char str_484250[21];
 ```
 
