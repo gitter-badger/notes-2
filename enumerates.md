@@ -218,6 +218,25 @@ typedef enum {
 } l1_square;
 ```
 
+## panel_button_id
+
+```c
+// Pannel button IDs specify panel_buttons array indices.
+//
+// References:
+//    https://github.com/sanctuary/notes/blob/master/data/control.md#panel_buttons
+typedef enum {
+    PANEL_BUTTON_ID_CHARACTER_INFORMATION = 0,
+    PANEL_BUTTON_ID_QUESTS_LOG            = 1,
+    PANEL_BUTTON_ID_AUTOMAP               = 2,
+    PANEL_BUTTON_ID_MAIN_MENU             = 3,
+    PANEL_BUTTON_ID_INVENTORY             = 4,
+    PANEL_BUTTON_ID_SPELL_BOOK            = 5,
+    PANEL_BUTTON_ID_SEND_MESSAGE          = 6,
+    PANEL_BUTTON_ID_PLAYER_ATTACK         = 7,
+} panel_button_id;
+```
+
 ## sfx_id
 
 ```c

@@ -1,5 +1,53 @@
 # control.cpp
 
+## 0x483C2C
+
+### spelicon_frame_from_spell_id
+
+```c
+// spelicon_frame_from_spell_id maps from spell ID to spelicon.cel frame number.
+//
+// References:
+//    https://github.com/sanctuary/notes/blob/master/enumerates.md#spell_id
+int8_t spelicon_frame_from_spell_id[37];
+```
+
+## 0x483C54
+
+### panel_buttons
+
+```c
+// panel_buttons specifies the position and dimensions of panel buttons.
+//
+// References:
+//    https://github.com/sanctuary/notes/blob/master/data/enumerates.md#panel_button_id
+PanelButton panel_buttons[8];
+```
+
+## 0x483CF4
+
+### button_hotkeys
+
+```c
+// button_hotkeys specifies the hot keys of each panel button.
+//
+// References:
+//    https://github.com/sanctuary/notes/blob/master/data/enumerates.md#panel_button_id
+char *button_hotkeys[8];
+```
+
+## 0x483D14
+
+### button_descriptions
+
+```c
+// button_descriptions describes each panel button.
+//
+// References:
+//    https://github.com/sanctuary/notes/blob/master/data/enumerates.md#panel_button_id
+char *button_descriptions[8];
+```
+
 ## 0x483E1C
 
 ### str_483E1C
