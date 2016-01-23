@@ -2,22 +2,22 @@
 
 ## 0x479424
 
-### smaltext_frame_plus_1_from_font_index
+### smaltext_frame_from_font_index
 
 ```c
-// smaltext_frame_plus_1_from_font_index maps from font index to smaltext.cel
-// frame number plus 1.
-int8_t smaltext_frame_plus_1_from_font_index[127];
+// smaltext_frame_from_font_index maps from font index to smaltext.cel frame
+// number.
+int8_t smaltext_frame_from_font_index[127];
 ```
 
 ## 0x4794A4
 
-### smaltext_frame_width_from_frame_plus_1
+### smaltext_frame_width_from_frame
 
 ```c
-// smaltext_frame_width_from_frame_plus_1 maps from smaltext.cel frame number
-// plus 1 to frame width.
-int8_t smaltext_frame_width_from_frame_plus_1[68];
+// smaltext_frame_width_from_frame maps from smaltext.cel frame number to frame
+// width.
+int8_t smaltext_frame_width_from_frame[68];
 ```
 
 ## 0x4794E8
