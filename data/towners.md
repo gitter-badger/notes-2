@@ -1,5 +1,18 @@
 # towners.cpp
 
+## 0x4B2B00
+
+### gossip_data
+
+```c
+// gossip_data contains the data related to quest gossip for each towner ID.
+//
+// References:
+//    https://github.com/sanctuary/notes/blob/master/enumerates.md#towner_id
+//    https://github.com/sanctuary/notes/blob/master/structures.md#GossipData
+GossipData gossip_data[10];
+```
+
 ## 0x4B2DC4
 
 ### str_4B2DC4

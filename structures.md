@@ -1,5 +1,32 @@
 # Structures
 
+## GossipData
+
+```c
+// GossipData specifies the speech IDs for the gossip related to each quest.
+//
+// References:
+//    https://github.com/sanctuary/notes/blob/master/enumerates.md#speech_id
+typedef struct {
+    speech_id the_magic_rock;
+    speech_id black_mushroom;
+    speech_id gharbad_the_weak;
+    speech_id zhar_the_mad;
+    speech_id lachdanan;
+    speech_id diablo;
+    speech_id the_butcher;
+    speech_id ogdens_sign;
+    speech_id halls_of_the_blind;
+    speech_id valor;
+    speech_id anvil_of_fury;
+    speech_id warlord_of_blood;
+    speech_id the_curse_of_king_leoric;
+    speech_id poisoned_water_supply;
+    speech_id the_chamber_of_bone;
+    speech_id archbishop_lazarus;
+} GossipData;
+```
+
 ## Point
 
 ```c
