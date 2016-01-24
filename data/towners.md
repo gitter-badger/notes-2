@@ -9,7 +9,7 @@
 //
 // References:
 //    https://github.com/sanctuary/notes/blob/master/enumerates.md#towner_id
-//    https://github.com/sanctuary/notes/blob/master/structures.md#GossipData
+//    https://github.com/sanctuary/notes/blob/master/structures.md#gossipdata
 GossipData gossip_data[10];
 ```
 
