@@ -6,6 +6,13 @@
 
 ## 0x4087C1
 
+### diablo_cleanup_level
+
+```c
+// diablo_cleanup_level releases the resources of the current level.
+void diablo_cleanup_level();
+```
+
 ## 0x408838
 
 ## 0x4088E2

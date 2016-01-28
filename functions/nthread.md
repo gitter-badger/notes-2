@@ -26,6 +26,13 @@
 
 ## 0x441145
 
+### nthread_cleanup
+
+```c
+// nthread_cleanup terminates the networking thread.
+void nthread_cleanup();
+```
+
 ## 0x4411C4
 
 ## 0x4411EF

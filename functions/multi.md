@@ -54,6 +54,13 @@
 
 ## 0x44055D
 
+### multi_cleanup
+
+```c
+// multi_cleanup terminates the multiplayer system.
+void multi_cleanup();
+```
+
 ## 0x4405A4
 
 ## 0x4405EC

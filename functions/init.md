@@ -6,6 +6,13 @@
 
 ## 0x41A7C3
 
+### init_cleanup
+
+```c
+// init_cleanup terminates initialized resources.
+void __fastcall init_cleanup(bool32_t show_cursor);
+```
+
 ## 0x41A84C
 
 ### init_run_office_from_start_menu

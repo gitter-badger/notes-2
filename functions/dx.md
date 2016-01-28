@@ -37,6 +37,13 @@ void dx_create_primary_surface();
 
 ## 0x4157A0
 
+### dx_cleanup
+
+```c
+// dx_cleanup terminates the DirectX rendering system.
+void dx_cleanup();
+```
+
 ## 0x415848
 
 ## 0x4158A4

@@ -21,3 +21,10 @@
 ## 0x4151F3
 
 ## 0x4152C0
+
+### dthread_cleanup
+
+```c
+// dthread_cleanup terminates the dungeon thread.
+void dthread_cleanup();
+```

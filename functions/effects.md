@@ -36,6 +36,13 @@
 
 ## 0x415DFF
 
+### effects_cleanup_sfx
+
+```c
+// effects_cleanup_sfx terminates sound effects.
+void effects_cleanup_sfx();
+```
+
 ## 0x415E2A
 
 ## 0x415ED8

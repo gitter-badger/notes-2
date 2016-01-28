@@ -6,6 +6,13 @@
 
 ## 0x456CCB
 
+### sound_stop
+
+```c
+// sound_stop stops the sounds from playing on all audio channels.
+void __fastcall sound_stop(bool32_t force_stop);
+```
+
 ## 0x456D22
 
 ## 0x456D34
@@ -22,6 +29,13 @@
 
 ## 0x457060
 
+### sound_file_cleanup
+
+```c
+// sound_file_cleanup terminates the given sound file.
+void __fastcall sound_file_cleanup(SoundFile *sound_file);
+```
+
 ## 0x45708B
 
 ## 0x45712B
@@ -32,9 +46,23 @@
 
 ## 0x4572FF
 
+### sound_cleanup
+
+```c
+// sound_cleanup terminates the sound system.
+void sound_cleanup();
+```
+
 ## 0x457358
 
 ## 0x457367
+
+### sound_stop_music
+
+```c
+// sound_stop_music stops the background music playback.
+void sound_stop_music();
+```
 
 ## 0x457393
 

@@ -79,15 +79,58 @@ void engine_init_mem_mutex();
 
 ## 0x417583
 
+### engine_cleanup_mem_mutex_atexit
+
+```c
+// engine_cleanup_mem_mutex_atexit terminates the memory mutex at exit.
+void engine_cleanup_mem_mutex_atexit();
+```
+
 ## 0x41758F
+
+### engine_cleanup_mem_mutex
+
+```c
+// engine_cleanup_mem_mutex terminates the memory mutex.
+void engine_cleanup_mem_mutex();
+```
 
 ## 0x41759B
 
+### engine_mem_alloc
+
+```c
+// engine_mem_alloc allocates a memory space of the given size.
+void * __fastcall engine_mem_alloc(int size);
+```
+
 ## 0x4175E8
+
+### engine_mem_free
+
+```c
+// engine_mem_free frees the given memory space.
+void __fastcall engine_mem_free(void *ptr);
+```
 
 ## 0x417618
 
+### engine_mem_load_file
+
+```c
+// engine_mem_load_file returns the contents of the given file.
+void * __fastcall engine_mem_load_file(char *file_path, int *size);
+```
+
 ## 0x417673
+
+### engine_mem_load_file_with
+
+```c
+// engine_mem_load_file_with loads the given file into the provided memory
+// buffer.
+void __fastcall engine_mem_load_file_with(char *path, void *buf);
+```
 
 ## 0x4176D2
 
