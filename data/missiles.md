@@ -1,5 +1,29 @@
 # missiles.cpp
 
+## 0x494948
+
+### missile_data
+
+```c
+// missile_data contains the data related to each missile ID.
+//
+// References:
+//    https://github.com/sanctuary/notes/blob/master/enumerates.md#missile_id
+MissileData missile_data[68];
+```
+
+## 0x4950B8
+
+### missile_graphic_data
+
+```c
+// missile_graphic_data contains the data related to each missile graphic ID.
+//
+// References:
+//    https://github.com/sanctuary/notes/blob/master/enumerates.md#missile_graphic_id
+MissileGraphicData missile_graphic_data[47];
+```
+
 ## 0x497C0C
 
 ### str_497C0C
