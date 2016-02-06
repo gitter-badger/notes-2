@@ -39,7 +39,7 @@ Each function has been categorised based on their original source file, as summa
 | [log.cpp](log.md)               | `0x4279F2`    | `0x427E0D`  | 0% (0/11 functions)      |
 | [mainmenu.cpp](mainmenu.md)     | `0x427E0E`    | `0x428055`  | 0% (0/10 functions)      |
 | [minitext.cpp](minitext.md)     | `0x428056`    | `0x4283BF`  | 0% (0/6 functions)       |
-| [missiles.cpp](missiles.md)     | `0x4283C0`    | `0x430FDE`  | 0% (0/133 functions)     |
+| [missiles.cpp](missiles.md)     | `0x4283C0`    | `0x430FDE`  | 0% (1/133 functions)     |
 | [monster.cpp](monster.md)       | `0x430FDF`    | `0x43AD32`  | 0% (0/147 functions)     |
 | [movie.cpp](movie.md)           | `0x43AD33`    | `0x43AE8F`  | 0% (0/4 functions)       |
 | [mpqapi.cpp](mpqapi.md)         | `0x43AE90`    | `0x43BBA3`  | 10% (3/29 functions)     |

@@ -2,6 +2,14 @@
 
 ## 0x4283C0
 
+### missiles_get_spell_damage
+
+```c
+// missiles_get_spell_damage retrieves the min and max spell damage of the
+// given spell.
+void __fastcall missiles_get_spell_damage(spell_id spell_id, int *damage_min, int *damage_max);
+```
+
 ## 0x428921
 
 ## 0x42897A
