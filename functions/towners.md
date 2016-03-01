@@ -22,6 +22,13 @@ int __fastcall towners_get_num_from_id(towner_id towner_id);
 
 ## 0x4602C4
 
+### towners_init_gossip
+
+```c
+// towners_init_gossip initializes quest gossip of the given NPC.
+void __fastcall towners_init_gossip(int towner_num);
+```
+
 ## 0x460311
 
 ## 0x4603A0
