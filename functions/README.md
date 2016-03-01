@@ -67,7 +67,7 @@ Each function has been categorised based on their original source file, as summa
 | [themes.cpp](themes.md)         | `0x45C870`    | `0x45E08B`  | 0% (0/31 functions)      |
 | [tmsg.cpp](tmsg.md)             | `0x45E08C`    | `0x45E150`  | 33% (1/3 functions)      |
 | [town.cpp](town.md)             | `0x45E151`    | `0x46019A`  | 0% (0/19 functions)      |
-| [towners.cpp](towners.md)       | `0x46019B`    | `0x4618A4`  | 39% (13/33 functions)    |
+| [towners.cpp](towners.md)       | `0x46019B`    | `0x4618A4`  | 87% (29/33 functions)    |
 | [track.cpp](track.md)           | `0x4618A5`    | `0x4619A6`  | 0% (0/5 functions)       |
 | [trigs.cpp](trigs.md)           | `0x4619A7`    | `0x462C6C`  | 0% (0/21 functions)      |
 | [wave.cpp](wave.md)             | `0x462C6D`    | `0x46305F`  | 0% (0/18 functions)      |

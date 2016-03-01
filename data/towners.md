@@ -1,5 +1,17 @@
 # towners.cpp
 
+## 0x4B2724
+
+### towner_anim_seq
+
+```c
+// towner_anim_seq specifies the animation frame sequence of a given NPC.
+//
+// References:
+//     https://github.com/sanctuary/notes/blob/master/enumerates.md#towner_anim_seq_id
+int8_t towner_anim_seq[148][6];
+```
+
 ## 0x4B2B00
 
 ### gossip_data

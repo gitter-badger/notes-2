@@ -1588,6 +1588,24 @@ typedef enum {
 } text_color;
 ```
 
+## towner_anim_seq_id
+
+```c
+// Towner animation sequence IDs specify towner_anim_seq array indices.
+//
+// References:
+//    https://github.com/sanctuary/notes/blob/master/data/towners.md#towner_anim_seq
+typedef enum {
+    TOWNER_ANIM_SEQ_ID_GRISWOLD =  0,
+    TOWNER_ANIM_SEQ_ID_PEPIN    =  1,
+    TOWNER_ANIM_SEQ_ID_CAIN     =  2,
+    TOWNER_ANIM_SEQ_ID_OGDEN    =  3,
+    TOWNER_ANIM_SEQ_ID_FARNHAM  =  4,
+    TOWNER_ANIM_SEQ_ID_ADRIA    =  5,
+    TOWNER_ANIM_SEQ_ID_NONE     = -1,
+} towner_anim_seq_id;
+```
+
 ## towner_id
 
 ```c
