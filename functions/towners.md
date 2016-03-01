@@ -31,25 +31,102 @@ void __fastcall towners_init_gossip(int towner_num);
 
 ## 0x460311
 
+### towners_init_griswold
+
+```c
+// towners_init_griswold initializes Griswold the Blacksmith.
+void towners_init_griswold();
+```
+
 ## 0x4603A0
+
+### towners_init_odgen
+
+```c
+// towners_init_odgen initializes Ogden the Tavern owner.
+void towners_init_odgen();
+```
 
 ## 0x460436
 
+### towners_init_wounded_townsman
+
+```c
+// towners_init_wounded_townsman initializes the Wounded Townsman.
+void towners_init_wounded_townsman();
+```
+
 ## 0x4604C6
+
+### towners_init_adria
+
+```c
+// towners_init_adria initializes Adria the Witch.
+void towners_init_adria();
+```
 
 ## 0x460555
 
+### towners_init_gillian
+
+```c
+// towners_init_gillian initializes Gillian the Barmaid.
+void towners_init_gillian();
+```
+
 ## 0x4605E4
+
+### towners_init_wirt
+
+```c
+// towners_init_wirt initializes Wirt the Peg-legged boy.
+void towners_init_wirt();
+```
 
 ## 0x46067A
 
+### towners_init_pepin
+
+```c
+// towners_init_pepin initializes Pepin the Healer.
+void towners_init_pepin();
+```
+
 ## 0x460709
+
+### towners_init_cain
+
+```c
+// towners_init_cain initializes Cain the Elder.
+void towners_init_cain();
+```
 
 ## 0x460798
 
+### towners_init_farnham
+
+```c
+// towners_init_farnham initializes Farnham the Drunk.
+void towners_init_farnham();
+```
+
 ## 0x460827
 
+### towners_init_cows
+
+```c
+// towners_init_cows initializes the Cow NPCs.
+void towners_init_cows();
+```
+
 ## 0x460976
+
+### towners_init
+
+```c
+// towners_init initializes the NPCs of Tristram.
+void towners_init();
+```
 
 ## 0x4609C3
 
