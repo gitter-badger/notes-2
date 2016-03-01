@@ -4,9 +4,6 @@
 
 ```c
 // GossipData specifies the speech IDs for the gossip related to each quest.
-//
-// References:
-//    https://github.com/sanctuary/notes/blob/master/enumerates.md#speech_id
 typedef struct {
     speech_id the_magic_rock;
     speech_id black_mushroom;
@@ -27,6 +24,9 @@ typedef struct {
 } GossipData;
 ```
 
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#speech_id
+
 ## Point
 
 ```c
@@ -40,9 +40,7 @@ typedef struct {
 ## Shadow
 
 ```c
-// A Shadow contains the shadows for a 2x2 block of base square IDs [1].
-//
-//    [1]: https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md
+// A Shadow contains the shadows for a 2x2 block of base square IDs.
 typedef struct {
     // 2x2 block of base square IDs.
     l1_square base_bottom;
@@ -55,3 +53,6 @@ typedef struct {
     l1_square shadow_left;
 } Shadow;
 ```
+
+References:
+* https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md

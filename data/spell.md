@@ -6,11 +6,11 @@
 
 ```c
 // spell_data contains the data related to each spell ID.
-//
-// References:
-//    https://github.com/sanctuary/notes/blob/master/enumerates.md#spell_id
 SpellData spell_data[37];
 ```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#spell_id
 
 ## 0x4A2BE0
 

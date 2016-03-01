@@ -17,9 +17,6 @@ typedef enum {
 
 ```c
 // Square IDs for dungeon layout 1.
-//
-// References:
-//    https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md
 typedef enum {
     L1_SQUARE_NONE                                    = 0,
     L1_SQUARE_WALL_SW                                 = 1,
@@ -231,13 +228,13 @@ typedef enum {
 } l1_square;
 ```
 
+References:
+* https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md
+
 ## missile_graphic_id
 
 ```c
 // Missile graphic IDs specify missile_graphic_data array indices.
-//
-// References:
-//    https://github.com/sanctuary/notes/blob/master/data/missiles.md#missile_graphic_data
 typedef enum {
     // "missiles/arrows.cl2"
     MISSILE_GRAPHIC_ID_ARROW                  =  0,
@@ -337,13 +334,13 @@ typedef enum {
 } missile_graphic_id;
 ```
 
+References:
+* https://github.com/sanctuary/notes/blob/master/data/missiles.md#missile_graphic_data
+
 ## panel_button_id
 
 ```c
 // Pannel button IDs specify panel_buttons array indices.
-//
-// References:
-//    https://github.com/sanctuary/notes/blob/master/data/control.md#panel_buttons
 typedef enum {
     PANEL_BUTTON_ID_CHARACTER_INFORMATION = 0,
     PANEL_BUTTON_ID_QUESTS_LOG            = 1,
@@ -356,13 +353,13 @@ typedef enum {
 } panel_button_id;
 ```
 
+References:
+* https://github.com/sanctuary/notes/blob/master/data/control.md#panel_buttons
+
 ## sfx_id
 
 ```c
 // Sound effect IDs specify sfx_data array indices.
-//
-// References:
-//    https://github.com/sanctuary/notes/blob/master/data/effects.md#sfx_data
 typedef enum {
     SFX_ID_MISC_WALK1_WAV                                                                                  =   0,
     SFX_ID_MISC_WALK2_WAV                                                                                  =   1,
@@ -1225,13 +1222,13 @@ typedef enum {
 } sfx_id;
 ```
 
+References:
+* https://github.com/sanctuary/notes/blob/master/data/effects.md#sfx_data
+
 ## speech_id
 
 ```c
 // Speech IDs specify speech_data array indices.
-//
-// References:
-//    https://github.com/sanctuary/notes/blob/master/rdata/sound.md#speech_data
 typedef enum {
     SPEECH_ID_TOWNERS_STORYT01_WAV_AHH_THE_STORY_OF_OUR_KING_IS_IT                                            =   0,
     SPEECH_ID_TOWNERS_TAVOWN21_WAV_THE_VILLAGE_NEEDS_YOUR_HELP_GOOD_MASTER                                    =   1,
@@ -1496,13 +1493,13 @@ typedef enum {
 } speech_id;
 ```
 
+References:
+* https://github.com/sanctuary/notes/blob/master/rdata/sound.md#speech_data
+
 ## spell_id
 
 ```c
 // Spell IDs specify spell_data array indices.
-//
-// References:
-//    https://github.com/sanctuary/notes/blob/master/data/spell.md#spell_data
 typedef enum {
     SPELL_ID_NULL            =  0,
     SPELL_ID_FIREBOLT        =  1,
@@ -1544,6 +1541,9 @@ typedef enum {
     SPELL_ID_INVALID         = -1,
 } spell_id;
 ```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/data/spell.md#spell_data
 
 ## spell_type
 
@@ -1592,9 +1592,6 @@ typedef enum {
 
 ```c
 // Towner animation sequence IDs specify towner_anim_seq array indices.
-//
-// References:
-//    https://github.com/sanctuary/notes/blob/master/data/towners.md#towner_anim_seq
 typedef enum {
     TOWNER_ANIM_SEQ_ID_GRISWOLD =  0,
     TOWNER_ANIM_SEQ_ID_PEPIN    =  1,
@@ -1605,6 +1602,9 @@ typedef enum {
     TOWNER_ANIM_SEQ_ID_NONE     = -1,
 } towner_anim_seq_id;
 ```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/data/towners.md#towner_anim_seq
 
 ## towner_id
 

@@ -42,8 +42,8 @@ const char str_47F270[7];
 
 ```c
 // speech_data contains the data related to each speech ID.
-//
-// References:
-//    https://github.com/sanctuary/notes/blob/master/enumerates.md#speech_id
 Speech speech_data[259];
 ```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#speech_id

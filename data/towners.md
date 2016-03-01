@@ -6,11 +6,11 @@
 
 ```c
 // towner_anim_seq specifies the animation frame sequence of a given NPC.
-//
-// References:
-//     https://github.com/sanctuary/notes/blob/master/enumerates.md#towner_anim_seq_id
 int8_t towner_anim_seq[148][6];
 ```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#towner_anim_seq_id
 
 ## 0x4B2B00
 
@@ -18,12 +18,12 @@ int8_t towner_anim_seq[148][6];
 
 ```c
 // gossip_data contains the data related to quest gossip for each towner ID.
-//
-// References:
-//    https://github.com/sanctuary/notes/blob/master/enumerates.md#towner_id
-//    https://github.com/sanctuary/notes/blob/master/structures.md#gossipdata
 GossipData gossip_data[10];
 ```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#towner_id
+* https://github.com/sanctuary/notes/blob/master/structures.md#gossipdata
 
 ## 0x4B2DC4
 

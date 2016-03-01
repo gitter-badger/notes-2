@@ -19,11 +19,12 @@ uint32_t __fastcall encrypt_hash(char *s, int type);
 
 ```c
 // encrypt_init_lookup_table initializes the lookup table used for hashing with
-// pseudo-random numbers based on an LCG [1] with a=125, c=3 and m=0x2AAAAB.
-//
-//     [1]: https://en.wikipedia.org/wiki/Linear_congruential_generator
+// pseudo-random numbers based on an LCG with a=125, c=3 and m=0x2AAAAB.
 void encrypt_init_lookup_table();
 ```
+
+References:
+* https://en.wikipedia.org/wiki/Linear_congruential_generator
 
 ## 0x41609D
 

@@ -6,7 +6,7 @@
 
 ```c
 // inv_screen_pos maps from inventory slot to screen position. The inventory
-// slots are arranged as follows [1]:
+// slots are arranged as follows:
 //
 //                             00 01
 //                             02 03   06
@@ -24,6 +24,8 @@
 //
 //    65 66 67 68 69 70 71 72
 //
-// [1]: https://raw.githubusercontent.com/sanctuary/graphics/master/inventory.png
 Point inv_screen_pos[73];
 ```
+
+References:
+* https://raw.githubusercontent.com/sanctuary/graphics/master/inventory.png

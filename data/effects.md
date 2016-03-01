@@ -6,11 +6,11 @@
 
 ```c
 // sfx_data contains the data related to each sound effect ID.
-//
-// References:
-//    https://github.com/sanctuary/notes/blob/master/enumerates.md#sfx_id
 SfxData sfx_data[858];
 ```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#sfx_id
 
 ## 0x48819C
 
