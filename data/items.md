@@ -2304,6 +2304,18 @@ const char str_48F5F8[6];
 const char str_48F600[4];
 ```
 
+## 0x48F608
+
+### item_data
+
+```c
+// item_data contains the data related to each item ID.
+ItemData item_data[157];
+```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#item_id
+
 ## 0x4924A4
 
 ### str_4924A4
