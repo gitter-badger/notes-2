@@ -56,7 +56,7 @@ Each global variable in the uninitialized data section has been categorised base
 | [scrollrt.cpp](scrollrt.md)     | `0x69BEF8`    | `0x69EFAF`  | 0% (0/12472 bytes)           |
 | [sha1.cpp](sha1.md)             | `0x69EFB0`    | `0x69F0C3`  | 0% (0/276 bytes)             |
 | [sound.cpp](sound.md)           | `0x69F0C4`    | `0x69F107`  | 0% (0/68 bytes)              |
-| [stores.cpp](stores.md)         | `0x69F108`    | `0x6AA707`  | 0% (0/46592 bytes)           |
+| [stores.cpp](stores.md)         | `0x69F108`    | `0x6AA707`  | 90% (42328/46592 bytes)      |
 | [sync.cpp](sync.md)             | `0x6AA708`    | `0x6AAA37`  | 0% (0/816 bytes)             |
 | [themes.cpp](themes.md)         | `0x6AAA38`    | `0x6AAC13`  | 84% (400/476 bytes)          |
 | [tmsg.cpp](tmsg.md)             | `0x6AAC14`    | `0x6AAC17`  | 0% (0/4 bytes)               |
