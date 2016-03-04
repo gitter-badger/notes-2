@@ -64,6 +64,14 @@
 
 ## 0x459431
 
+### stores_can_recharge_staff
+
+```c
+// stores_can_recharge_staff reports whether the given inventory item is a
+// staff that may be recharged (i.e. has consumed charges).
+bool32_t __fastcall stores_can_recharge_staff(int inv_num);
+```
+
 ## 0x459460
 
 ## 0x4594E6

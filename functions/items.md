@@ -68,6 +68,46 @@
 
 ## 0x421A4B
 
+### items_get_rand_loot_id_from_monster
+
+```c
+// items_get_rand_loot_id_from_monster returns the loot ID of a random item
+// drop from the monster.
+//
+// The loot ID is positive for regular items and negative for unique items, as
+// further described by the following pseudo-code.
+//
+//    switch {
+//    case loot_id > 0:
+//       // regular item drop.
+//       item_id = loot_id - 1
+//    case loot_id < 0:
+//       // unique item drop.
+//       unique_item_id = -loot_id - 1
+//    case loot_id == 0:
+//       // no item drop.
+//    }
+//
+// The drops are calculated as follows.
+//
+//    * Winged Fiends (i.e. Fiend, Blink, Gloom and Familiar) never drop items.
+//    * The Butcher always drops The Butcher's Cleaver.
+//    * Skeleton King always drops The Undead Crown.
+//
+//    1) rnd(100) > 40: no drop
+//    2) rnd(100) > 25: drop gold
+//    3) Drop a random item with qlvl <= mlvl
+//       - The drop rate of an item determines if it has non-existant, regular
+//         or double chance of dropping.
+//       - In single player, items with the Resurrect or the Heal Other spell
+//         never drop.
+int __fastcall items_get_rand_loot_id_from_monster(int monster_num);
+```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#item_id
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#unique_item_id
+
 ## 0x421B32
 
 ## 0x421C2A
@@ -150,6 +190,13 @@
 
 ## 0x4241D7
 
+### items_is_equipable
+
+```c
+// items_is_equipable reports whether the given item is equipable.
+bool32_t __fastcall items_is_equipable(Item *item);
+```
+
 ## 0x42421C
 
 ## 0x424252
@@ -205,6 +252,13 @@
 ## 0x424FB8
 
 ## 0x42501F
+
+### items_update_stores_equipable
+
+```c
+// items_update_stores_equipable updates the equipability of store owner items.
+void items_update_stores_equipable();
+```
 
 ## 0x4250C0
 
