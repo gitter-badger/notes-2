@@ -13,6 +13,20 @@ typedef enum {
 } damage_type;
 ```
 
+## dtype
+
+```c
+// Dungeon types.
+typedef enum {
+    DTYPE_TRISTRAM  =  0, // dlvl:       0
+    DTYPE_CATHEDRAL =  1, // dlvl:  1 -  4
+    DTYPE_CATACOMBS =  2, // dlvl:  5 -  8
+    DTYPE_CAVES     =  3, // dlvl:  9 - 12
+    DTYPE_HELL      =  4, // dlvl: 13 - 16
+    DTYPE_NONE      = -1,
+} dtype;
+```
+
 ## item_id
 
 ```c
