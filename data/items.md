@@ -243,6 +243,8 @@ const char str_48EC2C[13];
 const char str_48EC3C[15];
 ```
 
+Note: "Sprits" is an [assumed typo](http://diablo.wikia.com/wiki/Helm_of_Spirits) of "Spirits".
+
 ## 0x48EC4C
 
 ### str_48EC4C

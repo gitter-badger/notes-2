@@ -1950,7 +1950,7 @@ typedef enum {
     UNIQUE_ITEM_ID_NAJS_PUZZLER           = 60,
     UNIQUE_ITEM_ID_MINDCRY                = 61,
     UNIQUE_ITEM_ID_ROD_OF_ONAN            = 62,
-    UNIQUE_ITEM_ID_HELM_OF_SPRITS         = 63,
+    UNIQUE_ITEM_ID_HELM_OF_SPIRITS        = 63,
     UNIQUE_ITEM_ID_THINKING_CAP           = 64,
     UNIQUE_ITEM_ID_OVERLORDS_HELM         = 65,
     UNIQUE_ITEM_ID_FOOLS_CREST            = 66,
