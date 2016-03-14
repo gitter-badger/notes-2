@@ -12,6 +12,56 @@ int8_t towner_anim_seq[148][6];
 References:
 * https://github.com/sanctuary/notes/blob/master/enumerates.md#towner_anim_seq_id
 
+## 0x4B2A9C
+
+### cow_start_col
+
+```c
+// cow_start_col specifies the start columns of the cows in Tristram.
+int cow_start_col[3];
+```
+
+## 0x4B2AA8
+
+### cow_start_row
+
+```c
+// cow_start_row specifies the start rows of the cows in Tristram.
+int cow_start_row[3];
+```
+
+## 0x4B2AB4
+
+### cow_start_facing
+
+```c
+// cow_start_facing specifies the start facing directions of the cows in
+// Tristram.
+facing cow_start_facing[3];
+```
+
+## 0x4B2AC0
+
+### cow_col_delta_from_facing
+
+```c
+// cow_col_delta_from_facing maps from facing direction to column delta, which
+// is used when placing cows in Tristram. A single cow may require space of up
+// to three tiles when being placed on the map.
+int cow_col_delta_from_facing[8];
+```
+
+## 0x4B2AE0
+
+### cow_row_delta_from_facing
+
+```c
+// cow_row_delta_from_facing maps from facing direction to row delta, which is
+// used when placing cows in Tristram. A single cow may require space of up to
+// three tiles when being placed on the map.
+int cow_row_delta_from_facing[8];
+```
+
 ## 0x4B2B00
 
 ### gossip_data
@@ -24,6 +74,16 @@ GossipData gossip_data[10];
 References:
 * https://github.com/sanctuary/notes/blob/master/enumerates.md#towner_id
 * https://github.com/sanctuary/notes/blob/master/structures.md#gossipdata
+
+## 0x4B2DC0
+
+### cow_active_sfx_id
+
+```c
+// cow_active_sfx_id specifies the active sound effect ID for interacting with
+// cows.
+sfx_id cow_active_sfx_id;
+```
 
 ## 0x4B2DC4
 

@@ -11,12 +11,16 @@ bool32_t has_greeted;
 
 ## 0x6AAC1C
 
-### cow_sfx_id
+### cow_active_sfx_index
 
 ```c
-// cow_sfx_id specifies the active sound effect ID for interacting with cows.
-int cow_sfx_id;
+// cow_active_sfx_index specifies the active index (between 0 and 2) into
+// cow_sfx_id_from_class.
+int cow_active_sfx_index;
 ```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/rdata/towners.md#cow_sfx_id_from_class
 
 ## 0x6AAC20
 
