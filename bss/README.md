@@ -60,7 +60,7 @@ Each global variable in the uninitialized data section has been categorised base
 | [sync.cpp](sync.md)             | `0x6AA708`    | `0x6AAA37`  | 0% (0/816 bytes)             |
 | [themes.cpp](themes.md)         | `0x6AAA38`    | `0x6AAC13`  | 84% (400/476 bytes)          |
 | [tmsg.cpp](tmsg.md)             | `0x6AAC14`    | `0x6AAC17`  | 0% (0/4 bytes)               |
-| [towners.cpp](towners.md)       | `0x6AAC18`    | `0x6ABAB7`  | 99% (3712/3744 bytes)        |
+| [towners.cpp](towners.md)       | `0x6AAC18`    | `0x6ABAB7`  | 100% (3744/3744 bytes)       |
 | [track.cpp](track.md)           | `0x6ABAB8`    | `0x6ABAC7`  | 0% (0/16 bytes)              |
 | [trigs.cpp](trigs.md)           | `0x6ABAC8`    | `0x6ABB33`  | 0% (0/108 bytes)             |
 | [wave.cpp](wave.md)             | `0x6ABB34`    | `0x6ABB37`  | 0% (0/4 bytes)               |
