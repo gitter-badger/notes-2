@@ -584,6 +584,17 @@ typedef enum {
 References:
 * https://github.com/sanctuary/notes/blob/master/data/control.md#panel_buttons
 
+## player_class
+
+```c
+// Player classes.
+typedef enum {
+    PLAYER_CLASS_WARRIOR  = 0,
+    PLAYER_CLASS_ROGUE    = 1,
+    PLAYER_CLASS_SORCEROR = 2,
+} player_class;
+```
+
 ## sfx_id
 
 ```c
