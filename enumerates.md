@@ -27,6 +27,52 @@ typedef enum {
 } dtype;
 ```
 
+## facing
+
+```c
+// Facing directions.
+//
+// # Map layout
+//
+//                    (col=0 row=0)
+//                          _
+//                         / \
+//                    r   /   \     c
+//                   o   /     \     o
+//                  w   /       \     l
+//                     /         \
+//    (col=0 row=95)  |           |  (col=95 row=0)
+//                     \         /
+//                      \       /
+//                       \     /
+//                        \   /
+//                         \_/
+//                   (col=95 row=95)
+//
+// # Step based on facing
+//
+//    * South      (col+1, row+1)
+//    * South west (col,   row+1)
+//    * West       (col-1, row+1)
+//    * North west (col-1, row)
+//    * North      (col-1, row-1)
+//    * North east (col,   row-1)
+//    * East       (col+1, row-1)
+//    * South east (col+1, row)
+typedef enum {
+    FACING_SOUTH      = 0,
+    FACING_SOUTH_WEST = 1,
+    FACING_WEST       = 2,
+    FACING_NORTH_WEST = 3,
+    FACING_NORTH      = 4,
+    FACING_NORTH_EAST = 5,
+    FACING_EAST       = 6,
+    FACING_SOUTH_EAST = 7,
+    // Facing all directions.
+    FACING_OMNI       = 8,
+} facing;
+```
+
 ## item_id
 
 ```c
