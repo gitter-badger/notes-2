@@ -241,6 +241,17 @@ typedef enum {
 References:
 * https://github.com/sanctuary/notes/blob/master/data/items.md#item_data
 
+## item_quality
+
+```c
+// Item quality levels.
+typedef enum {
+    ITEM_QUALITY_NORMAL = 0,
+    ITEM_QUALITY_MAGIC  = 1,
+    ITEM_QUALITY_UNIQUE = 2,
+} item_quality;
+```
+
 ## l1_square
 
 ```c
