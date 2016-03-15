@@ -252,6 +252,31 @@ typedef enum {
 } item_quality;
 ```
 
+## item_type
+
+```c
+// Item types.
+typedef enum {
+    // Potions, elixirs, scrolls, books, and quest items.
+    ITEM_TYPE_MISC         =  0,
+    ITEM_TYPE_SWORD        =  1,
+    ITEM_TYPE_AXE          =  2,
+    ITEM_TYPE_BOW          =  3,
+    ITEM_TYPE_MACE         =  4,
+    ITEM_TYPE_SHIELD       =  5,
+    ITEM_TYPE_LIGHT_ARMOR  =  6,
+    ITEM_TYPE_HELM         =  7,
+    ITEM_TYPE_MEDIUM_ARMOR =  8,
+    ITEM_TYPE_HEAVY_ARMOR  =  9,
+    ITEM_TYPE_STAFF        = 10,
+    ITEM_TYPE_GOLD         = 11,
+    ITEM_TYPE_RING         = 12,
+    ITEM_TYPE_AMULET       = 13,
+    ITEM_TYPE_14           = 14, // NOTE: Unused?
+    ITEM_TYPE_NONE         = -1,
+} item_type;
+```
+
 ## l1_square
 
 ```c
