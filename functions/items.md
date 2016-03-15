@@ -30,6 +30,14 @@
 
 ## 0x41FEA4
 
+### items_gen_seed
+
+```c
+// items_gen_seed generates a seed for the given item, distinct from the seed
+// values of all other active items.
+void __fastcall items_gen_seed(int player_num, int32_t *item_seed);
+```
+
 ## 0x41FF16
 
 ## 0x41FF19
@@ -238,6 +246,13 @@ bool32_t __fastcall items_is_equipable(Item *item);
 ## 0x424C0C
 
 ## 0x424D57
+
+### items_create_base_gold
+
+```c
+// items_create_base_gold creates the base gold item.
+void items_create_base_gold();
+```
 
 ## 0x424D80
 

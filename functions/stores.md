@@ -2,9 +2,30 @@
 
 ## 0x457A01
 
+### stores_init
+
+```c
+// stores_init initializes the resources used by store owners.
+void stores_init();
+```
+
 ## 0x457A87
 
+### stores_renew_items
+
+```c
+// stores_renew_items renews the items sold in stores.
+void stores_renew_items();
+```
+
 ## 0x457B42
+
+### stores_cleanup
+
+```c
+// stores_cleanup releases the resources used by store owners.
+void stores_cleanup();
+```
 
 ## 0x457B78
 
@@ -86,6 +107,14 @@ void stores_talk_griswold_sell();
 ```
 
 ## 0x458C0B
+
+### stores_is_damaged
+
+```c
+// stores_is_damaged reports whether the given inventory item is damaged (i.e.
+// it may be repaired).
+bool32_t __fastcall stores_is_damaged(int inv_num);
+```
 
 ## 0x458C4E
 
@@ -247,7 +276,8 @@ void stores_talk_cain();
 ### stores_is_unidentified
 
 ```c
-// stores_is_unidentified reports whether the item is magical and unidentified.
+// stores_is_unidentified reports whether the given item is magical and
+// unidentified (i.e. it may be identified).
 bool32_t __fastcall stores_is_unidentified(Item *item);
 ```
 
