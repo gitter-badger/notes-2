@@ -66,6 +66,15 @@ int ngriswold_premium_items;
 Item pepin_items[20];
 ```
 
+## 0x6A8880
+
+### item_base_gold
+
+```c
+// item_base_gold represents the base gold item.
+Item item_base_gold;
+```
+
 ## 0x6A8A40
 
 ### griswold_basic_items
