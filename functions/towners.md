@@ -279,6 +279,13 @@ void towners_update();
 
 ## 0x460CAC
 
+### towners_greeting
+
+```c
+// towners_greeting initiates the given NPC greeting.
+void __fastcall towners_greeting(speech_id speech_id);
+```
+
 ## 0x460CC9
 
 ## 0x4617E8

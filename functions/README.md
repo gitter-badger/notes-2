@@ -9,7 +9,7 @@ Each function has been categorised based on their original source file, as summa
 | [automap.cpp](automap.md)       | `0x401DA4`    | `0x40311A`  | 0% (0/16 functions)      |
 | [capture.cpp](capture.md)       | `0x40311B`    | `0x4034D8`  | 14% (1/7 functions)      |
 | [codec.cpp](codec.md)           | `0x4034D9`    | `0x4037D3`  | 100% (5/5 functions)     |
-| [control.cpp](control.md)       | `0x4037D4`    | `0x407409`  | 1% (1/65 functions)      |
+| [control.cpp](control.md)       | `0x4037D4`    | `0x407409`  | 3% (2/65 functions)      |
 | [cursor.cpp](cursor.md)         | `0x40740A`    | `0x4084A5`  | 0% (0/9 functions)       |
 | [dead.cpp](dead.md)             | `0x4084A6`    | `0x4086F3`  | 0% (0/3 functions)       |
 | [debug.cpp](debug.md)           | `0x4086F4`    | `0x4087B0`  | 0% (0/3 functions)       |
@@ -62,12 +62,12 @@ Each function has been categorised based on their original source file, as summa
 | [sha1.cpp](sha1.md)             | `0x456A16`    | `0x456CBA`  | 100% (6/6 functions)     |
 | [sound.cpp](sound.md)           | `0x456CBB`    | `0x45744D`  | 18% (4/22 functions)     |
 | [spell.cpp](spell.md)           | `0x45744E`    | `0x457A00`  | 0% (0/7 functions)       |
-| [stores.cpp](stores.md)         | `0x457A01`    | `0x45C198`  | 1% (1/95 functions)      |
+| [stores.cpp](stores.md)         | `0x457A01`    | `0x45C198`  | 1% (27/95 functions)      |
 | [sync.cpp](sync.md)             | `0x45C199`    | `0x45C86F`  | 0% (0/9 functions)       |
 | [themes.cpp](themes.md)         | `0x45C870`    | `0x45E08B`  | 0% (0/31 functions)      |
 | [tmsg.cpp](tmsg.md)             | `0x45E08C`    | `0x45E150`  | 33% (1/3 functions)      |
 | [town.cpp](town.md)             | `0x45E151`    | `0x46019A`  | 0% (0/19 functions)      |
-| [towners.cpp](towners.md)       | `0x46019B`    | `0x4618A4`  | 87% (29/33 functions)    |
+| [towners.cpp](towners.md)       | `0x46019B`    | `0x4618A4`  | 90% (30/33 functions)    |
 | [track.cpp](track.md)           | `0x4618A5`    | `0x4619A6`  | 0% (0/5 functions)       |
 | [trigs.cpp](trigs.md)           | `0x4619A7`    | `0x462C6C`  | 0% (0/21 functions)      |
 | [wave.cpp](wave.md)             | `0x462C6D`    | `0x46305F`  | 0% (0/18 functions)      |

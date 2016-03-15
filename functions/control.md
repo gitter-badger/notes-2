@@ -108,6 +108,14 @@ spell_type __fastcall control_get_spell_type(spell_id spell_id, bool32_t check_t
 
 ## 0x406AF8
 
+### control_get_gold_quantity
+
+```c
+// control_get_gold_quantity returns the gramatically correct quantity for the
+// given amount of gold (i.e. "piece" or "pieces").
+char *__fastcall control_get_gold_quantity(int gold);
+```
+
 ## 0x406B08
 
 ## 0x406C40
