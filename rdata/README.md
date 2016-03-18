@@ -4,6 +4,7 @@ Each global variable in the read-only data section has been categorised based on
 
 | Source File                     | Start Address | End Address | Progress                 |
 |---------------------------------|---------------|-------------|--------------------------|
+| _idata.cpp                      | `0x479000`    | `0x4793FF`  | N/A                      |
 | _crt.cpp                        | `0x479400`    | `0x479403`  | N/A                      |
 | [capture.cpp](capture.md)       | `0x479404`    | `0x479423`  | 100% (32/32 bytes)       |
 | [control.cpp](control.md)       | `0x479424`    | `0x479657`  | 100% (564/564 bytes)     |
@@ -46,3 +47,7 @@ Each global variable in the read-only data section has been categorised based on
 | [track.cpp](track.md)           | `0x4802D0`    | `0x4802D3`  | 100% (4/4 bytes)         |
 | [wave.cpp](wave.md)             | `0x4802D4`    | `0x4802D7`  | 100% (4/4 bytes)         |
 | _crt.cpp                        | `0x4802D8`    | `0x482FFF`  | N/A                      |
+
+## Notes
+
+The `_idata.cpp` source file name is a pseudo-file name used for the import section `.idata`.
