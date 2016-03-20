@@ -13,6 +13,17 @@ typedef enum {
 } damage_type;
 ```
 
+## drop_rate
+
+```c
+// Drop rates.
+typedef enum {
+    DROP_RATE_NEVER   = 0, // never drops.
+    DROP_RATE_REGULAR = 1, // regular drop change.
+    DROP_RATE_DOUBLE  = 2, // twice as likely to drop.
+} drop_rate;
+```
+
 ## dtype
 
 ```c
@@ -500,100 +511,53 @@ References:
 ```c
 // Missile graphic IDs specify missile_graphic_data array indices.
 typedef enum {
-    // "missiles/arrows.cl2"
-    MISSILE_GRAPHIC_ID_ARROW                  =  0,
-    // "missiles/fireba%i.cl2"
-    MISSILE_GRAPHIC_ID_FIRE_BALL              =  1,
-    // "missiles/guard%i.cl2"
-    MISSILE_GRAPHIC_ID_GUARDIAN               =  2,
-    // "missiles/lghning.cl2"
-    MISSILE_GRAPHIC_ID_LIGHTNING              =  3,
-    // "missiles/firewal%i.cl2"
-    MISSILE_GRAPHIC_ID_FIRE_WALL              =  4,
-    // "missiles/magblos.cl2"
-    MISSILE_GRAPHIC_ID_MAGIC_BLOSSOM          =  5,
-    // "missiles/portal%i.cl2"
-    MISSILE_GRAPHIC_ID_PORTAL                 =  6,
-    // "missiles/bluexfr.cl2"
-    MISSILE_GRAPHIC_ID_BLUE_EXPLOSION_FRONT   =  7,
-    // "missiles/bluexbk.cl2"
-    MISSILE_GRAPHIC_ID_BLUE_EXPLOSION_BACK    =  8,
-    // "missiles/manashld.cl2"
-    MISSILE_GRAPHIC_ID_MANA_SHIELD            =  9,
-    // "missiles/blood%i.cl2"
-    MISSILE_GRAPHIC_ID_BLOOD                  = 10,
-    // "missiles/bone%i.cl2"
-    MISSILE_GRAPHIC_ID_BONE                   = 11,
-    // "missiles/metlhit%i.cl2"
-    MISSILE_GRAPHIC_ID_METAL_HIT              = 12,
-    // "missiles/farrow%i.cl2"
-    MISSILE_GRAPHIC_ID_FIRE_ARROW             = 13,
-    // "missiles/doom%i.cl2"
-    MISSILE_GRAPHIC_ID_DOOM_SERPENT           = 14,
-    // " "
-    MISSILE_GRAPHIC_ID_SPACE                  = 15,
-    // "missiles/blodbur%i.cl2"
-    MISSILE_GRAPHIC_ID_BLOOD_BURST            = 16,
-    // "missiles/newexp.cl2"
-    MISSILE_GRAPHIC_ID_EXPLOSION              = 17,
-    // "missiles/shatter1.cl2"
-    MISSILE_GRAPHIC_ID_SHATTER                = 18,
-    // "missiles/bigexp.cl2"
-    MISSILE_GRAPHIC_ID_BIG_EXPLOSION          = 19,
-    // "missiles/inferno.cl2"
-    MISSILE_GRAPHIC_ID_INFERNO                = 20,
-    // "missiles/thinlght.cl2"
-    MISSILE_GRAPHIC_ID_THIN_LIGHTNING         = 21,
-    // "missiles/flare.cl2"
-    MISSILE_GRAPHIC_ID_FLARE                  = 22,
-    // "missiles/flareexp.cl2"
-    MISSILE_GRAPHIC_ID_FLARE_EXPLOSION        = 23,
-    // "missiles/magball%i.cl2"
-    MISSILE_GRAPHIC_ID_MAGIC_BALL             = 24,
-    // "missiles/krull.cl2"
-    MISSILE_GRAPHIC_ID_KRULL                  = 25,
-    // "missiles/miniltng.cl2"
-    MISSILE_GRAPHIC_ID_MINI_LIGHTNING         = 26,
-    // "missiles/holy%i.cl2"
-    MISSILE_GRAPHIC_ID_HOLY_BOLT              = 27,
-    // "missiles/holyexpl.cl2"
-    MISSILE_GRAPHIC_ID_HOLY_EXPLOSION         = 28,
-    // "missiles/larrow%i.cl2"
-    MISSILE_GRAPHIC_ID_LIGHTNING_ARROW        = 29,
-    // "missiles/firarwex.cl2"
-    MISSILE_GRAPHIC_ID_FIRE_ARROW_EXPLOSION   = 30,
-    // "missiles/acidbf%i.cl2"
-    MISSILE_GRAPHIC_ID_ACID_BALL              = 31,
-    // "missiles/acidspla.cl2"
-    MISSILE_GRAPHIC_ID_ACID_SPLASH            = 32,
-    // "missiles/acidpud%i.cl2"
-    MISSILE_GRAPHIC_ID_ACID_PUDDLE            = 33,
-    // "missiles/ethrshld.cl2"
-    MISSILE_GRAPHIC_ID_ETHEREAL_SHIELD        = 34,
-    // "missiles/firerun%i.cl2"
-    MISSILE_GRAPHIC_ID_ELEMENTAL              = 35,
-    // "missiles/ressur1.cl2"
-    MISSILE_GRAPHIC_ID_RESURRECT              = 36,
-    // "missiles/sklball%i.cl2"
-    MISSILE_GRAPHIC_ID_SKULL_BALL             = 37,
-    // "missiles/rportal%i.cl2"
-    MISSILE_GRAPHIC_ID_RED_PORTAL             = 38,
-    // "missiles/fireplar.cl2"
-    MISSILE_GRAPHIC_ID_FIRE_PILLAR            = 39,
-    // "missiles/scubmisb.cl2"
-    MISSILE_GRAPHIC_ID_BLUE_FLARE             = 40,
-    // "missiles/scbsexpb.cl2"
-    MISSILE_GRAPHIC_ID_BLUE_FLARE_EXPLOSION   = 41,
-    // "missiles/scubmisc.cl2"
-    MISSILE_GRAPHIC_ID_YELLOW_FLARE           = 42,
-    // "missiles/scbsexpc.cl2"
-    MISSILE_GRAPHIC_ID_YELLOW_FLARE_EXPLOSION = 43,
-    // "missiles/scubmisd.cl2"
-    MISSILE_GRAPHIC_ID_RED_FLARE              = 44,
-    // "missiles/scbsexpd.cl2"
-    MISSILE_GRAPHIC_ID_RED_FLARE_EXPLOSION    = 45,
-    // NULL
-    MISSILE_GRAPHIC_ID_NULL                   = 46,
+    MISSILE_GRAPHIC_ID_ARROW                  =  0, // "missiles/arrows.cl2"
+    MISSILE_GRAPHIC_ID_FIRE_BALL              =  1, // "missiles/fireba%i.cl2"
+    MISSILE_GRAPHIC_ID_GUARDIAN               =  2, // "missiles/guard%i.cl2"
+    MISSILE_GRAPHIC_ID_LIGHTNING              =  3, // "missiles/lghning.cl2"
+    MISSILE_GRAPHIC_ID_FIRE_WALL              =  4, // "missiles/firewal%i.cl2"
+    MISSILE_GRAPHIC_ID_MAGIC_BLOSSOM          =  5, // "missiles/magblos.cl2"
+    MISSILE_GRAPHIC_ID_PORTAL                 =  6, // "missiles/portal%i.cl2"
+    MISSILE_GRAPHIC_ID_BLUE_EXPLOSION_FRONT   =  7, // "missiles/bluexfr.cl2"
+    MISSILE_GRAPHIC_ID_BLUE_EXPLOSION_BACK    =  8, // "missiles/bluexbk.cl2"
+    MISSILE_GRAPHIC_ID_MANA_SHIELD            =  9, // "missiles/manashld.cl2"
+    MISSILE_GRAPHIC_ID_BLOOD                  = 10, // "missiles/blood%i.cl2"
+    MISSILE_GRAPHIC_ID_BONE                   = 11, // "missiles/bone%i.cl2"
+    MISSILE_GRAPHIC_ID_METAL_HIT              = 12, // "missiles/metlhit%i.cl2"
+    MISSILE_GRAPHIC_ID_FIRE_ARROW             = 13, // "missiles/farrow%i.cl2"
+    MISSILE_GRAPHIC_ID_DOOM_SERPENT           = 14, // "missiles/doom%i.cl2"
+    MISSILE_GRAPHIC_ID_SPACE                  = 15, // " "
+    MISSILE_GRAPHIC_ID_BLOOD_BURST            = 16, // "missiles/blodbur%i.cl2"
+    MISSILE_GRAPHIC_ID_EXPLOSION              = 17, // "missiles/newexp.cl2"
+    MISSILE_GRAPHIC_ID_SHATTER                = 18, // "missiles/shatter1.cl2"
+    MISSILE_GRAPHIC_ID_BIG_EXPLOSION          = 19, // "missiles/bigexp.cl2"
+    MISSILE_GRAPHIC_ID_INFERNO                = 20, // "missiles/inferno.cl2"
+    MISSILE_GRAPHIC_ID_THIN_LIGHTNING         = 21, // "missiles/thinlght.cl2"
+    MISSILE_GRAPHIC_ID_FLARE                  = 22, // "missiles/flare.cl2"
+    MISSILE_GRAPHIC_ID_FLARE_EXPLOSION        = 23, // "missiles/flareexp.cl2"
+    MISSILE_GRAPHIC_ID_MAGIC_BALL             = 24, // "missiles/magball%i.cl2"
+    MISSILE_GRAPHIC_ID_KRULL                  = 25, // "missiles/krull.cl2"
+    MISSILE_GRAPHIC_ID_MINI_LIGHTNING         = 26, // "missiles/miniltng.cl2"
+    MISSILE_GRAPHIC_ID_HOLY_BOLT              = 27, // "missiles/holy%i.cl2"
+    MISSILE_GRAPHIC_ID_HOLY_EXPLOSION         = 28, // "missiles/holyexpl.cl2"
+    MISSILE_GRAPHIC_ID_LIGHTNING_ARROW        = 29, // "missiles/larrow%i.cl2"
+    MISSILE_GRAPHIC_ID_FIRE_ARROW_EXPLOSION   = 30, // "missiles/firarwex.cl2"
+    MISSILE_GRAPHIC_ID_ACID_BALL              = 31, // "missiles/acidbf%i.cl2"
+    MISSILE_GRAPHIC_ID_ACID_SPLASH            = 32, // "missiles/acidspla.cl2"
+    MISSILE_GRAPHIC_ID_ACID_PUDDLE            = 33, // "missiles/acidpud%i.cl2"
+    MISSILE_GRAPHIC_ID_ETHEREAL_SHIELD        = 34, // "missiles/ethrshld.cl2"
+    MISSILE_GRAPHIC_ID_ELEMENTAL              = 35, // "missiles/firerun%i.cl2"
+    MISSILE_GRAPHIC_ID_RESURRECT              = 36, // "missiles/ressur1.cl2"
+    MISSILE_GRAPHIC_ID_SKULL_BALL             = 37, // "missiles/sklball%i.cl2"
+    MISSILE_GRAPHIC_ID_RED_PORTAL             = 38, // "missiles/rportal%i.cl2"
+    MISSILE_GRAPHIC_ID_FIRE_PILLAR            = 39, // "missiles/fireplar.cl2"
+    MISSILE_GRAPHIC_ID_BLUE_FLARE             = 40, // "missiles/scubmisb.cl2"
+    MISSILE_GRAPHIC_ID_BLUE_FLARE_EXPLOSION   = 41, // "missiles/scbsexpb.cl2"
+    MISSILE_GRAPHIC_ID_YELLOW_FLARE           = 42, // "missiles/scubmisc.cl2"
+    MISSILE_GRAPHIC_ID_YELLOW_FLARE_EXPLOSION = 43, // "missiles/scbsexpc.cl2"
+    MISSILE_GRAPHIC_ID_RED_FLARE              = 44, // "missiles/scubmisd.cl2"
+    MISSILE_GRAPHIC_ID_RED_FLARE_EXPLOSION    = 45, // "missiles/scbsexpd.cl2"
+    MISSILE_GRAPHIC_ID_NULL                   = 46, // NULL
     MISSILE_GRAPHIC_ID_INVALID                = 47,
 } missile_graphic_id;
 ```
