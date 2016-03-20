@@ -79,8 +79,7 @@ typedef enum {
     FACING_NORTH_EAST = 5,
     FACING_EAST       = 6,
     FACING_SOUTH_EAST = 7,
-    // Facing all directions.
-    FACING_OMNI       = 8,
+    FACING_OMNI       = 8, // Facing all directions.
 } facing;
 ```
 
@@ -268,8 +267,7 @@ typedef enum {
 ```c
 // Item types.
 typedef enum {
-    // Potions, elixirs, scrolls, books, and quest items.
-    ITEM_TYPE_MISC         =  0,
+    ITEM_TYPE_MISC         =  0, // Potions, scrolls, books and quest items.
     ITEM_TYPE_SWORD        =  1,
     ITEM_TYPE_AXE          =  2,
     ITEM_TYPE_BOW          =  3,
@@ -682,7 +680,7 @@ typedef enum {
     MONSTER_ID_GOLEM                   = 109, // monsters/golem/
     MONSTER_ID_THE_DARK_LORD           = 110, // monsters/diablo/
     MONSTER_ID_THE_ARCH_LITCH_MALIGNUS = 111, // monsters/darkmage/
-    MONSTER_ID_NONE                    = 255,
+    MONSTER_ID_NONE                    =  -1,
 } monster_id;
 ```
 
@@ -718,6 +716,34 @@ typedef enum {
     PLAYER_CLASS_SORCEROR = 2,
 } player_class;
 ```
+
+## quest_id
+
+```c
+// Quest IDs specify quest_data array indices.
+typedef enum {
+    QUEST_ID_THE_MAGIC_ROCK           =  0,
+    QUEST_ID_BLACK_MUSHROOM           =  1,
+    QUEST_ID_GHARBAD_THE_WEAK         =  2,
+    QUEST_ID_ZHAR_THE_MAD             =  3,
+    QUEST_ID_LACHDANAN                =  4,
+    QUEST_ID_DIABLO                   =  5,
+    QUEST_ID_THE_BUTCHER              =  6,
+    QUEST_ID_OGDENS_SIGN              =  7,
+    QUEST_ID_HALLS_OF_THE_BLIND       =  8,
+    QUEST_ID_VALOR                    =  9,
+    QUEST_ID_ANVIL_OF_FURY            = 10,
+    QUEST_ID_WARLORD_OF_BLOOD         = 11,
+    QUEST_ID_THE_CURSE_OF_KING_LEORIC = 12,
+    QUEST_ID_POISONED_WATER_SUPPLY    = 13,
+    QUEST_ID_THE_CHAMBER_OF_BONE      = 14,
+    QUEST_ID_ARCHBISHOP_LAZARUS       = 15,
+    QUEST_ID_INVALID                  = -1,
+} quest_id;
+```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/data/quests.md#quest_data
 
 ## sfx_id
 
