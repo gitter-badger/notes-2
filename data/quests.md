@@ -1,5 +1,17 @@
 # quests.cpp
 
+## 0x4A1AE0
+
+### quest_data
+
+```c
+// quest_data contains the data related to each quest ID.
+QuestData quest_data[16];
+```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#quest_id
+
 ## 0x4A1C70
 
 ### str_4A1C70
