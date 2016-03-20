@@ -601,6 +601,130 @@ typedef enum {
 References:
 * https://github.com/sanctuary/notes/blob/master/data/missiles.md#missile_graphic_data
 
+## monster_id
+
+```c
+// Monster IDs specify monster_data array indices.
+typedef enum {
+    MONSTER_ID_ZOMBIE                  =   0, // monsters/zombie/
+    MONSTER_ID_GHOUL                   =   1, // monsters/zombie/
+    MONSTER_ID_ROTTING_CARCASS         =   2, // monsters/zombie/
+    MONSTER_ID_BLACK_DEATH             =   3, // monsters/zombie/
+    MONSTER_ID_FALLEN_ONE_SPEAR        =   4, // monsters/falspear/
+    MONSTER_ID_CARVER_SPEAR            =   5, // monsters/falspear/
+    MONSTER_ID_DEVIL_KIN_SPEAR         =   6, // monsters/falspear/
+    MONSTER_ID_DARK_ONE_SPEAR          =   7, // monsters/falspear/
+    MONSTER_ID_SKELETON_AXE            =   8, // monsters/skelaxe/
+    MONSTER_ID_CORPSE_AXE              =   9, // monsters/skelaxe/
+    MONSTER_ID_BURNING_DEAD_AXE        =  10, // monsters/skelaxe/
+    MONSTER_ID_HORROR_AXE              =  11, // monsters/skelaxe/
+    MONSTER_ID_FALLEN_ONE_SWORD        =  12, // monsters/falsword/
+    MONSTER_ID_CARVER_SWORD            =  13, // monsters/falsword/
+    MONSTER_ID_DEVIL_KIN_SWORD         =  14, // monsters/falsword/
+    MONSTER_ID_DARK_ONE_SWORD          =  15, // monsters/falsword/
+    MONSTER_ID_SCAVENGER               =  16, // monsters/scav/
+    MONSTER_ID_PLAGUE_EATER            =  17, // monsters/scav/
+    MONSTER_ID_SHADOW_BEAST            =  18, // monsters/scav/
+    MONSTER_ID_BONE_GASHER             =  19, // monsters/scav/
+    MONSTER_ID_SKELETON_BOW            =  20, // monsters/skelbow/
+    MONSTER_ID_CORPSE_BOW              =  21, // monsters/skelbow/
+    MONSTER_ID_BURNING_DEAD_BOW        =  22, // monsters/skelbow/
+    MONSTER_ID_HORROR_BOW              =  23, // monsters/skelbow/
+    MONSTER_ID_SKELETON_CAPTAIN        =  24, // monsters/skelsd/
+    MONSTER_ID_CORPSE_CAPTAIN          =  25, // monsters/skelsd/
+    MONSTER_ID_BURNING_DEAD_CAPTAIN    =  26, // monsters/skelsd/
+    MONSTER_ID_HORROR_CAPTAIN          =  27, // monsters/skelsd/
+    MONSTER_ID_INVISIBLE_LORD          =  28, // monsters/tsneak/
+    MONSTER_ID_HIDDEN                  =  29, // monsters/sneak/
+    MONSTER_ID_STALKER                 =  30, // monsters/sneak/
+    MONSTER_ID_UNSEEN                  =  31, // monsters/sneak/
+    MONSTER_ID_ILLUSION_WEAVER         =  32, // monsters/sneak/
+    MONSTER_ID_LORD_SAYTER             =  33, // monsters/goatlord/
+    MONSTER_ID_FLESH_CLAN_MACE         =  34, // monsters/goatmace/
+    MONSTER_ID_STONE_CLAN_MACE         =  35, // monsters/goatmace/
+    MONSTER_ID_FIRE_CLAN_MACE          =  36, // monsters/goatmace/
+    MONSTER_ID_NIGHT_CLAN_MACE         =  37, // monsters/goatmace/
+    MONSTER_ID_FIEND                   =  38, // monsters/bat/
+    MONSTER_ID_BLINK                   =  39, // monsters/bat/
+    MONSTER_ID_GLOOM                   =  40, // monsters/bat/
+    MONSTER_ID_FAMILIAR                =  41, // monsters/bat/
+    MONSTER_ID_FLESH_CLAN_BOW          =  42, // monsters/goatbow/
+    MONSTER_ID_STONE_CLAN_BOW          =  43, // monsters/goatbow/
+    MONSTER_ID_FIRE_CLAN_BOW           =  44, // monsters/goatbow/
+    MONSTER_ID_NIGHT_CLAN_BOW          =  45, // monsters/goatbow/
+    MONSTER_ID_ACID_BEAST              =  46, // monsters/acid/
+    MONSTER_ID_POISON_SPITTER          =  47, // monsters/acid/
+    MONSTER_ID_PIT_BEAST               =  48, // monsters/acid/
+    MONSTER_ID_LAVA_MAW                =  49, // monsters/acid/
+    MONSTER_ID_SKELETON_KING           =  50, // monsters/sking/
+    MONSTER_ID_THE_BUTCHER             =  51, // monsters/fatc/
+    MONSTER_ID_OVERLORD                =  52, // monsters/fat/
+    MONSTER_ID_MUD_MAN                 =  53, // monsters/fat/
+    MONSTER_ID_TOAD_DEMON              =  54, // monsters/fat/
+    MONSTER_ID_FLAYED_ONE              =  55, // monsters/fat/
+    MONSTER_ID_WYRM                    =  56, // monsters/worm/
+    MONSTER_ID_CAVE_SLUG               =  57, // monsters/worm/
+    MONSTER_ID_DEVIL_WYRM              =  58, // monsters/worm/
+    MONSTER_ID_DEVOURER                =  59, // monsters/worm/
+    MONSTER_ID_MAGMA_DEMON             =  60, // monsters/magma/
+    MONSTER_ID_BLOOD_STONE             =  61, // monsters/magma/
+    MONSTER_ID_HELL_STONE              =  62, // monsters/magma/
+    MONSTER_ID_LAVA_LORD               =  63, // monsters/magma/
+    MONSTER_ID_HORNED_DEMON            =  64, // monsters/rhino/
+    MONSTER_ID_MUD_RUNNER              =  65, // monsters/rhino/
+    MONSTER_ID_FROST_CHARGER           =  66, // monsters/rhino/
+    MONSTER_ID_OBSIDIAN_LORD           =  67, // monsters/rhino/
+    MONSTER_ID_BONE_DEMON              =  68, // monsters/demskel/
+    MONSTER_ID_RED_DEATH               =  69, // monsters/thin/
+    MONSTER_ID_LITCH_DEMON             =  70, // monsters/thin/
+    MONSTER_ID_UNDEAD_BALROG           =  71, // monsters/thin/
+    MONSTER_ID_INCINERATOR             =  72, // monsters/fireman/
+    MONSTER_ID_FLAME_LORD              =  73, // monsters/fireman/
+    MONSTER_ID_DOOM_FIRE               =  74, // monsters/fireman/
+    MONSTER_ID_HELL_BURNER             =  75, // monsters/fireman/
+    MONSTER_ID_RED_STORM               =  76, // monsters/thin/
+    MONSTER_ID_STORM_RIDER             =  77, // monsters/thin/
+    MONSTER_ID_STORM_LORD              =  78, // monsters/thin/
+    MONSTER_ID_MAELSTORM               =  79, // monsters/thin/
+    MONSTER_ID_DEVIL_KIN_BRUTE         =  80, // monsters/bigfall/
+    MONSTER_ID_WINGED_DEMON            =  81, // monsters/gargoyle/
+    MONSTER_ID_GARGOYLE                =  82, // monsters/gargoyle/
+    MONSTER_ID_BLOOD_CLAW              =  83, // monsters/gargoyle/
+    MONSTER_ID_DEATH_WING              =  84, // monsters/gargoyle/
+    MONSTER_ID_SLAYER                  =  85, // monsters/mega/
+    MONSTER_ID_GUARDIAN                =  86, // monsters/mega/
+    MONSTER_ID_VORTEX_LORD             =  87, // monsters/mega/
+    MONSTER_ID_BALROG                  =  88, // monsters/mega/
+    MONSTER_ID_CAVE_VIPER              =  89, // monsters/snake/
+    MONSTER_ID_FIRE_DRAKE              =  90, // monsters/snake/
+    MONSTER_ID_GOLD_VIPER              =  91, // monsters/snake/
+    MONSTER_ID_AZURE_DRAKE             =  92, // monsters/snake/
+    MONSTER_ID_BLACK_KNIGHT            =  93, // monsters/black/
+    MONSTER_ID_DOOM_GUARD              =  94, // monsters/black/
+    MONSTER_ID_STEEL_LORD              =  95, // monsters/black/
+    MONSTER_ID_BLOOD_KNIGHT            =  96, // monsters/black/
+    MONSTER_ID_UNRAVELER               =  97, // monsters/unrav/
+    MONSTER_ID_HOLLOW_ONE              =  98, // monsters/unrav/
+    MONSTER_ID_PAIN_MASTER             =  99, // monsters/unrav/
+    MONSTER_ID_REALITY_WEAVER          = 100, // monsters/unrav/
+    MONSTER_ID_SUCCUBUS                = 101, // monsters/succ/
+    MONSTER_ID_SNOW_WITCH              = 102, // monsters/succ/
+    MONSTER_ID_HELL_SPAWN              = 103, // monsters/succ/
+    MONSTER_ID_SOUL_BURNER             = 104, // monsters/succ/
+    MONSTER_ID_COUNSELOR               = 105, // monsters/mage/
+    MONSTER_ID_MAGISTRATE              = 106, // monsters/mage/
+    MONSTER_ID_CABALIST                = 107, // monsters/mage/
+    MONSTER_ID_ADVOCATE                = 108, // monsters/mage/
+    MONSTER_ID_GOLEM                   = 109, // monsters/golem/
+    MONSTER_ID_THE_DARK_LORD           = 110, // monsters/diablo/
+    MONSTER_ID_THE_ARCH_LITCH_MALIGNUS = 111, // monsters/darkmage/
+    MONSTER_ID_NONE                    = 255,
+} monster_id;
+```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/data/monsters.md#monster_data
+
 ## panel_button_id
 
 ```c
@@ -2076,3 +2200,112 @@ typedef enum {
 
 References:
 * https://github.com/sanctuary/notes/blob/master/rdata/items.md#unique_item_data
+
+## unique_monster_id
+
+```c
+// Unique monster IDs specify unique_monster_data array indices.
+typedef enum {
+    UNIQUE_MONSTER_ID_GHARBAD_THE_WEAK         =  0, // MONSTER_ID_FLESH_CLAN_MACE
+    UNIQUE_MONSTER_ID_SKELETON_KING            =  1, // MONSTER_ID_SKELETON_KING
+    UNIQUE_MONSTER_ID_ZHAR_THE_MAD             =  2, // MONSTER_ID_COUNSELOR
+    UNIQUE_MONSTER_ID_SNOTSPILL                =  3, // MONSTER_ID_DARK_ONE_SPEAR
+    UNIQUE_MONSTER_ID_ARCH_BISHOP_LAZARUS      =  4, // MONSTER_ID_ADVOCATE
+    UNIQUE_MONSTER_ID_RED_VEX                  =  5, // MONSTER_ID_HELL_SPAWN
+    UNIQUE_MONSTER_ID_BLACKJADE                =  6, // MONSTER_ID_HELL_SPAWN
+    UNIQUE_MONSTER_ID_LACHDANAN                =  7, // MONSTER_ID_BLOOD_KNIGHT
+    UNIQUE_MONSTER_ID_WARLORD_OF_BLOOD         =  8, // MONSTER_ID_STEEL_LORD
+    UNIQUE_MONSTER_ID_THE_BUTCHER              =  9, // MONSTER_ID_THE_BUTCHER
+    UNIQUE_MONSTER_ID_BONEHEAD_KEENAXE         = 10, // MONSTER_ID_CORPSE_AXE
+    UNIQUE_MONSTER_ID_BLADESKIN_THE_SLASHER    = 11, // MONSTER_ID_FALLEN_ONE_SWORD
+    UNIQUE_MONSTER_ID_SOULPUS                  = 12, // MONSTER_ID_ZOMBIE
+    UNIQUE_MONSTER_ID_PUKERAT_THE_UNCLEAN      = 13, // MONSTER_ID_FALLEN_ONE_SPEAR
+    UNIQUE_MONSTER_ID_BONERIPPER               = 14, // MONSTER_ID_SKELETON_AXE
+    UNIQUE_MONSTER_ID_ROTFEAST_THE_HUNGRY      = 15, // MONSTER_ID_ZOMBIE
+    UNIQUE_MONSTER_ID_GUTSHANK_THE_QUICK       = 16, // MONSTER_ID_CARVER_SWORD
+    UNIQUE_MONSTER_ID_BROKENHEAD_BANGSHIELD    = 17, // MONSTER_ID_CORPSE_CAPTAIN
+    UNIQUE_MONSTER_ID_BONGO                    = 18, // MONSTER_ID_DEVIL_KIN_SPEAR
+    UNIQUE_MONSTER_ID_ROTCARNAGE               = 19, // MONSTER_ID_GHOUL
+    UNIQUE_MONSTER_ID_SHADOWBITE               = 20, // MONSTER_ID_SCAVENGER
+    UNIQUE_MONSTER_ID_DEADEYE                  = 21, // MONSTER_ID_SKELETON_BOW
+    UNIQUE_MONSTER_ID_MADEYE_THE_DEAD          = 22, // MONSTER_ID_BURNING_DEAD_AXE
+    UNIQUE_MONSTER_ID_EL_CHUPACABRAS           = 23, // MONSTER_ID_PLAGUE_EATER
+    UNIQUE_MONSTER_ID_SKULLFIRE                = 24, // MONSTER_ID_CORPSE_BOW
+    UNIQUE_MONSTER_ID_WARPSKULL                = 25, // MONSTER_ID_HIDDEN
+    UNIQUE_MONSTER_ID_GORETONGUE               = 26, // MONSTER_ID_ROTTING_CARCASS
+    UNIQUE_MONSTER_ID_PULSECRAWLER             = 27, // MONSTER_ID_SHADOW_BEAST
+    UNIQUE_MONSTER_ID_MOONBENDER               = 28, // MONSTER_ID_BLINK
+    UNIQUE_MONSTER_ID_WRATHRAVEN               = 29, // MONSTER_ID_BLINK
+    UNIQUE_MONSTER_ID_SPINEEATER               = 30, // MONSTER_ID_BONE_GASHER
+    UNIQUE_MONSTER_ID_BLACKASH_THE_BURNING     = 31, // MONSTER_ID_BURNING_DEAD_BOW
+    UNIQUE_MONSTER_ID_SHADOWCROW               = 32, // MONSTER_ID_DARK_ONE_SWORD
+    UNIQUE_MONSTER_ID_BLIGHTSTONE_THE_WEAK     = 33, // MONSTER_ID_LORD_SAYTER
+    UNIQUE_MONSTER_ID_BILEFROTH_THE_PIT_MASTER = 34, // MONSTER_ID_OVERLORD
+    UNIQUE_MONSTER_ID_BLOODSKIN_DARKBOW        = 35, // MONSTER_ID_FLESH_CLAN_BOW
+    UNIQUE_MONSTER_ID_FOULWING                 = 36, // MONSTER_ID_GLOOM
+    UNIQUE_MONSTER_ID_SHADOWDRINKER            = 37, // MONSTER_ID_HORROR_CAPTAIN
+    UNIQUE_MONSTER_ID_HAZESHIFTER              = 38, // MONSTER_ID_UNSEEN
+    UNIQUE_MONSTER_ID_DEATHSPIT                = 39, // MONSTER_ID_ACID_BEAST
+    UNIQUE_MONSTER_ID_BLOODGUTTER              = 40, // MONSTER_ID_FIRE_CLAN_MACE
+    UNIQUE_MONSTER_ID_DEATHSHADE_FLESHMAUL     = 41, // MONSTER_ID_STONE_CLAN_MACE
+    UNIQUE_MONSTER_ID_WARMAGGOT_THE_MAD        = 42, // MONSTER_ID_WYRM
+    UNIQUE_MONSTER_ID_GLASSKULL_THE_JAGGED     = 43, // MONSTER_ID_RED_STORM
+    UNIQUE_MONSTER_ID_BLIGHTFIRE               = 44, // MONSTER_ID_FIRE_CLAN_BOW
+    UNIQUE_MONSTER_ID_NIGHTWING_THE_COLD       = 45, // MONSTER_ID_GARGOYLE
+    UNIQUE_MONSTER_ID_GORESTONE                = 46, // MONSTER_ID_NIGHT_CLAN_BOW
+    UNIQUE_MONSTER_ID_BRONZEFIST_FIRESTONE     = 47, // MONSTER_ID_HELL_STONE
+    UNIQUE_MONSTER_ID_WRATHFIRE_THE_DOOMED     = 48, // MONSTER_ID_INCINERATOR
+    UNIQUE_MONSTER_ID_FIREWOUND_THE_GRIM       = 49, // MONSTER_ID_MAGMA_DEMON
+    UNIQUE_MONSTER_ID_BARON_SLUDGE             = 50, // MONSTER_ID_MUD_MAN
+    UNIQUE_MONSTER_ID_BLIGHTHORN_STEELMACE     = 51, // MONSTER_ID_NIGHT_CLAN_MACE
+    UNIQUE_MONSTER_ID_CHAOSHOWLER              = 52, // MONSTER_ID_POISON_SPITTER
+    UNIQUE_MONSTER_ID_DOOMGRIN_THE_ROTTING     = 53, // MONSTER_ID_RED_DEATH
+    UNIQUE_MONSTER_ID_MADBURNER                = 54, // MONSTER_ID_FLAME_LORD
+    UNIQUE_MONSTER_ID_BONESAW_THE_LITCH        = 55, // MONSTER_ID_LITCH_DEMON
+    UNIQUE_MONSTER_ID_BREAKSPINE               = 56, // MONSTER_ID_MUD_RUNNER
+    UNIQUE_MONSTER_ID_DEVILSKULL_SHARPBONE     = 57, // MONSTER_ID_RED_DEATH
+    UNIQUE_MONSTER_ID_BROKENSTORM              = 58, // MONSTER_ID_RED_STORM
+    UNIQUE_MONSTER_ID_STORMBANE                = 59, // MONSTER_ID_STORM_RIDER
+    UNIQUE_MONSTER_ID_OOZEDROOL                = 60, // MONSTER_ID_TOAD_DEMON
+    UNIQUE_MONSTER_ID_GOLDBLIGHT_OF_THE_FLAME  = 61, // MONSTER_ID_BLOOD_CLAW
+    UNIQUE_MONSTER_ID_BLACKSTORM               = 62, // MONSTER_ID_OBSIDIAN_LORD
+    UNIQUE_MONSTER_ID_PLAGUEWRATH              = 63, // MONSTER_ID_POISON_SPITTER
+    UNIQUE_MONSTER_ID_THE_FLAYER               = 64, // MONSTER_ID_STORM_RIDER
+    UNIQUE_MONSTER_ID_BLUEHORN                 = 65, // MONSTER_ID_FROST_CHARGER
+    UNIQUE_MONSTER_ID_WARPFIRE_HELLSPAWN       = 66, // MONSTER_ID_HELL_BURNER
+    UNIQUE_MONSTER_ID_FANGSPEIR                = 67, // MONSTER_ID_CAVE_VIPER
+    UNIQUE_MONSTER_ID_FESTERSKULL              = 68, // MONSTER_ID_UNDEAD_BALROG
+    UNIQUE_MONSTER_ID_LIONSKULL_THE_BENT       = 69, // MONSTER_ID_BLACK_KNIGHT
+    UNIQUE_MONSTER_ID_BLACKTONGUE              = 70, // MONSTER_ID_COUNSELOR
+    UNIQUE_MONSTER_ID_VILETOUCH                = 71, // MONSTER_ID_DEATH_WING
+    UNIQUE_MONSTER_ID_VIPERFLAME               = 72, // MONSTER_ID_FIRE_DRAKE
+    UNIQUE_MONSTER_ID_FANGSKIN                 = 73, // MONSTER_ID_GOLD_VIPER
+    UNIQUE_MONSTER_ID_WITCHFIRE_THE_UNHOLY     = 74, // MONSTER_ID_SUCCUBUS
+    UNIQUE_MONSTER_ID_BLACKSKULL               = 75, // MONSTER_ID_BALROG
+    UNIQUE_MONSTER_ID_SOULSLASH                = 76, // MONSTER_ID_UNRAVELER
+    UNIQUE_MONSTER_ID_WINDSPAWN                = 77, // MONSTER_ID_VORTEX_LORD
+    UNIQUE_MONSTER_ID_LORD_OF_THE_PIT          = 78, // MONSTER_ID_AZURE_DRAKE
+    UNIQUE_MONSTER_ID_RUSTWEAVER               = 79, // MONSTER_ID_DOOM_GUARD
+    UNIQUE_MONSTER_ID_HOWLINGIRE_THE_SHADE     = 80, // MONSTER_ID_HOLLOW_ONE
+    UNIQUE_MONSTER_ID_DOOMCLOUD                = 81, // MONSTER_ID_MAELSTORM
+    UNIQUE_MONSTER_ID_BLOODMOON_SOULFIRE       = 82, // MONSTER_ID_PAIN_MASTER
+    UNIQUE_MONSTER_ID_WITCHMOON                = 83, // MONSTER_ID_SNOW_WITCH
+    UNIQUE_MONSTER_ID_GOREFEAST                = 84, // MONSTER_ID_VORTEX_LORD
+    UNIQUE_MONSTER_ID_GRAYWAR_THE_SLAYER       = 85, // MONSTER_ID_DOOM_GUARD
+    UNIQUE_MONSTER_ID_DREADJUDGE               = 86, // MONSTER_ID_MAGISTRATE
+    UNIQUE_MONSTER_ID_STAREYE_THE_WITCH        = 87, // MONSTER_ID_HELL_SPAWN
+    UNIQUE_MONSTER_ID_STEELSKULL_THE_HUNTER    = 88, // MONSTER_ID_STEEL_LORD
+    UNIQUE_MONSTER_ID_SIR_GORASH               = 89, // MONSTER_ID_BLOOD_KNIGHT
+    UNIQUE_MONSTER_ID_THE_VIZIER               = 90, // MONSTER_ID_CABALIST
+    UNIQUE_MONSTER_ID_ZAMPHIR                  = 91, // MONSTER_ID_REALITY_WEAVER
+    UNIQUE_MONSTER_ID_BLOODLUST                = 92, // MONSTER_ID_HELL_SPAWN
+    UNIQUE_MONSTER_ID_WEBWIDOW                 = 93, // MONSTER_ID_HELL_SPAWN
+    UNIQUE_MONSTER_ID_FLESHDANCER              = 94, // MONSTER_ID_SOUL_BURNER
+    UNIQUE_MONSTER_ID_GRIMSPIKE                = 95, // MONSTER_ID_OBSIDIAN_LORD
+    UNIQUE_MONSTER_ID_DOOMLOCK                 = 96, // MONSTER_ID_STORM_LORD
+    UNIQUE_MONSTER_ID_NULL                     = 97, // MONSTER_ID_NONE
+} unique_monster_id;
+```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/data/monsters.md#unique_monster_data
