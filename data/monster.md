@@ -1,5 +1,29 @@
 # monster.cpp
 
+## 0x497E08
+
+### monster_data
+
+```c
+// monster_data contains the data related to each monster ID.
+MonsterData monster_data[112];
+```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#monster_id
+
+## 0x49B6F8
+
+### unique_monster_data
+
+```c
+// unique_monster_data contains the data related to each unique monster ID.
+UniqueMonsterData unique_monster_data[98];
+```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#unique_monster_id
+
 ## 0x49C338
 
 ### str_49C338
