@@ -40,19 +40,19 @@ typedef struct {
 ## Shadow
 
 ```c
-// A Shadow contains the shadows for a 2x2 block of base square IDs.
+// A Shadow contains the shadows for a 2x2 block of base tile IDs.
 typedef struct {
-    // 2x2 block of base square IDs.
-    l1_square base_bottom;
-    l1_square base_top;
-    l1_square base_right;
-    l1_square base_left;
-    // replacement shadow square IDs.
-    l1_square shadow_top;
-    l1_square shadow_right;
-    l1_square shadow_left;
+    // 2x2 block of base tile IDs.
+    l1_tile_id base_bottom;
+    l1_tile_id base_top;
+    l1_tile_id base_right;
+    l1_tile_id base_left;
+    // replacement shadow tile IDs.
+    l1_tile_id shadow_top;
+    l1_tile_id shadow_right;
+    l1_tile_id shadow_left;
 } Shadow;
 ```
 
 References:
-* https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md
+* https://github.com/sanctuary/graphics/blob/master/l1/tiles/base.md
