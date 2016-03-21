@@ -1883,7 +1883,7 @@ typedef enum {
 ```
 
 References:
-* https://github.com/sanctuary/notes/blob/master/rdata/sound.md#speech_data
+* https://github.com/sanctuary/notes/blob/master/rdata/talk.md#speech_data
 
 ## spell_id
 
