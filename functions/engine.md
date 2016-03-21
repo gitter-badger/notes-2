@@ -69,23 +69,36 @@
 void __fastcall engine_set_seed(int32_t seed);
 ```
 
+References:
+* https://github.com/sanctuary/notes/blob/master/bss/engine.md#seed
+
 ## 0x41752C
 
 ### engine_rand
 
 ```c
-// engine_rand returns a pseudo-random integer in the range [0, 2^31).
+// engine_rand returns a pseudo-random integer in the range [0, 2^31), using
+// the Borland C/C++ pseudo-random number generator algorithm, with a
+// multiplier of 0x15A4E35 and an increment of 1.
 int32_t engine_rand();
 ```
+
+References:
+* https://en.wikipedia.org/wiki/Linear_congruential_generator#Parameters_in_common_use
 
 ## 0x41754B
 
 ### engine_rand_cap
 
 ```c
-// engine_rand_cap returns a capped pseudo-random integer in the range [0, max).
+// engine_rand_cap returns a capped pseudo-random integer in the range [0, max),
+// using the Borland C/C++ pseudo-random number generator algorithm, with a
+// multiplier of 0x15A4E35 and an increment of 1.
 int32_t __fastcall engine_rand_cap(int unused, int32_t max);
 ```
+
+References:
+* https://en.wikipedia.org/wiki/Linear_congruential_generator#Parameters_in_common_use
 
 ## 0x41756D
 
