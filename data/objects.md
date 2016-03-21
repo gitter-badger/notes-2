@@ -1,5 +1,17 @@
 # objects.cpp
 
+## 0x49F450
+
+### object_data
+
+```c
+// object_data contains the data related to each object ID.
+ObjectData object_data[99];
+```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#object_id
+
 ## 0x4A0634
 
 ### str_4A0634

@@ -48,7 +48,7 @@ Each global variable in the data section has been categorised based on their ori
 | _crt.cpp                        | `0x49F070`    | `0x49F08B`  | N/A                      |
 | [multi.cpp](multi.md)           | `0x49F08C`    | `0x49F203`  | 100% (376/376 bytes)     |
 | [nthread.cpp](nthread.md)       | `0x49F204`    | `0x49F287`  | 96% (128/132 bytes)      |
-| [objects.cpp](objects.md)       | `0x49F288`    | `0x4A0D07`  | 20% (1424/6784 bytes)    |
+| [objects.cpp](objects.md)       | `0x49F288`    | `0x4A0D07`  | 85% (5780/6784 bytes)    |
 | [palette.cpp](palette.md)       | `0x4A0D08`    | `0x4A0D6F`  | 88% (92/104 bytes)       |
 | [path.cpp](path.md)             | `0x4A0D70`    | `0x4A0D7B`  | 0% (0/12 bytes)          |
 | [pfile.cpp](pfile.md)           | `0x4A0D7C`    | `0x4A0EF7`  | 100% (380/380 bytes)     |
