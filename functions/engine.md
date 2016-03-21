@@ -62,9 +62,30 @@
 
 ## 0x417518
 
+### engine_set_seed
+
+```c
+// engine_set_seed sets the global seed to the given value.
+void __fastcall engine_set_seed(int32_t seed);
+```
+
 ## 0x41752C
 
+### engine_rand
+
+```c
+// engine_rand returns a pseudo-random integer in the range [0, 2^31).
+int32_t engine_rand();
+```
+
 ## 0x41754B
+
+### engine_rand_cap
+
+```c
+// engine_rand_cap returns a capped pseudo-random integer in the range [0, max).
+int32_t __fastcall engine_rand_cap(int unused, int32_t max);
+```
 
 ## 0x41756D
 
