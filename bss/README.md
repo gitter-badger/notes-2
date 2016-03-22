@@ -24,7 +24,7 @@ Each global variable in the uninitialized data section has been categorised base
 | [engine.cpp](engine.md)         | `0x52B968`    | `0x52B99F`  | 50% (28/56 bytes)            |
 | [error.cpp](error.md)           | `0x52B9A0`    | `0x52B9F3`  | 0% (0/84 bytes)              |
 | [exception.cpp](exception.md)   | `0x52B9F4`    | `0x52B9FF`  | 0% (0/12 bytes)              |
-| [gendung.cpp](gendung.md)       | `0x52BA00`    | `0x63445F`  | 4% (51776/1084000 bytes)     |
+| [gendung.cpp](gendung.md)       | `0x52BA00`    | `0x63445F`  | 15% (164679/1084000 bytes)   |
 | [gmenu.cpp](gmenu.md)           | `0x634460`    | `0x63448F`  | 0% (0/48 bytes)              |
 | [help.cpp](help.md)             | `0x634490`    | `0x634967`  | 0% (0/1240 bytes)            |
 | [init.cpp](init.md)             | `0x634968`    | `0x634CA7`  | 0% (8/832 bytes)             |
