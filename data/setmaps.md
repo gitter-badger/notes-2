@@ -1,5 +1,17 @@
 # setmaps.cpp
 
+## 0x4A210C
+
+### quest_level_names
+
+```c
+// quest_level_names maps from quest level to quest level names.
+char *quest_level_names[6];
+```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#quest_level
+
 ## 0x4A2124
 
 ### str_4A2124
