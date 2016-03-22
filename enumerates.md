@@ -745,6 +745,23 @@ typedef enum {
 References:
 * https://github.com/sanctuary/notes/blob/master/data/quests.md#quest_data
 
+## quest_level
+
+```c
+// Quest levels.
+typedef enum {
+    QUEST_LEVEL_NONE                    = 0,
+    QUEST_LEVEL_SKELETON_KINGS_LAIR     = 1,
+    QUEST_LEVEL_BONE_CHAMBER            = 2,
+    QUEST_LEVEL_MAZE                    = 3,
+    QUEST_LEVEL_POISONED_WATER_SUPPLY   = 4,
+    QUEST_LEVEL_ARCHBISHOP_LAZARUS_LAIR = 5,
+} quest_level;
+```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/data/setmaps.md#quest_level_names
+
 ## sfx_id
 
 ```c
