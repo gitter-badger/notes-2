@@ -1,5 +1,14 @@
 # dead.cpp
 
+## 0x4B8CD8
+
+### unused_4B8CD8
+
+```c
+// unused.
+int unused_4B8CD8;
+```
+
 ## 0x4B8CE0
 
 ### deads
