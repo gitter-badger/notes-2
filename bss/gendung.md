@@ -87,6 +87,17 @@ References:
 int8_t dlvl;
 ```
 
+## 0x5BDB0C
+
+### level_cel
+
+```c
+// level_cel points to the contents of the active tileset, which is one of
+// "levels/towndata/town.cel", "levels/l1data/l1.cel", "levels/l2data/l2.cel",
+// "levels/l3data/l3.cel" or "levels/l4data/l4.cel".
+void *level_cel;
+```
+
 ## 0x5BFEF8
 
 ### player_num_map

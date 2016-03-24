@@ -6,9 +6,9 @@ Each global variable in the uninitialized data section has been categorised base
 |---------------------------------|---------------|-------------|------------------------------|
 | _crt.cpp                        | `0x4B7930`    | `0x4B7933`  | N/A                          |
 | [appfat.cpp](appfat.md)         | `0x4B7934`    | `0x4B7A3F`  | 98% (264/268 bytes)          |
-| [automap.cpp](automap.md)       | `0x4B7A40`    | `0x4B84CB`  | 0% (4/2700 bytes)            |
-| [control.cpp](control.md)       | `0x4B84CC`    | `0x4B8C9B`  | 0% (0/2000 bytes)            |
-| [cursor.cpp](cursor.md)         | `0x4B8C9C`    | `0x4B8CD7`  | 0% (0/60 bytes)              |
+| [automap.cpp](automap.md)       | `0x4B7A40`    | `0x4B84CB`  | 59% (1604/2700 bytes)        |
+| [control.cpp](control.md)       | `0x4B84CC`    | `0x4B8C9B`  | 2% (56/2000 bytes)           |
+| [cursor.cpp](cursor.md)         | `0x4B8C9C`    | `0x4B8CD7`  | 6% (4/60 bytes)              |
 | [dead.cpp](dead.md)             | `0x4B8CD8`    | `0x4BD2FB`  | 8% (1488/17956 bytes)        |
 | [debug.cpp](debug.md)           | `0x4BD2FC`    | `0x525513`  | 0% (0/426520 bytes)          |
 | [diablo.cpp](diablo.md)         | `0x525514`    | `0x52574F`  | 0% (0/572 bytes)             |
@@ -24,7 +24,7 @@ Each global variable in the uninitialized data section has been categorised base
 | [engine.cpp](engine.md)         | `0x52B968`    | `0x52B99F`  | 50% (28/56 bytes)            |
 | [error.cpp](error.md)           | `0x52B9A0`    | `0x52B9F3`  | 0% (0/84 bytes)              |
 | [exception.cpp](exception.md)   | `0x52B9F4`    | `0x52B9FF`  | 0% (0/12 bytes)              |
-| [gendung.cpp](gendung.md)       | `0x52BA00`    | `0x63445F`  | 15% (164679/1084000 bytes)   |
+| [gendung.cpp](gendung.md)       | `0x52BA00`    | `0x63445F`  | 15% (164683/1084000 bytes)   |
 | [gmenu.cpp](gmenu.md)           | `0x634460`    | `0x63448F`  | 0% (0/48 bytes)              |
 | [help.cpp](help.md)             | `0x634490`    | `0x634967`  | 0% (0/1240 bytes)            |
 | [init.cpp](init.md)             | `0x634968`    | `0x634CA7`  | 0% (8/832 bytes)             |
@@ -52,7 +52,7 @@ Each global variable in the uninitialized data section has been categorised base
 | [player.cpp](player.md)         | `0x686430`    | `0x69B7CF`  | 99% (86880/86944 bytes)      |
 | [plrmsg.cpp](plrmsg.md)         | `0x69B7D0`    | `0x69BC97`  | 0% (0/1224 bytes)            |
 | [portal.cpp](portal.md)         | `0x69BC98`    | `0x69BCFF`  | 0% (0/104 bytes)             |
-| [quests.cpp](quests.md)         | `0x69BD00`    | `0x69BEF7`  | 76% (384/504 bytes)          |
+| [quests.cpp](quests.md)         | `0x69BD00`    | `0x69BEF7`  | 76% (388/504 bytes)          |
 | [scrollrt.cpp](scrollrt.md)     | `0x69BEF8`    | `0x69EFAF`  | 0% (0/12472 bytes)           |
 | [sha1.cpp](sha1.md)             | `0x69EFB0`    | `0x69F0C3`  | 0% (0/276 bytes)             |
 | [sound.cpp](sound.md)           | `0x69F0C4`    | `0x69F107`  | 0% (0/68 bytes)              |
