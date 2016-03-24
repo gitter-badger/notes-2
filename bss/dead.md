@@ -8,3 +8,12 @@
 // deads contains the dead monsters of the current game.
 Dead deads[31];
 ```
+
+## 0x4B92B0
+
+### dead_num
+
+```c
+// dead_num specifies the active dead number (deads array index).
+int dead_num;
+```
