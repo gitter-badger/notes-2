@@ -40,6 +40,13 @@
 
 ## 0x404616
 
+### control_load_graphics
+
+```c
+// control_load_graphics loads control panel graphics.
+void control_load_graphics();
+```
+
 ## 0x404934
 
 ## 0x404959
@@ -59,6 +66,13 @@
 ## 0x404FE4
 
 ## 0x405181
+
+### control_cleanup
+
+```c
+// control_cleanup releases the resources used by the control panel.
+void control_cleanup();
+```
 
 ## 0x405295
 

@@ -14,6 +14,13 @@
 
 ## 0x4153A0
 
+### dx_init
+
+```c
+// dx_init initializes the DirectX rendering system.
+void __fastcall dx_init(HWND hWnd);
+```
+
 ## 0x4154B5
 
 ## 0x4155C2

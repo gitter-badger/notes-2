@@ -6,21 +6,21 @@ Each function has been categorised based on their original source file, as summa
 |---------------------------------|---------------|-------------|--------------------------|
 | _crt.cpp                        | `0x401000`    | `0x401029`  | N/A                      |
 | [appfat.cpp](appfat.md)         | `0x40102A`    | `0x401DA3`  | 100% (19/19 functions)   |
-| [automap.cpp](automap.md)       | `0x401DA4`    | `0x40311A`  | 0% (0/16 functions)      |
+| [automap.cpp](automap.md)       | `0x401DA4`    | `0x40311A`  | 6% (1/16 functions)      |
 | [capture.cpp](capture.md)       | `0x40311B`    | `0x4034D8`  | 14% (1/7 functions)      |
 | [codec.cpp](codec.md)           | `0x4034D9`    | `0x4037D3`  | 100% (5/5 functions)     |
-| [control.cpp](control.md)       | `0x4037D4`    | `0x407409`  | 3% (2/65 functions)      |
-| [cursor.cpp](cursor.md)         | `0x40740A`    | `0x4084A5`  | 0% (0/9 functions)       |
+| [control.cpp](control.md)       | `0x4037D4`    | `0x407409`  | 6% (4/65 functions)      |
+| [cursor.cpp](cursor.md)         | `0x40740A`    | `0x4084A5`  | 22% (2/9 functions)      |
 | [dead.cpp](dead.md)             | `0x4084A6`    | `0x4086F3`  | 0% (0/3 functions)       |
 | [debug.cpp](debug.md)           | `0x4086F4`    | `0x4087B0`  | 0% (0/3 functions)       |
-| [diablo.cpp](diablo.md)         | `0x4087B1`    | `0x40ACAC`  | 5% (2/35 functions)      |
+| [diablo.cpp](diablo.md)         | `0x4087B1`    | `0x40ACAC`  | 8% (3/35 functions)      |
 | [doom.cpp](doom.md)             | `0x40ACAD`    | `0x40ADD5`  | 0% (0/7 functions)       |
 | [drlg_l1.cpp](drlg_l1.md)       | `0x40ADD6`    | `0x40D356`  | 0% (0/38 functions)      |
 | [drlg_l2.cpp](drlg_l2.md)       | `0x40D357`    | `0x40FF80`  | 0% (0/35 functions)      |
 | [drlg_l3.cpp](drlg_l3.md)       | `0x40FF81`    | `0x412654`  | 0% (0/34 functions)      |
 | [drlg_l4.cpp](drlg_l4.md)       | `0x412655`    | `0x415097`  | 0% (0/35 functions)      |
 | [dthread.cpp](dthread.md)       | `0x415098`    | `0x415361`  | 9% (1/11 functions)      |
-| [dx.cpp](dx.md)                 | `0x415362`    | `0x4158A8`  | 11% (2/17 functions)     |
+| [dx.cpp](dx.md)                 | `0x415362`    | `0x4158A8`  | 17% (3/17 functions)     |
 | [effects.cpp](effects.md)       | `0x4158A9`    | `0x415F42`  | 4% (1/21 functions)      |
 | [encrypt.cpp](encrypt.md)       | `0x415F43`    | `0x4161FB`  | 25% (2/8 functions)      |
 | [engine.cpp](engine.md)         | `0x4161FC`    | `0x41804D`  | 17% (10/57 functions)    |
@@ -31,9 +31,9 @@ Each function has been categorised based on their original source file, as summa
 | [gmenu.cpp](gmenu.md)           | `0x419E8B`    | `0x41A552`  | 0% (0/20 functions)      |
 | [help.cpp](help.md)             | `0x41A553`    | `0x41A7B2`  | 0% (0/6 functions)       |
 | [init.cpp](init.md)             | `0x41A7B3`    | `0x41B18F`  | 47% (9/19 functions)     |
-| [interfac.cpp](interfac.md)     | `0x41B190`    | `0x41B813`  | 0% (0/9 functions)       |
-| [inv.cpp](inv.md)               | `0x41B814`    | `0x41F095`  | 0% (0/40 functions)      |
-| [items.cpp](items.md)           | `0x41F096`    | `0x425442`  | 4% (5/110 functions)     |
+| [interfac.cpp](interfac.md)     | `0x41B190`    | `0x41B813`  | 11% (1/9 functions)      |
+| [inv.cpp](inv.md)               | `0x41B814`    | `0x41F095`  | 5% (2/40 functions)      |
+| [items.cpp](items.md)           | `0x41F096`    | `0x425442`  | 5% (6/110 functions)     |
 | [lighting.cpp](lighting.md)     | `0x425443`    | `0x426563`  | 0% (0/24 functions)      |
 | [loadsave.cpp](loadsave.md)     | `0x426564`    | `0x4279F1`  | 0% (0/32 functions)      |
 | [log.cpp](log.md)               | `0x4279F2`    | `0x427E0D`  | 0% (0/11 functions)      |

@@ -39,7 +39,7 @@
 ### effects_cleanup_sfx
 
 ```c
-// effects_cleanup_sfx terminates sound effects.
+// effects_cleanup_sfx terminates and releases sound effects.
 void effects_cleanup_sfx();
 ```
 

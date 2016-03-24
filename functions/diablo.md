@@ -71,6 +71,14 @@ void __fastcall diablo_reload_process(HMODULE hModule);
 
 ## 0x40A391
 
+### diablo_load_level_graphics
+
+```c
+// diablo_load_level_graphics loads the tile graphics of the active dungeon
+// type.
+void diablo_load_level_graphics();
+```
+
 ## 0x40A4B4
 
 ## 0x40A4E1

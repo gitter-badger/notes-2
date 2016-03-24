@@ -8,6 +8,14 @@
 
 ## 0x41B1DF
 
+### interfac_inc_progress
+
+```c
+// interfac_inc_progress increments the loading progress and draws the active
+// cut scene.
+bool32_t interfac_inc_progress();
+```
+
 ## 0x41B218
 
 ## 0x41B28D

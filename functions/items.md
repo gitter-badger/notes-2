@@ -2,6 +2,14 @@
 
 ## 0x41F096
 
+### items_load_drop_graphics
+
+```c
+// items_load_drop_graphics loads item drop graphics and initializes the
+// tracking of dropped unique items.
+void items_load_drop_graphics();
+```
+
 ## 0x41F0E8
 
 ## 0x41F13A

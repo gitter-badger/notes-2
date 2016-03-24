@@ -2,7 +2,21 @@
 
 ## 0x41B814
 
+### inv_cleanup
+
+```c
+// inv_cleanup releases the resources used by the inventory.
+void inv_cleanup();
+```
+
 ## 0x41B826
+
+### inv_load_graphics
+
+```c
+// inv_load_graphics loads the inventory graphics of the active player class.
+void inv_load_graphics();
+```
 
 ## 0x41B871
 

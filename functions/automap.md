@@ -2,6 +2,13 @@
 
 ## 0x401DA4
 
+### automap_init
+
+```c
+// automap_init initializes the automap.
+void automap_init();
+```
+
 ## 0x401DE8
 
 ## 0x401EF4

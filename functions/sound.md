@@ -29,11 +29,11 @@ void __fastcall sound_stop(bool32_t force_stop);
 
 ## 0x457060
 
-### sound_file_cleanup
+### sound_cleanup_file
 
 ```c
-// sound_file_cleanup terminates the given sound file.
-void __fastcall sound_file_cleanup(SoundFile *sound_file);
+// sound_cleanup_file terminates and releases the given sound file.
+void __fastcall sound_cleanup_file(SoundFile *sound_file);
 ```
 
 ## 0x45708B

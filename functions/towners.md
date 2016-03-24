@@ -16,12 +16,11 @@ References:
 
 ## 0x4601C1
 
-### towners_init_facing_cels
+### towners_init_graphics
 
 ```c
-// towners_init_facing_cels initializes the CEL graphics for each facing
-// direction.
-void __fastcall towners_init_facing_cels(void *towner_cel, void **facing_cels);
+// towners_init_graphics initializes the NPC graphics for each facing direction.
+void __fastcall towners_init_graphics(void *towner_cel, void **facing_cels);
 ```
 
 ## 0x4601FB
