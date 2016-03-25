@@ -5,7 +5,7 @@
 ### unused_4B8CD8
 
 ```c
-// unused.
+// NOTE: unused.
 int unused_4B8CD8;
 ```
 

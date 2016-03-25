@@ -46,7 +46,7 @@ int ncow_clicks;
 ### unused_6AAC28
 
 ```c
-// unused.
+// NOTE: unused.
 int unused_6AAC28;
 ```
 
