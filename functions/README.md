@@ -12,7 +12,7 @@ Each function has been categorised based on their original source file, as summa
 | [control.cpp](control.md)       | `0x4037D4`    | `0x407409`  | 6% (4/65 functions)      |
 | [cursor.cpp](cursor.md)         | `0x40740A`    | `0x4084A5`  | 22% (2/9 functions)      |
 | [dead.cpp](dead.md)             | `0x4084A6`    | `0x4086F3`  | 0% (0/3 functions)       |
-| [debug.cpp](debug.md)           | `0x4086F4`    | `0x4087B0`  | 0% (0/3 functions)       |
+| [debug.cpp](debug.md)           | `0x4086F4`    | `0x4087B0`  | 66% (2/3 functions)      |
 | [diablo.cpp](diablo.md)         | `0x4087B1`    | `0x40ACAC`  | 8% (3/35 functions)      |
 | [doom.cpp](doom.md)             | `0x40ACAD`    | `0x40ADD5`  | 0% (0/7 functions)       |
 | [drlg_l1.cpp](drlg_l1.md)       | `0x40ADD6`    | `0x40D356`  | 0% (0/38 functions)      |
