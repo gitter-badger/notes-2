@@ -38,10 +38,10 @@ typedef enum {
 } dtype;
 ```
 
-## facing
+## direction
 
 ```c
-// Facing directions.
+// Directions.
 //
 // # Map layout
 //
@@ -60,7 +60,7 @@ typedef enum {
 //                         \_/
 //                   (col=95 row=95)
 //
-// # Step based on facing
+// # Step based on direction
 //
 //    * South      (col+1, row+1)
 //    * South west (col,   row+1)
@@ -71,16 +71,16 @@ typedef enum {
 //    * East       (col+1, row-1)
 //    * South east (col+1, row)
 typedef enum {
-    FACING_SOUTH      = 0,
-    FACING_SOUTH_WEST = 1,
-    FACING_WEST       = 2,
-    FACING_NORTH_WEST = 3,
-    FACING_NORTH      = 4,
-    FACING_NORTH_EAST = 5,
-    FACING_EAST       = 6,
-    FACING_SOUTH_EAST = 7,
-    FACING_OMNI       = 8, // Facing all directions.
-} facing;
+    DIRECTION_SOUTH      = 0,
+    DIRECTION_SOUTH_WEST = 1,
+    DIRECTION_WEST       = 2,
+    DIRECTION_NORTH_WEST = 3,
+    DIRECTION_NORTH      = 4,
+    DIRECTION_NORTH_EAST = 5,
+    DIRECTION_EAST       = 6,
+    DIRECTION_SOUTH_EAST = 7,
+    DIRECTION_OMNI       = 8, // All directions.
+} direction;
 ```
 
 ## item_id
