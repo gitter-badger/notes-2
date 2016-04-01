@@ -12,12 +12,13 @@ int8_t smaltext_frame_from_font_index[127];
 
 ## 0x4794A4
 
-### smaltext_frame_width_from_frame
+### smaltext_character_width_from_frame
 
 ```c
-// smaltext_frame_width_from_frame maps from smaltext.cel frame number to frame
-// width.
-int8_t smaltext_frame_width_from_frame[68];
+// smaltext_character_width_from_frame maps from smaltext.cel frame number to
+// character width. Note, the character width may be distinct from the frame
+// width, which is 13 for every smaltext.cel frame.
+int8_t smaltext_character_width_from_frame[68];
 ```
 
 ## 0x4794E8
