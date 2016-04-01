@@ -22,7 +22,21 @@ void inv_load_graphics();
 
 ## 0x41B8C4
 
+### inv_draw_inventory
+
+```c
+// inv_draw_inventory renders the inventory on screen.
+void inv_draw_inventory();
+```
+
 ## 0x41C060
+
+### inv_draw_belt
+
+```c
+// inv_draw_belt renders the belt on screen.
+void inv_draw_belt();
+```
 
 ## 0x41C23F
 

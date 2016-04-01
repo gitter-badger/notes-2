@@ -334,6 +334,13 @@ void stores_talk_farnham();
 
 ## 0x45A48F
 
+### stores_draw
+
+```c
+// stores_draw renders a store owner dialogue on screen.
+void stores_draw();
+```
+
 ## 0x45A584
 
 ## 0x45A6AF

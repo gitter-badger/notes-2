@@ -13,3 +13,10 @@
 ## 0x40AD5E
 
 ## 0x40AD74
+
+### doom_draw
+
+```c
+// doom_draw renders a map of the stars on screen.
+void doom_draw();
+```

@@ -14,4 +14,11 @@
 
 ## 0x450EAA
 
+### plrmsg_draw
+
+```c
+// plrmsg_draw renders player messages on screen.
+void plrmsg_draw();
+```
+
 ## 0x450F37

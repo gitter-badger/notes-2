@@ -38,6 +38,13 @@
 
 ## 0x4525CD
 
+### quests_draw_quest_log
+
+```c
+// quests_draw renders the quest log on screen.
+void quests_draw_quest_log();
+```
+
 ## 0x452659
 
 ## 0x4526C9

@@ -27,6 +27,13 @@ void automap_init();
 
 ## 0x401FBD
 
+### automap_draw
+
+```c
+// automap_draw renders the automap on screen.
+void automap_draw();
+```
+
 ## 0x402233
 
 ## 0x4029A8

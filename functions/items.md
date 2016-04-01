@@ -196,6 +196,13 @@ References:
 
 ## 0x4236A6
 
+### items_draw_unique_item_box
+
+```c
+// items_draw_unique_item_box renders the unique item box on screen.
+void items_draw_unique_item_box();
+```
+
 ## 0x4237DC
 
 ## 0x4238D4

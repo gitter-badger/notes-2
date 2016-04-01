@@ -11,3 +11,10 @@
 ## 0x428160
 
 ## 0x428202
+
+### minitext_draw
+
+```c
+// minitext_draw renders a medium sized text message on screen.
+void minitext_draw();
+```

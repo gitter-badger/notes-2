@@ -18,7 +18,21 @@
 
 ## 0x453160
 
+### scrollrt_draw
+
+```c
+// scrollrt_draw renders the UI and the game world in dungeons on screen.
+void __fastcall scrollrt_draw(int col, int row);
+```
+
 ## 0x453272
+
+### scrollrt_draw_game
+
+```c
+// scrollrt_draw_game renders the game world in dungeons on screen.
+void __fastcall scrollrt_draw_game(int col, int row);
+```
 
 ## 0x453477
 
@@ -47,6 +61,14 @@
 ## 0x455A7D
 
 ## 0x455BD4
+
+### scrollrt_draw_zoomed_game
+
+```c
+// scrollrt_draw_zoomed_game renders a zoomed-in version of the game world in
+// dungeons on screen.
+void __fastcall scrollrt_draw_zoomed_game(int col, int row);
+```
 
 ## 0x455E32
 

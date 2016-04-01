@@ -73,7 +73,8 @@ void appfat_cleanup();
 ### appfat_draw_message_box
 
 ```c
-// appfat_draw_message_box draws an in-game message box with the given text.
+// appfat_draw_message_box renders an in-game message box with the given text
+// on screen.
 void appfat_draw_message_box(char *format, ...);
 ```
 

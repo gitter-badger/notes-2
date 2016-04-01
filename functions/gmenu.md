@@ -2,6 +2,13 @@
 
 ## 0x419E8B
 
+### gmenu_draw_pause
+
+```c
+// gmenu_draw_pause renders the pause menu on screen.
+void gmenu_draw_pause();
+```
+
 ## 0x419EBE
 
 ## 0x419F17
@@ -15,6 +22,13 @@
 ## 0x41A04E
 
 ## 0x41A0B6
+
+### gmenu_draw
+
+```c
+// gmenu_draw renders the game menu on screen.
+void gmenu_draw();
+```
 
 ## 0x41A145
 
