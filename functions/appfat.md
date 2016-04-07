@@ -30,7 +30,7 @@ void __fastcall appfat_get_DD_error_string(uint32_t error_code, char *error_buf,
 void __fastcall appfat_get_DS_error_string(uint32_t error_code, char *error_buf, int error_buf_len);
 ```
 
-## 0x40CEAA
+## 0x40193A
 
 ### appfat_get_last_error
 
