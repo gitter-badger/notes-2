@@ -111,6 +111,18 @@ int8_t player_num_map[112][112];
 References:
 * https://github.com/sanctuary/notes/blob/master/bss/player.md#players
 
+## 0x5C3008
+
+### arch_num_map
+
+```c
+// arch_num_map contains the arch frame numbers of the map from the special
+// tileset (e.g. "levels/l1data/l1s.cel"). Note, the special tileset of
+// Tristram (i.e. "levels/towndata/towns.cel") contains trees rather than
+// arches.
+int8_t arch_num_map[112][112];
+```
+
 ## 0x5C9A10
 
 ### item_num_map
