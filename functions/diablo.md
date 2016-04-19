@@ -27,6 +27,13 @@ void diablo_cleanup_level();
 
 ## 0x408CB1
 
+### diablo_parse_flags
+
+```c
+// diablo_parse_flags parses command-line flags from the given command line arguments.
+void __fastcall diablo_parse_flags(char *args);
+```
+
 ## 0x408D61
 
 ## 0x408DB1

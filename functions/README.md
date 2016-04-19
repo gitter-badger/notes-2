@@ -13,7 +13,7 @@ Each function has been categorised based on their original source file, as summa
 | [cursor.cpp](cursor.md)         | `0x40740A`    | `0x4084A5`  | 22% (2/9 functions)      |
 | [dead.cpp](dead.md)             | `0x4084A6`    | `0x4086F3`  | 0% (0/3 functions)       |
 | [debug.cpp](debug.md)           | `0x4086F4`    | `0x4087B0`  | 66% (2/3 functions)      |
-| [diablo.cpp](diablo.md)         | `0x4087B1`    | `0x40ACAC`  | 8% (3/35 functions)      |
+| [diablo.cpp](diablo.md)         | `0x4087B1`    | `0x40ACAC`  | 11% (4/35 functions)     |
 | [doom.cpp](doom.md)             | `0x40ACAD`    | `0x40ADD5`  | 14% (1/7 functions)      |
 | [drlg_l1.cpp](drlg_l1.md)       | `0x40ADD6`    | `0x40D356`  | 0% (0/38 functions)      |
 | [drlg_l2.cpp](drlg_l2.md)       | `0x40D357`    | `0x40FF80`  | 0% (0/35 functions)      |
@@ -35,7 +35,7 @@ Each function has been categorised based on their original source file, as summa
 | [inv.cpp](inv.md)               | `0x41B814`    | `0x41F095`  | 10% (4/40 functions)     |
 | [items.cpp](items.md)           | `0x41F096`    | `0x425442`  | 6% (7/110 functions)     |
 | [lighting.cpp](lighting.md)     | `0x425443`    | `0x426563`  | 0% (0/24 functions)      |
-| [loadsave.cpp](loadsave.md)     | `0x426564`    | `0x4279F1`  | 0% (0/32 functions)      |
+| [loadsave.cpp](loadsave.md)     | `0x426564`    | `0x4279F1`  | 31% (10/32 functions)    |
 | [log.cpp](log.md)               | `0x4279F2`    | `0x427E0D`  | 0% (0/11 functions)      |
 | [mainmenu.cpp](mainmenu.md)     | `0x427E0E`    | `0x428055`  | 0% (0/10 functions)      |
 | [minitext.cpp](minitext.md)     | `0x428056`    | `0x4283BF`  | 16% (1/6 functions)      |
