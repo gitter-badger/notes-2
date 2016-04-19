@@ -19,8 +19,8 @@ References:
 ### towners_init_graphics
 
 ```c
-// towners_init_graphics initializes the NPC graphics for each facing direction.
-void __fastcall towners_init_graphics(void *towner_cel, void **facing_cels);
+// towners_init_graphics initializes the NPC graphics for each direction.
+void __fastcall towners_init_graphics(void *towner_cel, void **cel_from_direction);
 ```
 
 ## 0x4601FB

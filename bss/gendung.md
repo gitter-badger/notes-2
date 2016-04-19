@@ -45,17 +45,17 @@ References:
 ### dead_map
 
 ```c
-// dead_map contains the dead numbers (deads array indices) and dead facing
-// direction of the map, encoded as specified by the pseudo-code below.
+// dead_map contains the dead numbers (deads array indices) and dead direction
+// of the map, encoded as specified by the pseudo-code below.
 //
-//    dead_num = dead_map[col][row]&0x1F
-//    facing   = dead_map[col][row]>>5
+//    dead_num  = dead_map[col][row]&0x1F
+//    direction = dead_map[col][row]>>5
 int8_t dead_map[112][112];
 ```
 
 References:
 * https://github.com/sanctuary/notes/blob/master/bss/dead.md#deads
-* https://github.com/sanctuary/notes/blob/master/enumerates.md#facing
+* https://github.com/sanctuary/notes/blob/master/enumerates.md#direction
 
 ## 0x5A5BD8
 

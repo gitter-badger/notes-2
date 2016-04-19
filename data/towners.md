@@ -32,34 +32,33 @@ int cow_start_row[3];
 
 ## 0x4B2AB4
 
-### cow_start_facing
+### cow_start_direction
 
 ```c
-// cow_start_facing specifies the start facing directions of the cows in
-// Tristram.
-facing cow_start_facing[3];
+// cow_start_direction specifies the start directions of the cows in Tristram.
+direction cow_start_direction[3];
 ```
 
 ## 0x4B2AC0
 
-### cow_col_delta_from_facing
+### cow_col_delta_from_direction
 
 ```c
-// cow_col_delta_from_facing maps from facing direction to column delta, which
-// is used when placing cows in Tristram. A single cow may require space of up
-// to three tiles when being placed on the map.
-int cow_col_delta_from_facing[8];
+// cow_col_delta_from_direction maps from direction to column delta, which is
+// used when placing cows in Tristram. A single cow may require space of up to
+// three tiles when being placed on the map.
+int cow_col_delta_from_direction[8];
 ```
 
 ## 0x4B2AE0
 
-### cow_row_delta_from_facing
+### cow_row_delta_from_direction
 
 ```c
-// cow_row_delta_from_facing maps from facing direction to row delta, which is
-// used when placing cows in Tristram. A single cow may require space of up to
-// three tiles when being placed on the map.
-int cow_row_delta_from_facing[8];
+// cow_row_delta_from_direction maps from direction to row delta, which is used
+// when placing cows in Tristram. A single cow may require space of up to three
+// tiles when being placed on the map.
+int cow_row_delta_from_direction[8];
 ```
 
 ## 0x4B2B00
