@@ -65,8 +65,8 @@
 ### engine_set_seed
 
 ```c
-// engine_set_seed sets the global seed to the given value.
-void __fastcall engine_set_seed(int32_t seed);
+// engine_set_seed sets the global seed to x.
+void __fastcall engine_set_seed(int32_t x);
 ```
 
 References:
@@ -77,9 +77,9 @@ References:
 ### engine_rand
 
 ```c
-// engine_rand returns a pseudo-random integer in the range [0, 2^31), using
-// the Borland C/C++ pseudo-random number generator algorithm, with a
-// multiplier of 0x15A4E35 and an increment of 1.
+// engine_rand returns a non-negative pseudo-random integer in [0, 2^31), using
+// the Borland C/C++ pseudo-random number generator algorithm with a multiplier
+// of 0x15A4E35 and an increment of 1.
 int32_t engine_rand();
 ```
 
@@ -91,9 +91,9 @@ References:
 ### engine_rand_cap
 
 ```c
-// engine_rand_cap returns a capped pseudo-random integer in the range [0, max),
-// using the Borland C/C++ pseudo-random number generator algorithm, with a
-// multiplier of 0x15A4E35 and an increment of 1.
+// engine_rand_cap returns a capped non-negative pseudo-random integer in
+// [0, max), using the Borland C/C++ pseudo-random number generator algorithm
+// with a multiplier of 0x15A4E35 and an increment of 1.
 int32_t __fastcall engine_rand_cap(int unused, int32_t max);
 ```
 
