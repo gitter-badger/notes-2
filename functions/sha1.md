@@ -5,7 +5,7 @@
 ### sha1_reset
 
 ```c
-// sha1_reset resets the SHA-1 digest.
+// sha1_reset resets the global SHA-1 contexts.
 void sha1_reset();
 ```
 

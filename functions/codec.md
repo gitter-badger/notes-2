@@ -15,7 +15,7 @@ int __fastcall codec_decode(void *src_dst, int size, char *password);
 ### j_sha1_reset
 
 ```c
-// j_sha1_reset resets the SHA-1 digest.
+// j_sha1_reset resets the global SHA-1 contexts.
 void j_sha1_reset();
 ```
 

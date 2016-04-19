@@ -54,7 +54,7 @@ Each global variable in the uninitialized data section has been categorised base
 | [portal.cpp](portal.md)         | `0x69BC98`    | `0x69BCFF`  | 0% (0/104 bytes)             |
 | [quests.cpp](quests.md)         | `0x69BD00`    | `0x69BEF7`  | 76% (388/504 bytes)          |
 | [scrollrt.cpp](scrollrt.md)     | `0x69BEF8`    | `0x69EFAF`  | 0% (0/12472 bytes)           |
-| [sha1.cpp](sha1.md)             | `0x69EFB0`    | `0x69F0C3`  | 0% (0/276 bytes)             |
+| [sha1.cpp](sha1.md)             | `0x69EFB0`    | `0x69F0C3`  | 100% (276/276 bytes)         |
 | [sound.cpp](sound.md)           | `0x69F0C4`    | `0x69F107`  | 0% (0/68 bytes)              |
 | [stores.cpp](stores.md)         | `0x69F108`    | `0x6AA707`  | 91% (42696/46592 bytes)      |
 | [sync.cpp](sync.md)             | `0x6AA708`    | `0x6AAA37`  | 0% (0/816 bytes)             |
