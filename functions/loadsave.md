@@ -103,7 +103,8 @@ References:
 ### loadsave_load_griswold_premium_item
 
 ```c
-// loadsave_load_griswold_premium_item loads the next Griswold premium item from the active save.
+// loadsave_load_griswold_premium_item loads the next Griswold premium item
+// from the active save.
 void __fastcall loadsave_load_griswold_premium_item(int griswold_premium_item_num);
 ```
 
@@ -111,6 +112,17 @@ References:
 * https://github.com/sanctuary/notes/blob/master/structures.md#item
 
 ## 0x426C89
+
+### loadsave_load_quest
+
+```c
+// loadsave_load_quest loads the next quest, quest start coordinates, quest
+// dlvl, quest dtype, and quest doom timer from the active save.
+void __fastcall loadsave_load_quest(int quest_num);
+```
+
+References:
+* https://github.com/sanctuary/notes/blob/master/structures.md#quest
 
 ## 0x426CDE
 

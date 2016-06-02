@@ -35,7 +35,7 @@ Each function has been categorised based on their original source file, as summa
 | [inv.cpp](inv.md)               | `0x41B814`    | `0x41F095`  | 10% (4/40 functions)     |
 | [items.cpp](items.md)           | `0x41F096`    | `0x425442`  | 6% (7/110 functions)     |
 | [lighting.cpp](lighting.md)     | `0x425443`    | `0x426563`  | 0% (0/24 functions)      |
-| [loadsave.cpp](loadsave.md)     | `0x426564`    | `0x4279F1`  | 31% (10/32 functions)    |
+| [loadsave.cpp](loadsave.md)     | `0x426564`    | `0x4279F1`  | 34% (11/32 functions)    |
 | [log.cpp](log.md)               | `0x4279F2`    | `0x427E0D`  | 0% (0/11 functions)      |
 | [mainmenu.cpp](mainmenu.md)     | `0x427E0E`    | `0x428055`  | 0% (0/10 functions)      |
 | [minitext.cpp](minitext.md)     | `0x428056`    | `0x4283BF`  | 16% (1/6 functions)      |
