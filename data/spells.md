@@ -1,4 +1,4 @@
-# spell.cpp
+# spells.cpp
 
 ## 0x4A23C8
 

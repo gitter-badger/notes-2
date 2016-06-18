@@ -1949,7 +1949,7 @@ typedef enum {
 ```
 
 References:
-* https://github.com/sanctuary/notes/blob/master/data/spell.md#spell_data
+* https://github.com/sanctuary/notes/blob/master/data/spells.md#spell_data
 
 ## spell_type
 

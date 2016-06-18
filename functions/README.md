@@ -61,7 +61,7 @@ Each function has been categorised based on their original source file, as summa
 | [setmaps.cpp](setmaps.md)       | `0x456625`    | `0x456A15`  | 0% (0/6 functions)       |
 | [sha1.cpp](sha1.md)             | `0x456A16`    | `0x456CBA`  | 100% (6/6 functions)     |
 | [sound.cpp](sound.md)           | `0x456CBB`    | `0x45744D`  | 18% (4/22 functions)     |
-| [spell.cpp](spell.md)           | `0x45744E`    | `0x457A00`  | 0% (0/7 functions)       |
+| [spells.cpp](spells.md)         | `0x45744E`    | `0x457A00`  | 0% (0/7 functions)       |
 | [stores.cpp](stores.md)         | `0x457A01`    | `0x45C198`  | 32% (31/95 functions)    |
 | [sync.cpp](sync.md)             | `0x45C199`    | `0x45C86F`  | 0% (0/9 functions)       |
 | [themes.cpp](themes.md)         | `0x45C870`    | `0x45E08B`  | 0% (0/31 functions)      |
@@ -77,11 +77,13 @@ Each function has been categorised based on their original source file, as summa
 
 ## Notes
 
-The mapping between source file names and address ranges has been inferred by cross-referencing information from the v1.09b release of Diablo 1 against the [debug release](http://diablo1.se/notes/debug.html). A majority of the original source file names (55/67) were discovered from [assert strings](http://diablo1.se/notes/debug.html#Assert Strings) in the debug release. The remaining 12 source file names have been inferred by categorising the behaviour of their respective functions, and by exploiting the fact that the source files have been linked together in alphabetical order.
+The mapping between source file names and address ranges has been inferred by cross-referencing information from the v1.09b release of Diablo 1 against the [debug release](http://diablo1.se/notes/debug.html) and the [Japanese Playstation 1 release](https://github.com/sanctuary/notes/issues/1) of Diablo 1. A majority of the original source file names (55/67) were discovered from [assert strings](http://diablo1.se/notes/debug.html#Assert Strings) in the debug release, while some (1/67) were discovered from section names in the Japanese Playstation 1 release of Diablo 1. The remaining 11 source file names have been inferred by categorising the behaviour of their respective functions, and by exploiting the fact that the source files have been linked together in alphabetical order.
 
 The following source file names are known to be correct based on assert strings in the debug release: `appfat.cpp`, `automap.cpp`, `capture.cpp`, `codec.cpp`, `control.cpp`, `cursor.cpp`, `dead.cpp`, `debug.cpp`, `diablo.cpp`, `doom.cpp`, `drlg_l1.cpp`, `drlg_l2.cpp`, `drlg_l3.cpp`, `drlg_l4.cpp`, `dthread.cpp`, `dx.cpp`, `effects.cpp`, `encrypt.cpp`, `engine.cpp`, `error.cpp`, `gamemenu.cpp`, `gendung.cpp`, `gmenu.cpp`, `init.cpp`, `interfac.cpp`, `inv.cpp`, `items.cpp`, `lighting.cpp`, `loadsave.cpp`, `minitext.cpp`, `missiles.cpp`, `monster.cpp`, `movie.cpp`, `mpqapi.cpp`, `msg.cpp`, `multi.cpp`, `nthread.cpp`, `objects.cpp`, `palette.cpp`, `pfile.cpp`, `player.cpp`, `plrmsg.cpp`, `portal.cpp`, `quests.cpp`, `scrollrt.cpp`, `setmaps.cpp`, `sound.cpp`, `stores.cpp`, `sync.cpp`, `themes.cpp`, `tmsg.cpp`, `town.cpp`, `towners.cpp`, `trigs.cpp` and `wave.cpp`.
 
-The following source file names are believed to be correct based on educated guesses: `exception.cpp`, `help.cpp`, `log.cpp`, `mainmenu.cpp`, `hero.cpp`, `path.cpp`, `sha1.cpp` and `spell.cpp`.
+The following source file names are known to be correct based on section names in the Japanese Playstation 1 release: `spells.cpp`.
+
+The following source file names are believed to be correct based on educated guesses: `exception.cpp`, `help.cpp`, `log.cpp`, `mainmenu.cpp`, `hero.cpp`, `path.cpp` and `sha1.cpp`.
 
 The following source file names are most likely incorrect, but they are the result of best efforts attempts at identifying source file names which describe the behaviour of their respective functions while satisfying to the alphabetic linking order constraint: `msgcmd.cpp`, `restricted.cpp`, `track.cpp` and `world.cpp`. *Any suggestions and ideas to further improve these names would be hugely appreciated!*
 

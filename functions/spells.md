@@ -1,4 +1,4 @@
-# spell.cpp
+# spells.cpp
 
 ## 0x45744E
 
