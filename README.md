@@ -1,5 +1,7 @@
 # Notes
 
+[![Join the chat at https://gitter.im/sanctuary/notes](https://badges.gitter.im/sanctuary/notes.svg)](https://gitter.im/sanctuary/notes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The aim of this project is to organize and cross-reference a collection of notes related to the inner workings of the Diablo 1 game engine. The initial work has focused on creating a foundation and high-level structure (think documentation skeleton) for organizing these notes. A few function declarations and global variable declarations have already been documented, but mainly to provide a reference for how the structure of the documentation may look like. Future work will focus on documenting the remaining relevant function declarations, global variable declarations, structure definitions and enumerate definitions of the Diablo 1 game engine.
 
 The notes are currently organized into the following categories.
